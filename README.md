@@ -23,6 +23,15 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Pranavsanthoshnair&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
+### 🐍 Watch my contribution graph
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Pranavsanthoshnair/Pranavsanthoshnair/blob/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Pranavsanthoshnair/Pranavsanthoshnair/blob/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution snake" src="https://github.com/Pranavsanthoshnair/Pranavsanthoshnair/blob/output/github-contribution-grid-snake.svg" />
+</picture>
+
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
