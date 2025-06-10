@@ -70,4 +70,23 @@
 <hr/>
 
 <br/>
+🗿 Mottos I Code By 
+
+> "A lesson without pain is meaningless. That’s because you can’t gain something without sacrificing something else."  
+> — Edward Elric, *Fullmetal Alchemist: Brotherhood*
+
+> "Power comes in response to a need, not a desire."  
+> — Goku, *Dragon Ball Z*
+
+> "A person grows up when he's able to overcome hardships. Protection is important, but there are some things a person must learn on his own."  
+> — Jiraiya, *Naruto*
+
+> "The world isn’t perfect. But it’s there for us, doing the best it can... that’s what makes it so damn beautiful."  
+> — Roy Mustang, *FMA: Brotherhood*
+
+> "Forgetting is like a wound. The wound may heal, but it has already left a scar."  
+> — Monkey D. Luffy, *One Piece*
+
+> "A lesson learned the hard way is the most unforgettable."  
+> — Killua Zoldyck, *Hunter x Hunter*
 
