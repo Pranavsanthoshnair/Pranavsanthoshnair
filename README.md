@@ -7,7 +7,7 @@
 <br/>
 
 # 💫 About Me:
- 🧑‍💻 Quick Dev Scan<br><br>🛠️ I’m currently working on  <br>🚀`Contrit` — A platform where developers can showcase their projects, connect with others, and collaborate effortlessly. 🤝🌐<br><br>🤝 I’m looking to collaborate on  <br>Mini projects that teach big things — even a “To-Do List” can become a dungeon boss.<br><br>🆘 I’m looking for help with  <br>Optimizing code like it's a final boss fight — especially in Java and C DSA.<br><br>🌱 I’m currently learning  <br>React ⚛️, Tailwind CSS, and how to not break things while using Git 😅<br><br>💬 Ask me about  <br>How I mix anime logic with real-world debugging... or just ask me about Bleach.<br><br>⚡ Fun fact  <br>My commit streaks look like *training arcs* — some are filler episodes, some are Ultra Instinct moments.<br>
+ 🧑‍💻 Quick Dev Scan<br><br>🛠️ I’m currently working on  <br>`Contrit` — A platform where developers can showcase their projects, connect with others, and collaborate effortlessly. 🤝🌐<br><br>🤝 I’m looking to collaborate on  <br>Mini projects that teach big things — even a “To-Do List” can become a dungeon boss.<br><br>🆘 I’m looking for help with  <br>Optimizing code like it's a final boss fight — especially in Java and C DSA.<br><br>🌱 I’m currently learning  <br>React ⚛️, Tailwind CSS, and how to not break things while using Git 😅<br><br>💬 Ask me about  <br>How I mix anime logic with real-world debugging... or just ask me about Bleach.<br><br>⚡ Fun fact  <br>My commit streaks look like *training arcs* — some are filler episodes, some are Ultra Instinct moments.<br>
 
 
 ## 🌐 Socials:
