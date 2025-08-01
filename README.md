@@ -1,7 +1,10 @@
-<div align="center" style="display: flex; justify-content: space-between; align-items: center;">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&duration=4000&lines=Hi+There!+👋;+I'm+Pranav+S+Nair!;" />
-  <img src="https://komarev.com/ghpvc/?username=Pranavsanthoshnair&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</div>
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=Pranavsanthoshnair&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Pranav+S+Nair!;" />
+</h1>
 
 <h2 align="center">A passionate web developer from India 🌐🇮🇳</h2>
 
