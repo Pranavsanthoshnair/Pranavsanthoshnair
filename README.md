@@ -1,7 +1,7 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Pranav+S+Nair!;" />
 </h1>
-![](https://komarev.com/ghpvc/?username=your-github-username&color=blue)
+![](https://komarev.com/ghpvc/?username=Pranavsanthoshnair&color=blue)
 <h2 align="center">A passionate web developer from India 🌐🇮🇳</h2>
 
 <br/>
@@ -9,6 +9,7 @@
 # 💫 About Me:
  🧑‍💻 Quick Dev Scan<br><br>🛠️ I’m currently working on  <br>`Contrit` — A platform where developers can showcase their projects, connect with others, and collaborate effortlessly. 🤝🌐<br><br>🤝 I’m looking to collaborate on  <br>Mini projects that teach big things — even a “To-Do List” can become a dungeon boss.<br><br>🆘 I’m looking for help with  <br>Optimizing code like it's a final boss fight — especially in Java and C DSA.<br><br>🌱 I’m currently learning  <br>React ⚛️, Tailwind CSS, and how to not break things while using Git 😅<br><br>💬 Ask me about  <br>How I mix anime logic with real-world debugging... or just ask me about Bleach.<br><br>⚡ Fun fact  <br>My commit streaks look like *training arcs* — some are filler episodes, some are Ultra Instinct moments.<br>
 
+![](https://komarev.com/ghpvc/?username=Pranavsanthoshnair&color=blue)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pranav_santhosh_nair) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pranav-s-nair-97290b1ba) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pranavsanthoshnair@gmail.com) 
