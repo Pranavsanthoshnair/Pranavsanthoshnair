@@ -20,7 +20,7 @@
 Mini projects that teach big things — even a *To-Do List* can become a dungeon boss 🗡️
 
 🆘 **Looking for help with**  
-Optimizing code like it's a final boss fight — especially in **Java & C (DSA)**
+Optimizing code like it's a final boss fight — especially in **Java & C++ (DSA)**
 
 🌱 **Currently learning**  
 React ⚛️, Tailwind CSS, and how to not break things while using Git 😅
