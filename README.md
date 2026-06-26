@@ -37,8 +37,7 @@
 
 <img src="./assets/divider-wave.svg" width="100%" alt="" />
 
-<h2 align="center">Featured Projects</h2>
-<p align="center"><sub>Selected work — shipped, live, and built with product intent.</sub></p>
+<img src="./assets/section-featured-projects.svg" alt="Featured Projects" width="100%" /><p align="center"><sub>Selected work � shipped, live, and built with product intent.</sub></p>
 
 <a href="https://claimsightai.streamlit.app/">
 <img src="./assets/project-claimsight.svg" alt="ClaimSight AI" width="100%" />
@@ -89,7 +88,7 @@
 
 <img src="./assets/divider-wave.svg" width="100%" alt="" />
 
-<h2 align="center">Tech Stack</h2>
+<img src="./assets/section-tech-stack.svg" alt="Tech Stack" width="100%" />
 
 <div align="center">
 <sub>LANGUAGES</sub><br />
@@ -117,7 +116,7 @@
 
 <img src="./assets/divider-wave.svg" width="100%" alt="" />
 
-<h2 align="center">Currently Exploring</h2>
+<img src="./assets/section-exploring.svg" alt="Currently Exploring" width="100%" />
 
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=15&duration=2400&pause=700&color=1F6FEB&center=true&vCenter=true&width=720&lines=Machine+Learning+%E2%86%92+Building+intuition+for+how+models+think;System+Design+%E2%86%92+Patterns+that+scale+with+confidence;Cloud+Computing+%E2%86%92+Distributed+systems+%26+infrastructure;LLMs+%E2%86%92+Prompting%2C+fine-tuning%2C+and+evaluation" alt="Currently exploring" />
@@ -130,7 +129,7 @@
 
 <img src="./assets/divider-wave.svg" width="100%" alt="" />
 
-<h2 align="center">GitHub Analytics</h2>
+<img src="./assets/section-analytics.svg" alt="GitHub Analytics" width="100%" />
 
 <div align="center">
 <img height="175" src="https://github-readme-stats.vercel.app/api?username=Pranavsanthoshnair&show_icons=true&hide_border=true&bg_color=00000000&title_color=1F6FEB&text_color=6B7280&icon_color=1F6FEB&include_all_commits=true&count_private=true&rank_icon=percentile" alt="GitHub Stats" />&nbsp;
@@ -143,15 +142,7 @@
 
 <img src="./assets/divider-wave.svg" width="100%" alt="" />
 
-<h2 align="center">GitHub Metrics</h2>
-
-<div align="center">
-<img src="https://metrics.lecoq.io/Pranavsanthoshnair?template=classic&base=header%2Cactivity%2Ccommunity%2Crepositories%2Cmetadata&config.timezone=Asia%2FCalcutta&config.display=large&config.base.indepth=false&config.colors=github" alt="GitHub Metrics" width="100%" />
-</div>
-
-<img src="./assets/divider-wave.svg" width="100%" alt="" />
-
-<h2 align="center">WakaTime &amp; LeetCode</h2>
+<img src="./assets/section-wakatime.svg" alt="WakaTime and LeetCode" width="100%" />
 
 <div align="center">
 <table cellspacing="0" cellpadding="0" border="0">
@@ -175,7 +166,7 @@
 
 <img src="./assets/divider-wave.svg" width="100%" alt="" />
 
-<h2 align="center">Contribution Snake</h2>
+<p align="center"><sub>CONTRIBUTION SNAKE</sub></p>
 
 <div align="center">
 <picture>
@@ -187,7 +178,7 @@
 
 <img src="./assets/divider-wave.svg" width="100%" alt="" />
 
-<h2 align="center">Engineering Philosophy</h2>
+<img src="./assets/section-philosophy.svg" alt="Engineering Philosophy" width="100%" />
 
 <div align="center">
 
@@ -211,7 +202,7 @@
 
 <img src="./assets/divider-wave.svg" width="100%" alt="" />
 
-<h2 align="center">Contact</h2>
+<img src="./assets/section-contact.svg" alt="Contact" width="100%" />
 
 <p align="center">Open to collaborations, internships, and conversations about building meaningful software.</p>
 
@@ -228,3 +219,4 @@
 <div align="center">
 <img src="./assets/footer.svg" alt="Building. Learning. Shipping. Repeating." width="100%" />
 </div>
+

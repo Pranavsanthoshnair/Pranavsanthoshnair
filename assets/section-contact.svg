@@ -1,0 +1,50 @@
+<svg viewBox="0 0 1200 90" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="ct-title">
+  <title id="ct-title">Contact</title>
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#060D19"/>
+      <stop offset="100%" stop-color="#0D1A2E"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#1F6FEB" stop-opacity="0"/>
+      <stop offset="20%" stop-color="#1F6FEB" stop-opacity="0.5"/>
+      <stop offset="50%" stop-color="#58A6FF" stop-opacity="0.9"/>
+      <stop offset="80%" stop-color="#1F6FEB" stop-opacity="0.5"/>
+      <stop offset="100%" stop-color="#1F6FEB" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="50%" r="50%" gradientUnits="objectBoundingBox">
+      <stop offset="0%" stop-color="#1F6FEB" stop-opacity="0.12"/>
+      <stop offset="100%" stop-color="#1F6FEB" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1200" height="90" fill="url(#bg)"/>
+  <rect width="1200" height="90" fill="url(#glow)"/>
+  <g opacity="0.15" fill="#3B82F6">
+    <circle cx="100" cy="22" r="1"/><circle cx="200" cy="22" r="1"/><circle cx="300" cy="22" r="1"/>
+    <circle cx="400" cy="22" r="1"/><circle cx="500" cy="22" r="1"/><circle cx="600" cy="22" r="1"/>
+    <circle cx="700" cy="22" r="1"/><circle cx="800" cy="22" r="1"/><circle cx="900" cy="22" r="1"/>
+    <circle cx="1000" cy="22" r="1"/><circle cx="1100" cy="22" r="1"/>
+    <circle cx="100" cy="68" r="1"/><circle cx="200" cy="68" r="1"/><circle cx="300" cy="68" r="1"/>
+    <circle cx="400" cy="68" r="1"/><circle cx="500" cy="68" r="1"/><circle cx="600" cy="68" r="1"/>
+    <circle cx="700" cy="68" r="1"/><circle cx="800" cy="68" r="1"/><circle cx="900" cy="68" r="1"/>
+    <circle cx="1000" cy="68" r="1"/><circle cx="1100" cy="68" r="1"/>
+  </g>
+  <circle cx="500" cy="45" r="2" fill="#58A6FF">
+    <animate attributeName="opacity" values="0.1;0.4;0.1" dur="4.5s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="700" cy="45" r="2" fill="#1F6FEB">
+    <animate attributeName="opacity" values="0.08;0.45;0.08" dur="5.5s" repeatCount="indefinite" begin="2s"/>
+  </circle>
+  <text x="600" y="32" text-anchor="middle"
+    font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif"
+    font-size="10" font-weight="500" letter-spacing="4" fill="#58A6FF" fill-opacity="0.6">
+    GET IN TOUCH
+  </text>
+  <text x="600" y="62" text-anchor="middle"
+    font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif"
+    font-size="24" font-weight="700" letter-spacing="-0.5" fill="#E6EDF3">
+    Contact
+  </text>
+  <line x1="0" y1="89" x2="1200" y2="89" stroke="url(#accent)" stroke-width="1"/>
+  <rect x="0.5" y="0.5" width="1199" height="89" fill="none" stroke="#21262D" stroke-width="1"/>
+</svg>
