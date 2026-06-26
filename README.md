@@ -21,29 +21,56 @@
 
 <br />
 
-<h2 align="center">Why I Build</h2>
+<!-- WHY I BUILD -->
 
-<table width="100%" cellspacing="0" cellpadding="0" border="0">
-<tr>
-<td width="4" bgcolor="#1F6FEB">&nbsp;</td>
-<td width="40">&nbsp;</td>
-<td>
-
-I build because useful software can make complex work feel lighter — verifying an insurance claim, helping a learner study offline in a rural village, or giving people clearer context around the news they read. I'm a CS Engineering student who cares deeply about the gap between what AI can do and what people actually experience. My focus isn't just on making things work — it's on making them understandable, reliable, and polished enough for real people to trust. Automation should reduce friction, not create it.
+<img src="./assets/why-i-build-header.svg" alt="Why I Build" width="100%" />
 
 <br />
 
-<img src="https://img.shields.io/badge/Real%20Problems-0B5FFF?style=flat-square" alt="Real Problems" />&nbsp;
-<img src="https://img.shields.io/badge/Polished%20Products-1F6FEB?style=flat-square" alt="Polished Products" />&nbsp;
-<img src="https://img.shields.io/badge/Meaningful%20Impact-2563EB?style=flat-square" alt="Meaningful Impact" />&nbsp;
-<img src="https://img.shields.io/badge/AI%20First-3B82F6?style=flat-square" alt="AI First" />
+<table width="100%" cellspacing="0" cellpadding="0" border="0">
+<tr>
+<td width="64">&nbsp;</td>
+<td>
+
+<br />
+
+<table width="100%" cellspacing="0" cellpadding="0" border="0">
+<tr>
+<td width="50%" valign="top">
+
+<p><b>The problem comes first.</b></p>
+
+I build because **useful software** can make complex work feel lighter — verifying an insurance claim, helping a learner study offline in a rural village, or giving people clearer context around the news they read.
+
+I'm a CS Engineering student who cares deeply about the gap between what **AI can do** and what people actually experience.
 
 </td>
-<td width="40">&nbsp;</td>
+<td width="64">&nbsp;</td>
+<td width="50%" valign="top">
+
+<p><b>Trust is the product.</b></p>
+
+My focus isn't just on making things work — it's on making them **understandable**, **reliable**, and **polished** enough for real people to trust.
+
+**Automation** should reduce friction, not create it. Meaningful software starts with a real problem — and earns its place through every iteration.
+
+</td>
 </tr>
 </table>
 
 <br />
+
+<img src="https://img.shields.io/badge/Real%20Problems-0D1117?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMiIgaGVpZ2h0PSIxMiI+PGNpcmNsZSBjeD0iNiIgY3k9IjYiIHI9IjMiIGZpbGw9IiMxRjZGRUIiLz48L3N2Zz4=&logoColor=white" alt="Real Problems" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Polished%20Products-0D1117?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMiIgaGVpZ2h0PSIxMiI+PGNpcmNsZSBjeD0iNiIgY3k9IjYiIHI9IjMiIGZpbGw9IiMyNTYzRUIiLz48L3N2Zz4=&logoColor=white" alt="Polished Products" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Meaningful%20Impact-0D1117?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMiIgaGVpZ2h0PSIxMiI+PGNpcmNsZSBjeD0iNiIgY3k9IjYiIHI9IjMiIGZpbGw9IiMzQjgyRjYiLz48L3N2Zz4=&logoColor=white" alt="Meaningful Impact" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/AI%20First-0D1117?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMiIgaGVpZ2h0PSIxMiI+PGNpcmNsZSBjeD0iNiIgY3k9IjYiIHI9IjMiIGZpbGw9IiM1OEE2RkYiLz48L3N2Zz4=&logoColor=white" alt="AI First" />
+
+<br /><br />
+
+</td>
+<td width="64">&nbsp;</td>
+</tr>
+</table>
 
 <div align="center">
 <img src="https://img.shields.io/badge/TechThrive_2.0-National_Hackathon_Winner-1F6FEB?style=flat-square" alt="TechThrive 2.0" />&nbsp;
