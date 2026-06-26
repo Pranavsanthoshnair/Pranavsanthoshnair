@@ -162,34 +162,60 @@ My focus isn't just on making things work — it's on making them **understandab
 
 <h2 align="center">Tech Stack</h2>
 
-<table width="100%" cellspacing="0" cellpadding="20" border="0">
-<tr>
-<td width="50%" align="center" valign="top">
-<p><b>Languages</b></p>
-<img src="https://skillicons.dev/icons?i=java,python,c,cpp,js,ts&theme=dark" alt="Languages" />
-<br /><br />
-<p><b>Frontend</b></p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css&theme=dark" alt="Frontend" />
-</td>
-<td width="50%" align="center" valign="top">
-<p><b>Backend &amp; Databases</b></p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb,supabase,firebase&theme=dark" alt="Backend and Databases" />
-<br /><br />
-<p><b>Cloud, DevOps &amp; Tools</b></p>
-<img src="https://skillicons.dev/icons?i=docker,cloudflare,vercel,git,github,vscode,linux,figma&theme=dark" alt="Cloud DevOps Tools" />
-</td>
-</tr>
-</table>
+<br />
 
 <div align="center">
-<p><b>AI &amp; ML</b></p>
-<img src="https://skillicons.dev/icons?i=huggingface,tensorflow,pytorch&theme=dark" alt="AI ML" />
+
+<sub>LANGUAGES</sub>
+<br /><br />
+<img src="https://skillicons.dev/icons?i=java,python,c,cpp,js,ts&theme=dark" height="40" alt="Java Python C C++ JavaScript TypeScript" />
+
+</div>
+
+<br />
+
+<div align="center">
+
+<sub>FRONTEND</sub>
+<br /><br />
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css&theme=dark" height="40" alt="React Next.js Tailwind HTML CSS" />
+
+</div>
+
+<br />
+
+<div align="center">
+
+<sub>BACKEND & DATABASES</sub>
+<br /><br />
+<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb,supabase,firebase&theme=dark" height="40" alt="Node.js Express PostgreSQL MongoDB Supabase Firebase" />
+
+</div>
+
+<br />
+
+<div align="center">
+
+<sub>AI & ML</sub>
+<br /><br />
+<img src="https://skillicons.dev/icons?i=huggingface,tensorflow,pytorch&theme=dark" height="40" alt="Hugging Face TensorFlow PyTorch" />
 <br /><br />
 <img src="https://img.shields.io/badge/Gemini-1F6FEB?style=flat-square&logo=google&logoColor=white" alt="Gemini" />&nbsp;
 <img src="https://img.shields.io/badge/Groq-111827?style=flat-square&logoColor=white" alt="Groq" />&nbsp;
 <img src="https://img.shields.io/badge/OpenRouter-1F6FEB?style=flat-square&logoColor=white" alt="OpenRouter" />&nbsp;
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain" />&nbsp;
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter" />
+
+</div>
+
+<br />
+
+<div align="center">
+
+<sub>CLOUD, DEVOPS & TOOLS</sub>
+<br /><br />
+<img src="https://skillicons.dev/icons?i=docker,cloudflare,vercel,git,github,vscode,linux,figma&theme=dark" height="40" alt="Docker Cloudflare Vercel Git GitHub VS Code Linux Figma" />
+
 </div>
 
 <br />
