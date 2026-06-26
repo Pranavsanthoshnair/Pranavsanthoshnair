@@ -1,0 +1,17 @@
+name: Recent Activity
+
+on:
+  schedule:
+    - cron: "0 4 * * *"
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: jamesgeorge007/github-activity-readme@latest
+        with:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          MAX_LINES: 5
+          COMMIT_MSG: "docs: update recent activity [skip ci]"

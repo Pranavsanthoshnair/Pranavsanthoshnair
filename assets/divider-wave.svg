@@ -1,0 +1,43 @@
+<svg width="1200" height="60" viewBox="0 0 1200 60" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+  <defs>
+    <linearGradient id="wg1" x1="0" y1="30" x2="1200" y2="30" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#1F6FEB" stop-opacity="0"/>
+      <stop offset="0.35" stop-color="#58A6FF" stop-opacity="0.7"/>
+      <stop offset="0.65" stop-color="#1F6FEB" stop-opacity="0.9"/>
+      <stop offset="1" stop-color="#1F6FEB" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="wg2" x1="0" y1="30" x2="1200" y2="30" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#58A6FF" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#58A6FF" stop-opacity="0.22"/>
+      <stop offset="1" stop-color="#58A6FF" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Secondary subtle wave -->
+  <path d="M0 38 C250 22, 500 50, 750 34 C1000 18, 1150 44, 1200 32" stroke="url(#wg2)" stroke-width="1.2" fill="none"/>
+
+  <!-- Primary animated wave -->
+  <path d="M0 38 C200 18, 400 54, 600 34 C800 14, 1000 50, 1200 30" stroke="url(#wg1)" stroke-width="1.8" fill="none">
+    <animate
+      attributeName="d"
+      values="
+        M0 38 C200 18, 400 54, 600 34 C800 14, 1000 50, 1200 30;
+        M0 30 C200 52, 400 16, 600 38 C800 58, 1000 22, 1200 42;
+        M0 38 C200 18, 400 54, 600 34 C800 14, 1000 50, 1200 30"
+      dur="9s"
+      repeatCount="indefinite"
+      calcMode="spline"
+      keySplines="0.45 0 0.55 1; 0.45 0 0.55 1"
+    />
+  </path>
+
+  <!-- Centre node -->
+  <circle cx="600" cy="34" r="4.5" fill="#1F6FEB">
+    <animate attributeName="r" values="3.5;5.5;3.5" dur="3s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.6;1;0.6" dur="3s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="600" cy="34" r="9" fill="#1F6FEB" fill-opacity="0.12">
+    <animate attributeName="r" values="7;12;7" dur="3s" repeatCount="indefinite"/>
+    <animate attributeName="fill-opacity" values="0.12;0.04;0.12" dur="3s" repeatCount="indefinite"/>
+  </circle>
+</svg>

@@ -1,0 +1,34 @@
+name: Update README
+
+on:
+  schedule:
+    - cron: "0 6 * * *"
+  workflow_dispatch:
+  workflow_run:
+    workflows:
+      - WakaTime
+      - Recent Activity
+      - Latest Blog Posts
+    types:
+      - completed
+
+permissions:
+  contents: read
+
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Verify README automation markers
+        run: |
+          echo "Checking required README markers..."
+          grep -q "<!--START_SECTION:waka-->" README.md       && echo "✓ WakaTime start marker found"
+          grep -q "<!--END_SECTION:waka-->" README.md         && echo "✓ WakaTime end marker found"
+          grep -q "<!--START_SECTION:activity-->" README.md   && echo "✓ Activity start marker found"
+          grep -q "<!--END_SECTION:activity-->" README.md     && echo "✓ Activity end marker found"
+          grep -q "<!-- BLOG-POST-LIST:START -->" README.md   && echo "✓ Blog start marker found"
+          grep -q "<!-- BLOG-POST-LIST:END -->" README.md     && echo "✓ Blog end marker found"
+          echo "All README automation markers verified."

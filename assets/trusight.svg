@@ -1,0 +1,160 @@
+<svg width="960" height="580" viewBox="0 0 960 580" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">TruSight — AI News Aggregation and Political Bias Detection Platform</title>
+  <desc id="desc">A polished news aggregation platform dashboard showing bias meters, article cards, and voice explanation features.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="960" y2="580" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F0F7FF"/>
+      <stop offset="1" stop-color="#EAF3FF"/>
+    </linearGradient>
+    <linearGradient id="hdr" x1="0" y1="0" x2="960" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F8FBFF"/>
+      <stop offset="1" stop-color="#EFF6FF"/>
+    </linearGradient>
+    <linearGradient id="biasBar" x1="0" y1="0" x2="1" y2="0" gradientUnits="objectBoundingBox">
+      <stop stop-color="#EF4444"/>
+      <stop offset="0.5" stop-color="#F59E0B"/>
+      <stop offset="1" stop-color="#3B82F6"/>
+    </linearGradient>
+    <filter id="shadow" x="-4%" y="-4%" width="108%" height="108%">
+      <feDropShadow dx="0" dy="2" stdDeviation="6" flood-color="#1F6FEB" flood-opacity="0.07"/>
+    </filter>
+  </defs>
+
+  <!-- Background -->
+  <rect width="960" height="580" rx="28" fill="url(#bg)"/>
+
+  <!-- Window frame -->
+  <rect x="32" y="28" width="896" height="524" rx="22" fill="white" filter="url(#shadow)" stroke="#D7E8FF" stroke-width="1"/>
+
+  <!-- Titlebar -->
+  <rect x="32" y="28" width="896" height="56" rx="22" fill="url(#hdr)"/>
+  <rect x="32" y="62" width="896" height="22" fill="url(#hdr)"/>
+
+  <!-- Traffic lights -->
+  <circle cx="70" cy="56" r="8" fill="#FF5F57"/>
+  <circle cx="94" cy="56" r="8" fill="#FFBD2E"/>
+  <circle cx="118" cy="56" r="8" fill="#28C840"/>
+
+  <!-- App name + logo -->
+  <circle cx="158" cy="56" r="14" fill="#1F6FEB" fill-opacity="0.12" stroke="#1F6FEB" stroke-opacity="0.3" stroke-width="1"/>
+  <text x="158" y="61" text-anchor="middle" fill="#1F6FEB" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="800">T</text>
+  <text x="182" y="63" fill="#0F172A" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="18" font-weight="750">TruSight</text>
+
+  <!-- Nav -->
+  <text x="512" y="63" fill="#1F6FEB" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="600">Feed</text>
+  <text x="558" y="63" fill="#64748B" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13">Trending</text>
+  <text x="626" y="63" fill="#64748B" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13">Saved</text>
+  <text x="680" y="63" fill="#64748B" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13">Extension</text>
+
+  <!-- Status -->
+  <rect x="766" y="44" width="130" height="26" rx="13" fill="#1F6FEB" fill-opacity="0.08" stroke="#1F6FEB" stroke-opacity="0.3" stroke-width="1"/>
+  <circle cx="783" cy="57" r="4" fill="#1F6FEB"/>
+  <text x="796" y="62" fill="#1F6FEB" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12" font-weight="700">AI Bias Analysis</text>
+
+  <!-- Left sidebar: Bias Meter -->
+  <rect x="32" y="84" width="220" height="468" rx="0" fill="#F8FAFC" stroke="#E8F0FF" stroke-width="1"/>
+
+  <text x="52" y="116" fill="#0F172A" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" font-weight="700">Bias Meter</text>
+  <text x="52" y="135" fill="#64748B" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11">Today's top stories</text>
+
+  <!-- Bias spectrum bar -->
+  <rect x="52" y="148" width="180" height="14" rx="7" fill="url(#biasBar)"/>
+  <rect x="126" y="143" width="4" height="24" rx="2" fill="#0F172A"/>
+  <text x="52" y="180" fill="#EF4444" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="600">LEFT</text>
+  <text x="222" y="180" text-anchor="end" fill="#3B82F6" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="600">RIGHT</text>
+  <text x="142" y="180" text-anchor="middle" fill="#64748B" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10">CENTER</text>
+
+  <!-- Source breakdown -->
+  <text x="52" y="208" fill="#64748B" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" letter-spacing="1">TOP SOURCES</text>
+
+  <!-- Source items -->
+  <text x="52" y="232" fill="#0F172A" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12" font-weight="600">BBC News</text>
+  <rect x="52" y="238" width="180" height="6" rx="3" fill="#E2E8F0"/>
+  <rect x="52" y="238" width="135" height="6" rx="3" fill="#1F6FEB"/>
+  <text x="232" y="244" text-anchor="end" fill="#1F6FEB" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="600">75%</text>
+
+  <text x="52" y="264" fill="#0F172A" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12" font-weight="600">Reuters</text>
+  <rect x="52" y="270" width="180" height="6" rx="3" fill="#E2E8F0"/>
+  <rect x="52" y="270" width="108" height="6" rx="3" fill="#58A6FF"/>
+  <text x="232" y="276" text-anchor="end" fill="#64748B" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="600">60%</text>
+
+  <text x="52" y="296" fill="#0F172A" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12" font-weight="600">The Guardian</text>
+  <rect x="52" y="302" width="180" height="6" rx="3" fill="#E2E8F0"/>
+  <rect x="52" y="302" width="81" height="6" rx="3" fill="#93C5FD"/>
+  <text x="232" y="308" text-anchor="end" fill="#64748B" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="600">45%</text>
+
+  <!-- Voice AI -->
+  <rect x="44" y="490" width="188" height="56" rx="12" fill="#EFF6FF" stroke="#BFDBFE" stroke-width="1"/>
+  <text x="64" y="516" fill="#1F6FEB" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="700">🔊 Voice Explain</text>
+  <text x="64" y="534" fill="#64748B" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11">AI audio summary active</text>
+
+  <!-- Main feed -->
+  <!-- Article card 1 (featured) -->
+  <rect x="272" y="100" width="444" height="170" rx="16" fill="white" stroke="#D7E8FF" stroke-width="1" filter="url(#shadow)"/>
+  <rect x="272" y="100" width="444" height="170" rx="16" fill="transparent" stroke="#D7E8FF" stroke-width="1"/>
+  <rect x="272" y="100" width="444" height="48" rx="16" fill="#F8FBFF"/>
+  <rect x="272" y="132" width="444" height="16" fill="#F8FBFF"/>
+  <text x="292" y="128" fill="#1F6FEB" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" letter-spacing="1">FEATURED · POLITICS</text>
+  <text x="668" y="128" text-anchor="end" fill="#64748B" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11">2 hours ago</text>
+  <text x="292" y="164" fill="#0F172A" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15" font-weight="750">Global Climate Summit: Nations agree on</text>
+  <text x="292" y="184" fill="#0F172A" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15" font-weight="750">landmark emissions reduction framework</text>
+  <text x="292" y="208" fill="#64748B" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12">BBC News · Reuters · Al Jazeera &nbsp;·&nbsp; 3 sources</text>
+  <!-- Bias chip -->
+  <rect x="292" y="220" width="90" height="24" rx="12" fill="#F0FDF4" stroke="#BBF7D0" stroke-width="1"/>
+  <text x="337" y="236" text-anchor="middle" fill="#166534" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700">Low Bias ✓</text>
+  <rect x="394" y="220" width="80" height="24" rx="12" fill="#EFF6FF" stroke="#BFDBFE" stroke-width="1"/>
+  <text x="434" y="236" text-anchor="middle" fill="#1E40AF" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="600">🔊 Explain</text>
+
+  <!-- Article card 2 -->
+  <rect x="272" y="286" width="214" height="140" rx="14" fill="white" stroke="#D7E8FF" stroke-width="1" filter="url(#shadow)"/>
+  <text x="290" y="312" fill="#F59E0B" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" letter-spacing="1">MODERATE BIAS</text>
+  <text x="290" y="334" fill="#0F172A" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="700">Tech industry faces</text>
+  <text x="290" y="352" fill="#0F172A" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="700">AI regulation wave</text>
+  <text x="290" y="374" fill="#64748B" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11">The Verge · Wired</text>
+  <rect x="290" y="390" width="80" height="22" rx="11" fill="#FEF3C7" stroke="#FCD34D" stroke-width="1"/>
+  <text x="330" y="405" text-anchor="middle" fill="#92400E" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700">Moderate</text>
+
+  <!-- Article card 3 -->
+  <rect x="498" y="286" width="218" height="140" rx="14" fill="white" stroke="#D7E8FF" stroke-width="1" filter="url(#shadow)"/>
+  <text x="516" y="312" fill="#22C55E" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" letter-spacing="1">BALANCED</text>
+  <text x="516" y="334" fill="#0F172A" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="700">Central banks hold</text>
+  <text x="516" y="352" fill="#0F172A" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="700">rates steady in Q3</text>
+  <text x="516" y="374" fill="#64748B" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11">Reuters · FT · Bloomberg</text>
+  <rect x="516" y="390" width="78" height="22" rx="11" fill="#F0FDF4" stroke="#BBF7D0" stroke-width="1"/>
+  <text x="555" y="405" text-anchor="middle" fill="#166534" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700">Balanced ✓</text>
+
+  <!-- Article card 4 -->
+  <rect x="272" y="442" width="444" height="90" rx="14" fill="white" stroke="#D7E8FF" stroke-width="1" filter="url(#shadow)"/>
+  <text x="290" y="468" fill="#EF4444" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" letter-spacing="1">HIGH BIAS DETECTED</text>
+  <text x="290" y="490" fill="#0F172A" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="700">Opinion: Immigration policy debate heats up ahead of elections</text>
+  <text x="290" y="510" fill="#64748B" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11">Fox News · MSNBC &nbsp;·&nbsp; High divergence detected across sources</text>
+  <rect x="624" y="458" width="78" height="24" rx="12" fill="#FEF2F2" stroke="#FECACA" stroke-width="1"/>
+  <text x="663" y="474" text-anchor="middle" fill="#991B1B" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700">High Bias</text>
+
+  <!-- Right panel: Stats -->
+  <rect x="736" y="100" width="160" height="432" rx="16" fill="white" stroke="#D7E8FF" stroke-width="1" filter="url(#shadow)"/>
+  <text x="756" y="130" fill="#0F172A" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" font-weight="700">Today</text>
+  <text x="756" y="162" fill="#0F172A" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="30" font-weight="750">142</text>
+  <text x="756" y="180" fill="#64748B" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11">articles scanned</text>
+
+  <rect x="752" y="196" width="128" height="1" fill="#E2E8F0"/>
+
+  <text x="756" y="222" fill="#166534" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="22" font-weight="750">68%</text>
+  <text x="756" y="240" fill="#64748B" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11">low/no bias</text>
+  <text x="756" y="272" fill="#92400E" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="22" font-weight="750">23%</text>
+  <text x="756" y="290" fill="#64748B" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11">moderate bias</text>
+  <text x="756" y="322" fill="#991B1B" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="22" font-weight="750">9%</text>
+  <text x="756" y="340" fill="#64748B" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11">high bias</text>
+
+  <rect x="752" y="358" width="128" height="1" fill="#E2E8F0"/>
+
+  <text x="756" y="384" fill="#64748B" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" letter-spacing="1">EXTENSION</text>
+  <rect x="752" y="392" width="128" height="36" rx="8" fill="#F0F9FF" stroke="#BAE6FD" stroke-width="1"/>
+  <text x="816" y="408" text-anchor="middle" fill="#0369A1" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12" font-weight="600">🧩 Active</text>
+  <text x="816" y="422" text-anchor="middle" fill="#64748B" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10">Browser overlay on</text>
+
+  <text x="756" y="456" fill="#64748B" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" letter-spacing="1">STACK</text>
+  <text x="756" y="476" fill="#1F6FEB" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11">Next.js · TypeScript</text>
+  <text x="756" y="494" fill="#1F6FEB" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11">Supabase · AI APIs</text>
+  <text x="756" y="512" fill="#1F6FEB" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11">Browser Extension</text>
+</svg>

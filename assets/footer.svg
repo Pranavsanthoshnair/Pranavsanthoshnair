@@ -1,0 +1,48 @@
+<svg width="1200" height="160" viewBox="0 0 1200 160" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="footer-title">
+  <title id="footer-title">Building. Learning. Shipping. Repeating.</title>
+
+  <defs>
+    <linearGradient id="fl1" x1="60" y1="80" x2="1140" y2="80" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#1F6FEB" stop-opacity="0"/>
+      <stop offset="0.25" stop-color="#1F6FEB" stop-opacity="0.6"/>
+      <stop offset="0.75" stop-color="#1F6FEB" stop-opacity="0.6"/>
+      <stop offset="1" stop-color="#1F6FEB" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="fl2" x1="120" y1="96" x2="1080" y2="96" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#58A6FF" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#58A6FF" stop-opacity="0.18"/>
+      <stop offset="1" stop-color="#58A6FF" stop-opacity="0"/>
+    </linearGradient>
+    <style>
+      .fw { fill: #1F6FEB; font-family: Inter, -apple-system, Segoe UI, Arial, sans-serif; font-size: 17px; font-weight: 700; letter-spacing: 0.4px; }
+      .fsep { fill: #1F6FEB; fill-opacity: 0.35; }
+      @media (prefers-color-scheme: dark) {
+        .fw { fill: #58A6FF; }
+      }
+    </style>
+  </defs>
+
+  <!-- Lines -->
+  <line x1="60" y1="80" x2="1140" y2="80" stroke="url(#fl1)" stroke-width="1.5"/>
+  <line x1="120" y1="96" x2="1080" y2="96" stroke="url(#fl2)" stroke-width="1"/>
+
+  <!-- Words -->
+  <text class="fw" x="248" y="86" text-anchor="middle">Building</text>
+  <text class="fsep" x="334" y="86" text-anchor="middle" font-family="Inter, sans-serif" font-size="16">·</text>
+  <text class="fw" x="418" y="86" text-anchor="middle">Learning</text>
+  <text class="fsep" x="504" y="86" text-anchor="middle" font-family="Inter, sans-serif" font-size="16">·</text>
+  <text class="fw" x="590" y="86" text-anchor="middle">Shipping</text>
+  <text class="fsep" x="678" y="86" text-anchor="middle" font-family="Inter, sans-serif" font-size="16">·</text>
+  <text class="fw" x="772" y="86" text-anchor="middle">Repeating</text>
+
+  <!-- Pulsing separator dots above words -->
+  <circle cx="334" cy="72" r="3" fill="#1F6FEB">
+    <animate attributeName="opacity" values="0.2;0.9;0.2" dur="2.4s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="504" cy="72" r="3" fill="#1F6FEB">
+    <animate attributeName="opacity" values="0.2;0.9;0.2" dur="2.4s" begin="0.55s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="678" cy="72" r="3" fill="#1F6FEB">
+    <animate attributeName="opacity" values="0.2;0.9;0.2" dur="2.4s" begin="1.1s" repeatCount="indefinite"/>
+  </circle>
+</svg>
