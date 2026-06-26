@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Pranavsanthoshnair/Pranavsanthoshnair/main/assets/header.svg" alt="Pranav S Nair" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0B5FFF,1F6FEB,58A6FF&height=200&section=header&text=Pranav%20S%20Nair&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Full%20Stack%20Developer%20%C2%B7%20AI%20Builder%20%C2%B7%20CS%20Engineering%20Student&descSize=16&descAlignY=58&animation=fadeIn" alt="Pranav S Nair" width="100%" />
 
 <br />
 
@@ -30,9 +30,7 @@
 
 </div>
 
-<img src="https://raw.githubusercontent.com/Pranavsanthoshnair/Pranavsanthoshnair/main/assets/divider-wave.svg" width="100%" alt="" />
-
-<!-- ═══════════════════════  WHY I BUILD  ═══════════════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0B5FFF,1F6FEB,2563EB&height=3&section=header" alt="" width="100%" />
 
 <br />
 
@@ -76,7 +74,7 @@
 <br />
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/Pranavsanthoshnair/Pranavsanthoshnair/main/assets/banner.svg" alt="AI systems, product thinking, polished engineering" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=1F6FEB,0B5FFF,58A6FF&height=80&text=AI%20Systems%20%C2%B7%20Product%20Thinking%20%C2%B7%20Polished%20Engineering&fontColor=ffffff&fontSize=18&fontAlignY=55&desc=Multimodal%20Reasoning%20%C2%B7%20User-Centric%20Design%20%C2%B7%20Ship.%20Iterate.%20Refine.&descSize=13&descAlignY=80&descColor=c7deff" alt="AI systems, product thinking, polished engineering" width="100%" />
 </div>
 
 <br />
@@ -92,7 +90,7 @@
 
 </div>
 
-<img src="https://raw.githubusercontent.com/Pranavsanthoshnair/Pranavsanthoshnair/main/assets/divider-wave.svg" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0B5FFF,1F6FEB,2563EB&height=3&section=header" alt="" width="100%" />
 
 <!-- ═══════════════════════  PROJECTS  ═══════════════════════ -->
 
@@ -112,7 +110,7 @@
 
 <div align="center">
 
-[![ClaimSight AI](https://raw.githubusercontent.com/Pranavsanthoshnair/Pranavsanthoshnair/main/assets/claimsight-ai.svg)](https://claimsightai.streamlit.app/)
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0B2A6B,0B3D91,0B5FFF&height=120&text=ClaimSight%20AI&fontColor=ffffff&fontSize=32&fontAlignY=42&desc=AI-powered%20insurance%20claim%20verification%20%C2%B7%20Vision%20AI%20%C2%B7%20Decision%20Engine%20%C2%B7%20Gemini&descSize=13&descAlignY=68&descColor=a8c8ff" alt="ClaimSight AI" width="100%" />
 
 </div>
 
@@ -138,15 +136,12 @@ and structured verdicts — reducing manual review time and improving claim accu
 
 <br />
 
-<div align="center"><img src="https://raw.githubusercontent.com/Pranavsanthoshnair/Pranavsanthoshnair/main/assets/divider.svg" width="70%" alt="" /></div>
-
-<br />
-
-<!-- ── KMAP ── -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0B2A6B,0B3D91,1F6FEB&height=3&section=header" alt="" width="70%" />
+ -->
 
 <div align="center">
 
-[![KMAP](https://raw.githubusercontent.com/Pranavsanthoshnair/Pranavsanthoshnair/main/assets/kmap.svg)](https://kmap-navy.vercel.app/)
+<img src="https://capsule-render.vercel.app/api?type=rect&color=073763,0B3D91,1F6FEB&height=120&text=KMAP%20%E2%80%94%20Knowledge%20Mapping%20Adaptive%20Platform&fontColor=ffffff&fontSize=24&fontAlignY=42&desc=Privacy-first%20adaptive%20learning%20%C2%B7%20Offline%20%C2%B7%20Procedural%20Questions%20%C2%B7%20Rule%20Engine&descSize=13&descAlignY=68&descColor=a8c8ff" alt="KMAP" width="100%" />
 
 </div>
 
@@ -172,15 +167,12 @@ adapts difficulty in real-time — no constant internet connection required.
 
 <br />
 
-<div align="center"><img src="https://raw.githubusercontent.com/Pranavsanthoshnair/Pranavsanthoshnair/main/assets/divider.svg" width="70%" alt="" /></div>
-
-<br />
-
-<!-- ── TruSight ── -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0B2A6B,0B3D91,1F6FEB&height=3&section=header" alt="" width="70%" />
+ -->
 
 <div align="center">
 
-[![TruSight](https://raw.githubusercontent.com/Pranavsanthoshnair/Pranavsanthoshnair/main/assets/trusight.svg)](https://trusight.vercel.app/)
+<img src="https://capsule-render.vercel.app/api?type=rect&color=073763,0B3D91,2563EB&height=120&text=TruSight&fontColor=ffffff&fontSize=32&fontAlignY=42&desc=AI%20news%20aggregation%20%C2%B7%20Political%20bias%20detection%20%C2%B7%20Voice%20explanations%20%C2%B7%20Browser%20extension&descSize=13&descAlignY=68&descColor=a8c8ff" alt="TruSight" width="100%" />
 
 </div>
 
@@ -204,7 +196,7 @@ built so users can form more informed opinions about the world.
 
 </div>
 
-<img src="https://raw.githubusercontent.com/Pranavsanthoshnair/Pranavsanthoshnair/main/assets/divider-wave.svg" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0B5FFF,1F6FEB,2563EB&height=3&section=header" alt="" width="100%" />
 
 <!-- ═══════════════════════  TECH STACK  ═══════════════════════ -->
 
@@ -256,7 +248,7 @@ built so users can form more informed opinions about the world.
 
 </div>
 
-<img src="https://raw.githubusercontent.com/Pranavsanthoshnair/Pranavsanthoshnair/main/assets/divider.svg" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0B5FFF,1F6FEB,2563EB&height=3&section=header" alt="" width="100%" />
 
 <!-- ═══════════════════════  CURRENTLY EXPLORING  ═══════════════════════ -->
 
@@ -277,7 +269,7 @@ built so users can form more informed opinions about the world.
 
 </div>
 
-<img src="https://raw.githubusercontent.com/Pranavsanthoshnair/Pranavsanthoshnair/main/assets/divider-wave.svg" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0B5FFF,1F6FEB,2563EB&height=3&section=header" alt="" width="100%" />
 
 <!-- ═══════════════════════  GITHUB ANALYTICS  ═══════════════════════ -->
 
@@ -302,7 +294,7 @@ built so users can form more informed opinions about the world.
 
 </div>
 
-<img src="https://raw.githubusercontent.com/Pranavsanthoshnair/Pranavsanthoshnair/main/assets/divider.svg" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0B5FFF,1F6FEB,2563EB&height=3&section=header" alt="" width="100%" />
 
 <!-- ═══════════════════════  GITHUB METRICS  ═══════════════════════ -->
 
@@ -318,7 +310,7 @@ built so users can form more informed opinions about the world.
 
 </div>
 
-<img src="https://raw.githubusercontent.com/Pranavsanthoshnair/Pranavsanthoshnair/main/assets/divider-wave.svg" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0B5FFF,1F6FEB,2563EB&height=3&section=header" alt="" width="100%" />
 
 <!-- ═══════════════════════  ACTIVITY & PROGRESS  ═══════════════════════ -->
 
@@ -358,12 +350,14 @@ built so users can form more informed opinions about the world.
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Pranavsanthoshnair/Pranavsanthoshnair/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Pranavsanthoshnair/Pranavsanthoshnair/output/github-contribution-grid-snake.svg" />
-  <img src="https://raw.githubusercontent.com/Pranavsanthoshnair/Pranavsanthoshnair/output/github-contribution-grid-snake.svg" alt="Contribution snake" width="100%" />
+  <img src="https://raw.githubusercontent.com/Pranavsanthoshnair/Pranavsanthoshnair/output/github-contribution-grid-snake.svg" alt="Contribution snake — run snake.yml workflow to generate" width="100%" />
 </picture>
+
+<sub><em>Run the <code>snake.yml</code> workflow once to generate the animation above.</em></sub>
 
 </div>
 
-<img src="https://raw.githubusercontent.com/Pranavsanthoshnair/Pranavsanthoshnair/main/assets/divider-wave.svg" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0B5FFF,1F6FEB,2563EB&height=3&section=header" alt="" width="100%" />
 
 <!-- ═══════════════════════  ENGINEERING PHILOSOPHY  ═══════════════════════ -->
 
@@ -411,9 +405,7 @@ built so users can form more informed opinions about the world.
 </tr>
 </table>
 
-<img src="https://raw.githubusercontent.com/Pranavsanthoshnair/Pranavsanthoshnair/main/assets/divider-wave.svg" width="100%" alt="" />
-
-<img src="https://raw.githubusercontent.com/Pranavsanthoshnair/Pranavsanthoshnair/main/assets/divider-wave.svg" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0B5FFF,1F6FEB,2563EB&height=3&section=header" alt="" width="100%" />
 
 <!-- ═══════════════════════  CONTACT  ═══════════════════════ -->
 
@@ -438,7 +430,7 @@ built so users can form more informed opinions about the world.
 
 </div>
 
-<img src="https://raw.githubusercontent.com/Pranavsanthoshnair/Pranavsanthoshnair/main/assets/divider-wave.svg" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0B5FFF,1F6FEB,2563EB&height=3&section=header" alt="" width="100%" />
 
 <!-- ═══════════════════════  FOOTER  ═══════════════════════ -->
 
