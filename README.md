@@ -19,33 +19,7 @@
 
 <img src="./assets/why-i-build-header.svg" alt="Why I Build" width="100%" />
 
-<table width="100%" cellspacing="0" cellpadding="0" border="0">
-<tr>
-<td width="49%" valign="top">
-
-<h3>The problem comes first.</h3>
-
-I build because **useful software** can make complex work feel lighter — verifying an insurance claim, helping a learner study offline, or giving people clearer context around the news they read.
-
----
-
-<sub>Focus → Real inconveniences, not abstract ideas</sub>
-
-</td>
-<td width="2%">&nbsp;</td>
-<td width="49%" valign="top">
-
-<h3>Trust is the product.</h3>
-
-My focus isn't just on making things work — it's on making them **understandable**, **reliable**, and **polished** enough for real people to trust. **Automation** should reduce friction, not create it.
-
----
-
-<sub>Standard → Ship what people can rely on</sub>
-
-</td>
-</tr>
-</table>
+<img src="./assets/why-i-build-cards.svg" alt="Why I Build — The problem comes first. Trust is the product." width="100%" />
 
 <div align="center">
 <img src="https://img.shields.io/badge/Real%20Problems-0D1117?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMiIgaGVpZ2h0PSIxMiI+PGNpcmNsZSBjeD0iNiIgY3k9IjYiIHI9IjMiIGZpbGw9IiMxRjZGRUIiLz48L3N2Zz4=&logoColor=white" alt="Real Problems" />&nbsp;

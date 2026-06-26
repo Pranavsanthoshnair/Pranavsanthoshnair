@@ -1,0 +1,145 @@
+<svg viewBox="0 0 1200 300" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="wib-title">
+  <title id="wib-title">Why I Build — The problem comes first. Trust is the product.</title>
+
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%"   stop-color="#0D1117"/>
+      <stop offset="100%" stop-color="#0A0E14"/>
+    </linearGradient>
+    <linearGradient id="card-border-l" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%"   stop-color="#1F6FEB" stop-opacity="0.8"/>
+      <stop offset="100%" stop-color="#1F6FEB" stop-opacity="0.2"/>
+    </linearGradient>
+    <linearGradient id="card-border-r" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%"   stop-color="#58A6FF" stop-opacity="0.8"/>
+      <stop offset="100%" stop-color="#58A6FF" stop-opacity="0.2"/>
+    </linearGradient>
+    <linearGradient id="divider-l" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%"   stop-color="#1F6FEB" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#1F6FEB" stop-opacity="0.1"/>
+    </linearGradient>
+    <linearGradient id="divider-r" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%"   stop-color="#58A6FF" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#58A6FF" stop-opacity="0.1"/>
+    </linearGradient>
+    <radialGradient id="glow-l" cx="20%" cy="50%" r="60%" gradientUnits="objectBoundingBox">
+      <stop offset="0%"   stop-color="#1F6FEB" stop-opacity="0.06"/>
+      <stop offset="100%" stop-color="#1F6FEB" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glow-r" cx="80%" cy="50%" r="60%" gradientUnits="objectBoundingBox">
+      <stop offset="0%"   stop-color="#58A6FF" stop-opacity="0.05"/>
+      <stop offset="100%" stop-color="#58A6FF" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1200" height="300" fill="url(#bg)"/>
+  <rect width="1200" height="300" fill="url(#glow-l)"/>
+  <rect width="1200" height="300" fill="url(#glow-r)"/>
+
+  <!-- ═══ LEFT CARD ═══ -->
+  <rect x="40" y="24" width="548" height="252" rx="12" fill="#161B22" stroke="#21262D" stroke-width="1"/>
+
+  <!-- Left accent bar -->
+  <rect x="40" y="24" width="3" height="252" rx="2" fill="url(#card-border-l)"/>
+
+  <!-- Card 1: Heading -->
+  <text x="80" y="72"
+    font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif"
+    font-size="22" font-weight="700" fill="#E6EDF3">
+    The problem comes first.
+  </text>
+
+  <!-- Card 1: Body -->
+  <text x="80" y="108"
+    font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif"
+    font-size="13.5" font-weight="400" fill="#8B949E">
+    I build because
+    <tspan fill="#C9D1D9" font-weight="600">useful software</tspan>
+    can make complex
+  </text>
+  <text x="80" y="128"
+    font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif"
+    font-size="13.5" font-weight="400" fill="#8B949E">
+    work feel lighter — verifying an insurance claim,
+  </text>
+  <text x="80" y="148"
+    font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif"
+    font-size="13.5" font-weight="400" fill="#8B949E">
+    helping a learner study offline, or giving people
+  </text>
+  <text x="80" y="168"
+    font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif"
+    font-size="13.5" font-weight="400" fill="#8B949E">
+    clearer context around the news they read.
+  </text>
+
+  <!-- Card 1: Divider -->
+  <line x1="80" y1="202" x2="540" y2="202" stroke="url(#divider-l)" stroke-width="1"/>
+
+  <!-- Card 1: Footer -->
+  <text x="80" y="232"
+    font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif"
+    font-size="11" font-weight="500" letter-spacing="1" fill="#58A6FF" fill-opacity="0.7">
+    FOCUS
+  </text>
+  <text x="80" y="252"
+    font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif"
+    font-size="12" font-weight="400" fill="#6E7681">
+    Real inconveniences, not abstract ideas
+  </text>
+
+  <!-- ═══ RIGHT CARD ═══ -->
+  <rect x="612" y="24" width="548" height="252" rx="12" fill="#161B22" stroke="#21262D" stroke-width="1"/>
+
+  <!-- Right accent bar -->
+  <rect x="612" y="24" width="3" height="252" rx="2" fill="url(#card-border-r)"/>
+
+  <!-- Card 2: Heading -->
+  <text x="652" y="72"
+    font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif"
+    font-size="22" font-weight="700" fill="#E6EDF3">
+    Trust is the product.
+  </text>
+
+  <!-- Card 2: Body -->
+  <text x="652" y="108"
+    font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif"
+    font-size="13.5" font-weight="400" fill="#8B949E">
+    My focus isn't just on making things work — it's on
+  </text>
+  <text x="652" y="128"
+    font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif"
+    font-size="13.5" font-weight="400" fill="#8B949E">
+    making them
+    <tspan fill="#C9D1D9" font-weight="600">understandable</tspan>,
+    <tspan fill="#C9D1D9" font-weight="600">reliable</tspan>, and
+  </text>
+  <text x="652" y="148"
+    font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif"
+    font-size="13.5" font-weight="400" fill="#8B949E">
+    <tspan fill="#C9D1D9" font-weight="600">polished</tspan>
+    enough for real people to trust.
+  </text>
+  <text x="652" y="168"
+    font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif"
+    font-size="13.5" font-weight="400" fill="#8B949E">
+    <tspan fill="#C9D1D9" font-weight="600">Automation</tspan>
+    should reduce friction, not create it.
+  </text>
+
+  <!-- Card 2: Divider -->
+  <line x1="652" y1="202" x2="1112" y2="202" stroke="url(#divider-r)" stroke-width="1"/>
+
+  <!-- Card 2: Footer -->
+  <text x="652" y="232"
+    font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif"
+    font-size="11" font-weight="500" letter-spacing="1" fill="#58A6FF" fill-opacity="0.7">
+    STANDARD
+  </text>
+  <text x="652" y="252"
+    font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif"
+    font-size="12" font-weight="400" fill="#6E7681">
+    Ship what people can rely on
+  </text>
+</svg>
