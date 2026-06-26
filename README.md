@@ -6,13 +6,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0B5FFF,1F6FEB,58A6FF&height=240&section=header&text=Pranav%20S%20Nair&fontColor=ffffff&fontSize=60&fontAlignY=42&desc=Full%20Stack%20Developer%20%C2%B7%20AI%20Builder%20%C2%B7%20CS%20Engineering%20Student&descSize=18&descAlignY=64&animation=fadeIn" alt="Pranav S Nair — Full Stack Developer and AI Builder" width="100%" />
-
-<br />
-
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=16&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=680&lines=Building+today+what+I+wish+existed+yesterday.;Full+Stack+%C2%B7+Artificial+Intelligence+%C2%B7+Open+Source;Always+Learning.+Always+Shipping." alt="Tagline" />
-
-<br /><br />
+<img src="https://raw.githubusercontent.com/Pranavsanthoshnair/Pranavsanthoshnair/main/assets/hero.svg" alt="Pranav S Nair — Full Stack Developer and AI Builder" width="100%" />
 
 <a href="https://pranavsnair.vercel.app"><img src="https://img.shields.io/badge/Portfolio-0B5FFF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>&nbsp;
 <a href="https://github.com/Pranavsanthoshnair"><img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>&nbsp;
