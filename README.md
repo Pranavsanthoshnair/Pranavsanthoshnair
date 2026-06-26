@@ -12,24 +12,16 @@
 <a href="mailto:pranavsanthoshnair@gmail.com"><img src="https://img.shields.io/badge/Email-1F6FEB?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>&nbsp;
 <a href="https://leetcode.com/u/pranav_santhosh/"><img src="https://img.shields.io/badge/LeetCode-111827?style=for-the-badge&logo=leetcode&logoColor=FFA116" alt="LeetCode" /></a>
 
-<br /><br />
+<br />
 
 <img src="https://komarev.com/ghpvc/?username=Pranavsanthoshnair&label=Profile+Views&color=1F6FEB&style=flat-square" alt="Profile Views" />&nbsp;
 <img src="https://img.shields.io/badge/Open%20to-Internships%20%26%20Collaborations-1F6FEB?style=flat-square" alt="Open to work" />
 
 </div>
 
-<br /><br />
-
-<img src="./assets/divider.svg" width="100%" alt="" />
-
-<br /><br />
-
-<!-- WHY I BUILD -->
+<br />
 
 <h2 align="center">Why I Build</h2>
-
-<br />
 
 <table width="100%" cellspacing="0" cellpadding="0" border="0">
 <tr>
@@ -39,7 +31,7 @@
 
 I build because useful software can make complex work feel lighter — verifying an insurance claim, helping a learner study offline in a rural village, or giving people clearer context around the news they read. I'm a CS Engineering student who cares deeply about the gap between what AI can do and what people actually experience. My focus isn't just on making things work — it's on making them understandable, reliable, and polished enough for real people to trust. Automation should reduce friction, not create it.
 
-<br /><br />
+<br />
 
 <img src="https://img.shields.io/badge/Real%20Problems-0B5FFF?style=flat-square" alt="Real Problems" />&nbsp;
 <img src="https://img.shields.io/badge/Polished%20Products-1F6FEB?style=flat-square" alt="Polished Products" />&nbsp;
@@ -51,7 +43,7 @@ I build because useful software can make complex work feel lighter — verifying
 </tr>
 </table>
 
-<br /><br />
+<br />
 
 <div align="center">
 <img src="https://img.shields.io/badge/TechThrive_2.0-National_Hackathon_Winner-1F6FEB?style=flat-square" alt="TechThrive 2.0" />&nbsp;
@@ -62,25 +54,16 @@ I build because useful software can make complex work feel lighter — verifying
 <img src="https://img.shields.io/badge/IEDC-Skills_Officer-1F6FEB?style=flat-square" alt="IEDC" />
 </div>
 
-<br /><br />
-
-<img src="./assets/divider.svg" width="100%" alt="" />
-
-<br /><br />
-
-<!-- FEATURED PROJECTS -->
+<br />
 
 <h2 align="center">Featured Projects</h2>
 <p align="center"><sub>Selected work — shipped, live, and built with product intent.</sub></p>
 
-<br /><br />
+<br />
 
-<!-- ClaimSight AI -->
 <a href="https://claimsightai.streamlit.app/">
-<img src="./assets/project-claimsight.svg" alt="ClaimSight AI — AI-powered insurance claim verification" width="100%" />
+<img src="./assets/project-claimsight.svg" alt="ClaimSight AI" width="100%" />
 </a>
-
-<br /><br />
 
 <table width="100%" cellspacing="0" cellpadding="0" border="0">
 <tr>
@@ -104,18 +87,11 @@ I build because useful software can make complex work feel lighter — verifying
 </tr>
 </table>
 
-<br /><br />
+<br />
 
-<img src="./assets/divider.svg" width="60%" alt="" />
-
-<br /><br />
-
-<!-- KMAP -->
 <a href="https://kmap-navy.vercel.app/">
 <img src="./assets/project-kmap.svg" alt="KMAP — Knowledge Mapping Adaptive Platform" width="100%" />
 </a>
-
-<br /><br />
 
 <table width="100%" cellspacing="0" cellpadding="0" border="0">
 <tr>
@@ -137,18 +113,11 @@ I build because useful software can make complex work feel lighter — verifying
 </tr>
 </table>
 
-<br /><br />
+<br />
 
-<img src="./assets/divider.svg" width="60%" alt="" />
-
-<br /><br />
-
-<!-- TruSight -->
 <a href="https://trusight.vercel.app/">
 <img src="./assets/project-trusight.svg" alt="TruSight — AI News Aggregation and Bias Detection" width="100%" />
 </a>
-
-<br /><br />
 
 <table width="100%" cellspacing="0" cellpadding="0" border="0">
 <tr>
@@ -170,42 +139,32 @@ I build because useful software can make complex work feel lighter — verifying
 </tr>
 </table>
 
-<br /><br />
-
-<img src="./assets/divider.svg" width="100%" alt="" />
-
-<br /><br />
-
-<!-- TECH STACK -->
+<br />
 
 <h2 align="center">Tech Stack</h2>
-
-<br />
 
 <table width="100%" cellspacing="0" cellpadding="20" border="0">
 <tr>
 <td width="50%" align="center" valign="top">
 <p><b>Languages</b></p>
-<img src="https://skillicons.dev/icons?i=java,python,c,cpp,js,ts&theme=dark" alt="Java Python C C++ JavaScript TypeScript" />
+<img src="https://skillicons.dev/icons?i=java,python,c,cpp,js,ts&theme=dark" alt="Languages" />
 <br /><br />
 <p><b>Frontend</b></p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css&theme=dark" alt="React Next.js Tailwind HTML CSS" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css&theme=dark" alt="Frontend" />
 </td>
 <td width="50%" align="center" valign="top">
 <p><b>Backend &amp; Databases</b></p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb,supabase,firebase&theme=dark" alt="Node.js Express PostgreSQL MongoDB Supabase Firebase" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb,supabase,firebase&theme=dark" alt="Backend and Databases" />
 <br /><br />
 <p><b>Cloud, DevOps &amp; Tools</b></p>
-<img src="https://skillicons.dev/icons?i=docker,cloudflare,vercel,git,github,vscode,linux,figma&theme=dark" alt="Docker Cloudflare Vercel Git GitHub VS Code Linux Figma" />
+<img src="https://skillicons.dev/icons?i=docker,cloudflare,vercel,git,github,vscode,linux,figma&theme=dark" alt="Cloud DevOps Tools" />
 </td>
 </tr>
 </table>
 
-<br />
-
 <div align="center">
 <p><b>AI &amp; ML</b></p>
-<img src="https://skillicons.dev/icons?i=huggingface,tensorflow,pytorch&theme=dark" alt="Hugging Face TensorFlow PyTorch" />
+<img src="https://skillicons.dev/icons?i=huggingface,tensorflow,pytorch&theme=dark" alt="AI ML" />
 <br /><br />
 <img src="https://img.shields.io/badge/Gemini-1F6FEB?style=flat-square&logo=google&logoColor=white" alt="Gemini" />&nbsp;
 <img src="https://img.shields.io/badge/Groq-111827?style=flat-square&logoColor=white" alt="Groq" />&nbsp;
@@ -214,17 +173,9 @@ I build because useful software can make complex work feel lighter — verifying
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter" />
 </div>
 
-<br /><br />
-
-<img src="./assets/divider.svg" width="100%" alt="" />
-
-<br /><br />
-
-<!-- CURRENTLY EXPLORING -->
+<br />
 
 <h2 align="center">Currently Exploring</h2>
-
-<br />
 
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=15&duration=2400&pause=700&color=1F6FEB&center=true&vCenter=true&width=720&lines=Machine+Learning+%E2%86%92+Building+intuition+for+how+models+think;System+Design+%E2%86%92+Patterns+that+scale+with+confidence;Cloud+Computing+%E2%86%92+Distributed+systems+%26+infrastructure;LLMs+%E2%86%92+Prompting%2C+fine-tuning%2C+and+evaluation" alt="Currently exploring" />
@@ -235,17 +186,9 @@ I build because useful software can make complex work feel lighter — verifying
 <img src="https://img.shields.io/badge/LLMs-Building-1a5cc4?style=for-the-badge" alt="LLMs" />
 </div>
 
-<br /><br />
-
-<img src="./assets/divider.svg" width="100%" alt="" />
-
-<br /><br />
-
-<!-- GITHUB ANALYTICS -->
+<br />
 
 <h2 align="center">GitHub Analytics</h2>
-
-<br />
 
 <div align="center">
 <img height="175" src="https://github-readme-stats.vercel.app/api?username=Pranavsanthoshnair&show_icons=true&hide_border=true&bg_color=00000000&title_color=1F6FEB&text_color=6B7280&icon_color=1F6FEB&include_all_commits=true&count_private=true&rank_icon=percentile" alt="GitHub Stats" />&nbsp;
@@ -256,46 +199,28 @@ I build because useful software can make complex work feel lighter — verifying
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pranavsanthoshnair&bg_color=00000000&color=6B7280&line=1F6FEB&point=58A6FF&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="Contribution Activity" width="100%" />
 </div>
 
-<br /><br />
-
-<img src="./assets/divider.svg" width="100%" alt="" />
-
-<br /><br />
-
-<!-- GITHUB METRICS -->
+<br />
 
 <h2 align="center">GitHub Metrics</h2>
-
-<br />
 
 <div align="center">
 <img src="https://metrics.lecoq.io/Pranavsanthoshnair?template=classic&base=header%2Cactivity%2Ccommunity%2Crepositories%2Cmetadata&config.timezone=Asia%2FCalcutta&config.display=large&config.base.indepth=false&config.colors=github" alt="GitHub Metrics" width="100%" />
 </div>
 
-<br /><br />
-
-<img src="./assets/divider.svg" width="100%" alt="" />
-
-<br /><br />
-
-<!-- WAKATIME & LEETCODE -->
+<br />
 
 <h2 align="center">WakaTime &amp; LeetCode</h2>
-
-<br />
 
 <table width="100%" cellspacing="0" cellpadding="0" border="0">
 <tr>
 <td width="50%" align="center" valign="top">
 <p><b>Coding Time</b></p>
-<br />
 <!--START_SECTION:waka-->
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Pranavsanthoshnair&hide_border=true&bg_color=00000000&title_color=1F6FEB&text_color=6B7280&custom_title=Coding%20Focus" alt="WakaTime" />
 <!--END_SECTION:waka-->
 </td>
 <td width="50%" align="center" valign="top">
 <p><b>Problem Solving</b></p>
-<br />
 <a href="https://leetcode.com/u/pranav_santhosh/">
 <img src="https://leetcard.jacoblin.cool/pranav_santhosh?theme=transparent&font=Inter&ext=heatmap&border=0&radius=8" alt="LeetCode" />
 </a>
@@ -303,17 +228,9 @@ I build because useful software can make complex work feel lighter — verifying
 </tr>
 </table>
 
-<br /><br />
-
-<img src="./assets/divider.svg" width="100%" alt="" />
-
-<br /><br />
-
-<!-- CONTRIBUTION SNAKE -->
+<br />
 
 <h2 align="center">Contribution Snake</h2>
-
-<br />
 
 <div align="center">
 <picture>
@@ -323,17 +240,9 @@ I build because useful software can make complex work feel lighter — verifying
 </picture>
 </div>
 
-<br /><br />
-
-<img src="./assets/divider.svg" width="100%" alt="" />
-
-<br /><br />
-
-<!-- ENGINEERING PHILOSOPHY -->
+<br />
 
 <h2 align="center">Engineering Philosophy</h2>
-
-<br />
 
 <table width="100%" cellspacing="0" cellpadding="0" border="0">
 <tr>
@@ -342,8 +251,6 @@ I build because useful software can make complex work feel lighter — verifying
 <td>
 
 <p><b>Specificity over abstraction.</b>&nbsp; The most valuable software starts as a specific inconvenience — not an abstract market opportunity. Build for those moments: the adjuster who has to manually cross-check fifty documents, the student in a village without internet, the reader who can't tell if an article is slanted. Real problems make better products.</p>
-
-<br />
 
 <p><b>Ship narrow, iterate wide.</b>&nbsp; Ship the narrow, working version first. Watch where it breaks for actual users. Iterate until the experience feels inevitable rather than engineered. Design is part of the contract — it tells people what a system is doing and whether they can trust it. With AI in the stack, intelligent automation should reduce friction, not add mystery.</p>
 
@@ -360,17 +267,9 @@ I build because useful software can make complex work feel lighter — verifying
 </tr>
 </table>
 
-<br /><br />
-
-<img src="./assets/divider.svg" width="100%" alt="" />
-
-<br /><br />
-
-<!-- CONTACT -->
+<br />
 
 <h2 align="center">Contact</h2>
-
-<br />
 
 <p align="center"><sub>Open to internships, collaborations, and conversations about meaningful software.</sub></p>
 
@@ -381,7 +280,7 @@ I build because useful software can make complex work feel lighter — verifying
 <a href="https://pranavsnair.vercel.app"><img src="https://img.shields.io/badge/Portfolio-pranavsnair.vercel.app-0B5FFF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>&nbsp;
 <a href="https://github.com/Pranavsanthoshnair"><img src="https://img.shields.io/badge/GitHub-Pranavsanthoshnair-161B22?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 
-<br /><br />
+<br />
 
 <a href="https://linkedin.com/in/pranav-s-nair-97290b1ba"><img src="https://img.shields.io/badge/LinkedIn-Pranav_S_Nair-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
 <a href="mailto:pranavsanthoshnair@gmail.com"><img src="https://img.shields.io/badge/Email-pranavsanthoshnair%40gmail.com-1F6FEB?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>&nbsp;
@@ -389,9 +288,7 @@ I build because useful software can make complex work feel lighter — verifying
 
 </div>
 
-<br /><br />
-
-<!-- FOOTER -->
+<br />
 
 <div align="center">
 <img src="./assets/footer.svg" alt="Building. Learning. Shipping. Repeating." width="100%" />
