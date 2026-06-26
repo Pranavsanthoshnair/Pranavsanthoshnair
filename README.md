@@ -111,7 +111,7 @@ My focus isn't just on making things work — it's on making them **understandab
 <br />
 <a href="https://trusight.vercel.app/"><img src="https://img.shields.io/badge/Live%20Demo%20→-0B5FFF?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" /></a>&nbsp;
 <a href="https://github.com/Pranavsanthoshnair/TruSight"><img src="https://img.shields.io/badge/Repository-161B22?style=for-the-badge&logo=github&logoColor=white" alt="Repository" /></a>
-<br /><sub>News Platform &nbsp;·&nbsp; Bias Detection &nbsp;·&nbsp; 2024</sub>
+<br /><sub>News Platform &nbsp;·&nbsp; Bias Detection &nbsp;·&nbsp; 2025</sub>
 </div>
 
 <img src="./assets/divider-wave.svg" width="100%" alt="" />
