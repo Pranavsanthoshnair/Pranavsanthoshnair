@@ -145,19 +145,18 @@
 <img src="./assets/section-wakatime.svg" alt="WakaTime and LeetCode" width="100%" />
 
 <div align="center">
-<table cellspacing="0" cellpadding="0" border="0">
+<table cellspacing="0" cellpadding="0" border="0" width="100%">
 <tr>
-<td align="center" valign="top">
+<td width="50%" align="center" valign="top">
 <p><b>Coding Time</b></p>
 <!--START_SECTION:waka-->
 <sub>Waiting for WakaTime data...</sub>
 <!--END_SECTION:waka-->
 </td>
-<td width="40">&nbsp;</td>
-<td align="center" valign="top">
+<td width="50%" align="center" valign="top">
 <p><b>Problem Solving</b></p>
 <a href="https://leetcode.com/u/pranav_santhosh/">
-<img src="https://leetcard.jacoblin.cool/pranav_santhosh?theme=transparent&font=Inter&ext=heatmap&border=0&radius=8" alt="LeetCode" />
+<img src="https://leetcard.jacoblin.cool/pranav_santhosh?theme=transparent&font=Inter&ext=heatmap&border=0&radius=8" alt="LeetCode" width="100%" />
 </a>
 </td>
 </tr>
