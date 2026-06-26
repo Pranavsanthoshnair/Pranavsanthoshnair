@@ -34,157 +34,127 @@
   <rect width="1200" height="280" fill="url(#bg-grad)"/>
   <rect width="1200" height="280" fill="url(#glow-c)"/>
 
-  <!-- ═══ BLUEPRINT GRID — fades in like system booting ═══ -->
+  <!-- ═══ BLUEPRINT GRID — fades in behind text ═══ -->
   <g stroke="#1F6FEB" stroke-width="0.4" opacity="0">
-    <animate attributeName="opacity" values="0;0.2" dur="2s" fill="freeze"/>
-    <!-- Vertical lines -->
-    <line x1="100" y1="0" x2="100" y2="280"/>
-    <line x1="200" y1="0" x2="200" y2="280"/>
-    <line x1="300" y1="0" x2="300" y2="280"/>
-    <line x1="400" y1="0" x2="400" y2="280"/>
-    <line x1="500" y1="0" x2="500" y2="280"/>
-    <line x1="600" y1="0" x2="600" y2="280"/>
-    <line x1="700" y1="0" x2="700" y2="280"/>
-    <line x1="800" y1="0" x2="800" y2="280"/>
-    <line x1="900" y1="0" x2="900" y2="280"/>
-    <line x1="1000" y1="0" x2="1000" y2="280"/>
+    <animate attributeName="opacity" values="0;0.2" dur="1.5s" begin="0.5s" fill="freeze"/>
+    <line x1="100" y1="0" x2="100" y2="280"/><line x1="200" y1="0" x2="200" y2="280"/>
+    <line x1="300" y1="0" x2="300" y2="280"/><line x1="400" y1="0" x2="400" y2="280"/>
+    <line x1="500" y1="0" x2="500" y2="280"/><line x1="600" y1="0" x2="600" y2="280"/>
+    <line x1="700" y1="0" x2="700" y2="280"/><line x1="800" y1="0" x2="800" y2="280"/>
+    <line x1="900" y1="0" x2="900" y2="280"/><line x1="1000" y1="0" x2="1000" y2="280"/>
     <line x1="1100" y1="0" x2="1100" y2="280"/>
-    <!-- Horizontal lines -->
-    <line x1="0" y1="56" x2="1200" y2="56"/>
-    <line x1="0" y1="112" x2="1200" y2="112"/>
-    <line x1="0" y1="168" x2="1200" y2="168"/>
-    <line x1="0" y1="224" x2="1200" y2="224"/>
+    <line x1="0" y1="56" x2="1200" y2="56"/><line x1="0" y1="112" x2="1200" y2="112"/>
+    <line x1="0" y1="168" x2="1200" y2="168"/><line x1="0" y1="224" x2="1200" y2="224"/>
   </g>
 
-  <!-- ═══ CIRCUIT PATHS — drawn one after another ═══ -->
-
-  <!-- Circuit path 1: top-left horizontal -->
+  <!-- ═══ CIRCUIT PATHS — draw in after grid appears ═══ -->
   <line x1="60" y1="56" x2="340" y2="56" stroke="#58A6FF" stroke-width="1" stroke-opacity="0" stroke-dasharray="280" stroke-dashoffset="280">
-    <animate attributeName="stroke-dashoffset" values="280;0" dur="1.5s" begin="1.5s" fill="freeze"/>
-    <animate attributeName="stroke-opacity" values="0;0.5" dur="0.5s" begin="1.5s" fill="freeze"/>
+    <animate attributeName="stroke-dashoffset" values="280;0" dur="1.2s" begin="1s" fill="freeze"/>
+    <animate attributeName="stroke-opacity" values="0;0.5" dur="0.4s" begin="1s" fill="freeze"/>
   </line>
-
-  <!-- Circuit path 2: top-right horizontal -->
   <line x1="860" y1="56" x2="1140" y2="56" stroke="#58A6FF" stroke-width="1" stroke-opacity="0" stroke-dasharray="280" stroke-dashoffset="280">
-    <animate attributeName="stroke-dashoffset" values="280;0" dur="1.5s" begin="2s" fill="freeze"/>
-    <animate attributeName="stroke-opacity" values="0;0.45" dur="0.5s" begin="2s" fill="freeze"/>
+    <animate attributeName="stroke-dashoffset" values="280;0" dur="1.2s" begin="1.3s" fill="freeze"/>
+    <animate attributeName="stroke-opacity" values="0;0.45" dur="0.4s" begin="1.3s" fill="freeze"/>
   </line>
-
-  <!-- Circuit path 3: left vertical -->
   <line x1="100" y1="70" x2="100" y2="210" stroke="#1F6FEB" stroke-width="1" stroke-opacity="0" stroke-dasharray="140" stroke-dashoffset="140">
-    <animate attributeName="stroke-dashoffset" values="140;0" dur="1.2s" begin="2.5s" fill="freeze"/>
-    <animate attributeName="stroke-opacity" values="0;0.4" dur="0.5s" begin="2.5s" fill="freeze"/>
+    <animate attributeName="stroke-dashoffset" values="140;0" dur="1s" begin="1.6s" fill="freeze"/>
+    <animate attributeName="stroke-opacity" values="0;0.4" dur="0.4s" begin="1.6s" fill="freeze"/>
   </line>
-
-  <!-- Circuit path 4: right vertical -->
   <line x1="1100" y1="70" x2="1100" y2="210" stroke="#1F6FEB" stroke-width="1" stroke-opacity="0" stroke-dasharray="140" stroke-dashoffset="140">
-    <animate attributeName="stroke-dashoffset" values="140;0" dur="1.2s" begin="2.8s" fill="freeze"/>
-    <animate attributeName="stroke-opacity" values="0;0.4" dur="0.5s" begin="2.8s" fill="freeze"/>
+    <animate attributeName="stroke-dashoffset" values="140;0" dur="1s" begin="1.8s" fill="freeze"/>
+    <animate attributeName="stroke-opacity" values="0;0.4" dur="0.4s" begin="1.8s" fill="freeze"/>
   </line>
-
-  <!-- Circuit path 5: bottom connector -->
   <line x1="400" y1="224" x2="800" y2="224" stroke="#388BFD" stroke-width="1" stroke-opacity="0" stroke-dasharray="400" stroke-dashoffset="400">
-    <animate attributeName="stroke-dashoffset" values="400;0" dur="1.8s" begin="3.2s" fill="freeze"/>
-    <animate attributeName="stroke-opacity" values="0;0.35" dur="0.5s" begin="3.2s" fill="freeze"/>
+    <animate attributeName="stroke-dashoffset" values="400;0" dur="1.5s" begin="2s" fill="freeze"/>
+    <animate attributeName="stroke-opacity" values="0;0.35" dur="0.4s" begin="2s" fill="freeze"/>
   </line>
-
-  <!-- Circuit path 6: centre frame left -->
   <line x1="300" y1="112" x2="300" y2="168" stroke="#58A6FF" stroke-width="0.8" stroke-opacity="0" stroke-dasharray="56" stroke-dashoffset="56">
-    <animate attributeName="stroke-dashoffset" values="56;0" dur="0.8s" begin="3.5s" fill="freeze"/>
-    <animate attributeName="stroke-opacity" values="0;0.4" dur="0.4s" begin="3.5s" fill="freeze"/>
+    <animate attributeName="stroke-dashoffset" values="56;0" dur="0.6s" begin="2.2s" fill="freeze"/>
+    <animate attributeName="stroke-opacity" values="0;0.4" dur="0.3s" begin="2.2s" fill="freeze"/>
   </line>
-
-  <!-- Circuit path 7: centre frame right -->
   <line x1="900" y1="112" x2="900" y2="168" stroke="#58A6FF" stroke-width="0.8" stroke-opacity="0" stroke-dasharray="56" stroke-dashoffset="56">
-    <animate attributeName="stroke-dashoffset" values="56;0" dur="0.8s" begin="3.7s" fill="freeze"/>
-    <animate attributeName="stroke-opacity" values="0;0.4" dur="0.4s" begin="3.7s" fill="freeze"/>
+    <animate attributeName="stroke-dashoffset" values="56;0" dur="0.6s" begin="2.4s" fill="freeze"/>
+    <animate attributeName="stroke-opacity" values="0;0.4" dur="0.3s" begin="2.4s" fill="freeze"/>
   </line>
 
-  <!-- ═══ CIRCUIT NODES — illuminate after paths draw ═══ -->
+  <!-- ═══ CIRCUIT JUNCTION NODES — illuminate ═══ -->
   <circle cx="100" cy="56" r="3" fill="#58A6FF" opacity="0">
-    <animate attributeName="opacity" values="0;0.7" dur="0.3s" begin="3s" fill="freeze"/>
-    <animate attributeName="r" values="2;3.5;3" dur="1s" begin="3s" fill="freeze"/>
+    <animate attributeName="opacity" values="0;0.7" dur="0.3s" begin="2s" fill="freeze"/>
+    <animate attributeName="r" values="2;3.5;3" dur="0.8s" begin="2s" fill="freeze"/>
   </circle>
   <circle cx="1100" cy="56" r="3" fill="#58A6FF" opacity="0">
-    <animate attributeName="opacity" values="0;0.7" dur="0.3s" begin="3.3s" fill="freeze"/>
-    <animate attributeName="r" values="2;3.5;3" dur="1s" begin="3.3s" fill="freeze"/>
+    <animate attributeName="opacity" values="0;0.7" dur="0.3s" begin="2.2s" fill="freeze"/>
+    <animate attributeName="r" values="2;3.5;3" dur="0.8s" begin="2.2s" fill="freeze"/>
   </circle>
   <circle cx="100" cy="224" r="3" fill="#1F6FEB" opacity="0">
-    <animate attributeName="opacity" values="0;0.6" dur="0.3s" begin="3.6s" fill="freeze"/>
-    <animate attributeName="r" values="2;3.5;3" dur="1s" begin="3.6s" fill="freeze"/>
+    <animate attributeName="opacity" values="0;0.6" dur="0.3s" begin="2.4s" fill="freeze"/>
+    <animate attributeName="r" values="2;3.5;3" dur="0.8s" begin="2.4s" fill="freeze"/>
   </circle>
   <circle cx="1100" cy="224" r="3" fill="#1F6FEB" opacity="0">
-    <animate attributeName="opacity" values="0;0.6" dur="0.3s" begin="3.9s" fill="freeze"/>
-    <animate attributeName="r" values="2;3.5;3" dur="1s" begin="3.9s" fill="freeze"/>
+    <animate attributeName="opacity" values="0;0.6" dur="0.3s" begin="2.6s" fill="freeze"/>
+    <animate attributeName="r" values="2;3.5;3" dur="0.8s" begin="2.6s" fill="freeze"/>
   </circle>
 
-  <!-- ═══ SETTLED BREATHING — after boot sequence ═══ -->
-
-  <!-- Grid intersection breathing dots (appear after boot) -->
+  <!-- ═══ SETTLED BREATHING (starts after circuits) ═══ -->
   <circle cx="300" cy="56" r="2" fill="#58A6FF" opacity="0">
-    <animate attributeName="opacity" values="0;0.15;0.5;0.15" dur="5s" begin="4s" repeatCount="indefinite"/>
-    <animate attributeName="r" values="1.5;2.5;1.5" dur="5s" begin="4s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;0.15;0.5;0.15" dur="5s" begin="3s" repeatCount="indefinite"/>
+    <animate attributeName="r" values="1.5;2.5;1.5" dur="5s" begin="3s" repeatCount="indefinite"/>
   </circle>
   <circle cx="600" cy="112" r="2" fill="#1F6FEB" opacity="0">
-    <animate attributeName="opacity" values="0;0.1;0.4;0.1" dur="6s" begin="4.2s" repeatCount="indefinite"/>
-    <animate attributeName="r" values="1.5;2.5;1.5" dur="6s" begin="4.2s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;0.1;0.4;0.1" dur="6s" begin="3.2s" repeatCount="indefinite"/>
+    <animate attributeName="r" values="1.5;2.5;1.5" dur="6s" begin="3.2s" repeatCount="indefinite"/>
   </circle>
   <circle cx="900" cy="168" r="2" fill="#388BFD" opacity="0">
-    <animate attributeName="opacity" values="0;0.1;0.45;0.1" dur="5.5s" begin="4.5s" repeatCount="indefinite"/>
-    <animate attributeName="r" values="1.5;2.5;1.5" dur="5.5s" begin="4.5s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;0.1;0.45;0.1" dur="5.5s" begin="3.5s" repeatCount="indefinite"/>
+    <animate attributeName="r" values="1.5;2.5;1.5" dur="5.5s" begin="3.5s" repeatCount="indefinite"/>
   </circle>
   <circle cx="400" cy="224" r="1.5" fill="#58A6FF" opacity="0">
-    <animate attributeName="opacity" values="0;0.08;0.35;0.08" dur="7s" begin="4.8s" repeatCount="indefinite"/>
-    <animate attributeName="r" values="1;2;1" dur="7s" begin="4.8s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;0.08;0.35;0.08" dur="7s" begin="3.8s" repeatCount="indefinite"/>
   </circle>
   <circle cx="800" cy="224" r="1.5" fill="#1F6FEB" opacity="0">
-    <animate attributeName="opacity" values="0;0.08;0.3;0.08" dur="6.5s" begin="5s" repeatCount="indefinite"/>
-    <animate attributeName="r" values="1;2;1" dur="6.5s" begin="5s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;0.08;0.3;0.08" dur="6.5s" begin="4s" repeatCount="indefinite"/>
   </circle>
 
-  <!-- ═══ TEXT LAYER — appears with name glow ═══ -->
+  <!-- ═══ TEXT — VISIBLE IMMEDIATELY (no delay) ═══ -->
 
-  <!-- Eyebrow (fades in) -->
+  <!-- Eyebrow -->
   <text x="600" y="80" text-anchor="middle"
     font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif"
     font-size="11" font-weight="500" letter-spacing="4"
-    fill="#58A6FF" opacity="0">
+    fill="#58A6FF" fill-opacity="0.75">
     FULL STACK DEVELOPER · AI BUILDER · CS ENGINEERING
-    <animate attributeName="opacity" values="0;0.75" dur="1s" begin="1s" fill="freeze"/>
   </text>
 
-  <!-- Name (fades in with soft glow via duplicate) -->
+  <!-- Name glow layer (subtle cyan behind name) -->
   <text x="600" y="148" text-anchor="middle"
     font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif"
     font-size="68" font-weight="700" letter-spacing="-2"
     fill="#1F6FEB" opacity="0">
     Pranav S Nair
-    <animate attributeName="opacity" values="0;0.15" dur="1.5s" begin="3.5s" fill="freeze"/>
+    <animate attributeName="opacity" values="0;0.12" dur="1s" begin="1.5s" fill="freeze"/>
   </text>
+
+  <!-- Name (always visible) -->
   <text x="600" y="148" text-anchor="middle"
     font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif"
     font-size="68" font-weight="700" letter-spacing="-2"
-    fill="url(#name-fill)" opacity="0">
+    fill="url(#name-fill)">
     Pranav S Nair
-    <animate attributeName="opacity" values="0;1" dur="1.5s" begin="3s" fill="freeze"/>
   </text>
 
-  <!-- Value proposition (fades in last) -->
+  <!-- Value proposition -->
   <text x="600" y="186" text-anchor="middle"
     font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif"
     font-size="16" font-weight="400" letter-spacing="0.3"
-    fill="#8B949E" opacity="0">
+    fill="#8B949E">
     Building AI-powered software that solves real-world problems.
-    <animate attributeName="opacity" values="0;1" dur="1s" begin="4s" fill="freeze"/>
   </text>
 
-  <!-- Horizontal rule (draws in) -->
-  <line x1="360" y1="210" x2="840" y2="210" stroke="url(#rule-h)" stroke-width="1" stroke-dasharray="480" stroke-dashoffset="480">
-    <animate attributeName="stroke-dashoffset" values="480;0" dur="1.5s" begin="4.5s" fill="freeze"/>
-  </line>
+  <!-- Horizontal rule -->
+  <line x1="360" y1="210" x2="840" y2="210" stroke="url(#rule-h)" stroke-width="1"/>
   <circle cx="600" cy="210" r="3" fill="#58A6FF" opacity="0">
-    <animate attributeName="opacity" values="0;0.6;1;0.6" dur="3s" begin="5s" repeatCount="indefinite"/>
-    <animate attributeName="r" values="2;4;2" dur="3s" begin="5s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;0.6;1;0.6" dur="3s" begin="3s" repeatCount="indefinite"/>
+    <animate attributeName="r" values="2;4;2" dur="3s" begin="3s" repeatCount="indefinite"/>
   </circle>
 
   <!-- Bottom vignette -->
