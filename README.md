@@ -319,26 +319,17 @@ My focus isn't just on making things work — it's on making them **understandab
 
 <p align="center">Open to collaborations, internships, and conversations about building meaningful software.</p>
 
-<br />
-
 <div align="center">
 
-<sub>PORTFOLIO & CODE</sub>
-<br /><br />
-<a href="https://pranavsnair.vercel.app"><img src="https://img.shields.io/badge/pranavsnair.vercel.app-0B5FFF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>&nbsp;
-<a href="https://github.com/Pranavsanthoshnair"><img src="https://img.shields.io/badge/Pranavsanthoshnair-161B22?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>&nbsp;
-<a href="https://leetcode.com/u/pranav_santhosh/"><img src="https://img.shields.io/badge/pranav__santhosh-111827?style=for-the-badge&logo=leetcode&logoColor=FFA116" alt="LeetCode" /></a>
-
-<br /><br />
-
-<sub>GET IN TOUCH</sub>
-<br /><br />
-<a href="https://linkedin.com/in/pranav-s-nair-97290b1ba"><img src="https://img.shields.io/badge/Pranav_S_Nair-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
-<a href="mailto:pranavsanthoshnair@gmail.com"><img src="https://img.shields.io/badge/pranavsanthoshnair%40gmail.com-1F6FEB?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://pranavsnair.vercel.app"><img src="https://img.shields.io/badge/Portfolio-0B5FFF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>&nbsp;
+<a href="https://github.com/Pranavsanthoshnair"><img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>&nbsp;
+<a href="https://linkedin.com/in/pranav-s-nair-97290b1ba"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+<a href="mailto:pranavsanthoshnair@gmail.com"><img src="https://img.shields.io/badge/Email-1F6FEB?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>&nbsp;
+<a href="https://leetcode.com/u/pranav_santhosh/"><img src="https://img.shields.io/badge/LeetCode-111827?style=for-the-badge&logo=leetcode&logoColor=FFA116" alt="LeetCode" /></a>
 
 </div>
 
-<br /><br />
+<br />
 
 <div align="center">
 <img src="./assets/footer.svg" alt="Building. Learning. Shipping. Repeating." width="100%" />
