@@ -37,7 +37,7 @@
 
 <img src="./assets/divider-wave.svg" width="100%" alt="" />
 
-<img src="./assets/section-featured-projects.svg" alt="Featured Projects" width="100%" /><p align="center"><sub>Selected work � shipped, live, and built with product intent.</sub></p>
+<img src="./assets/section-featured-projects.svg" alt="Featured Projects" width="100%" /><p align="center"><sub>Selected work shipped, live, and built with product intent.</sub></p>
 
 <a href="https://claimsightai.streamlit.app/">
 <img src="./assets/project-claimsight.svg" alt="ClaimSight AI" width="100%" />
