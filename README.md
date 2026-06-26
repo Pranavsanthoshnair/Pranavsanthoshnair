@@ -87,30 +87,9 @@ My focus isn't just on making things work — it's on making them **understandab
 
 <br />
 
-<table width="100%" cellspacing="0" cellpadding="0" border="0">
-<tr>
-<td width="4" bgcolor="#1F6FEB">&nbsp;</td>
-<td width="20">&nbsp;</td>
-<td>
+<div align="center">
 
-**ClaimSight AI** — AI-powered insurance claim verification platform using multimodal evidence analysis. Produces trust scores and structured verdicts, reducing manual review time while improving accuracy.
-
-<br />
-
-**Problem** — Insurance adjusters manually cross-check dozens of documents and images per claim, wasting hours on repetitive verification.
-
-**Solution** — Automated evidence pipeline using Vision AI, document parsing, and a structured decision engine powered by Gemini.
-
-**Impact** — Reduced claim verification time from hours to minutes with transparent, explainable trust scores.
-
-<br />
-
-**Highlights**
-
-- Multimodal reasoning across images, documents, and metadata
-- Structured verdicts with confidence scores and evidence trails
-- Real-time analysis via an intuitive Streamlit dashboard
-- National Hackathon Winner — TechThrive 2.0
+**AI-powered insurance claim verification platform.** Combines Vision AI, document parsing, and a decision engine to produce trust scores and structured verdicts — reducing manual review from hours to minutes.
 
 <br />
 
@@ -121,24 +100,17 @@ My focus isn't just on making things work — it's on making them **understandab
 
 <br /><br />
 
-<a href="https://claimsightai.streamlit.app/"><img src="https://img.shields.io/badge/Live%20Demo%20→-0B5FFF?style=for-the-badge&logo=streamlit&logoColor=white" alt="Live Demo" /></a>&nbsp;
-<a href="https://github.com/Pranavsanthoshnair/ClaimSight-AI"><img src="https://img.shields.io/badge/Repository-161B22?style=for-the-badge&logo=github&logoColor=white" alt="Repository" /></a>
+<a href="https://claimsightai.streamlit.app/"><img src="https://img.shields.io/badge/Live%20Demo%20→-0B5FFF?style=for-the-badge&logo=streamlit&logoColor=white" alt="Live Demo" /></a>
 
 <br /><br />
 
-<sub>🟢 Live &nbsp;·&nbsp; 2024 &nbsp;·&nbsp; AI Platform &nbsp;·&nbsp; Solo Developer</sub>
+<sub>AI Platform &nbsp;·&nbsp; National Hackathon Winner &nbsp;·&nbsp; 2024</sub>
 
-<br />
-
-<sub><em>"Automation should produce trust, not mystery."</em></sub>
-
-</td>
-</tr>
-</table>
+</div>
 
 <br /><br />
 
-<p align="center"><img src="./assets/divider.svg" width="60%" alt="" /></p>
+<p align="center"><img src="./assets/divider-wave.svg" width="60%" alt="" /></p>
 
 <br /><br />
 
@@ -150,30 +122,9 @@ My focus isn't just on making things work — it's on making them **understandab
 
 <br />
 
-<table width="100%" cellspacing="0" cellpadding="0" border="0">
-<tr>
-<td width="4" bgcolor="#1F6FEB">&nbsp;</td>
-<td width="20">&nbsp;</td>
-<td>
+<div align="center">
 
-**KMAP** — Privacy-first adaptive learning platform designed for rural and low-bandwidth environments. Students progress through procedurally generated exercises that adapt in real-time.
-
-<br />
-
-**Problem** — Students in rural areas lack stable internet and access to personalized, adaptive learning tools that adjust to their skill level.
-
-**Solution** — Offline-first knowledge capsule architecture with a rule engine that generates procedural questions and adapts difficulty without network dependency.
-
-**Impact** — Enables continuous learning in environments with zero or intermittent connectivity while maintaining academic rigor.
-
-<br />
-
-**Highlights**
-
-- Offline-first architecture with local knowledge capsules
-- Procedural question generation via rule engine
-- Real-time difficulty adaptation based on student performance
-- Privacy-preserving — no data leaves the device without consent
+**Privacy-first adaptive learning platform for rural and low-bandwidth environments.** Procedurally generated exercises with a rule engine that adapts difficulty in real-time — no constant internet required.
 
 <br />
 
@@ -186,19 +137,13 @@ My focus isn't just on making things work — it's on making them **understandab
 
 <br /><br />
 
-<sub>🟢 Live &nbsp;·&nbsp; 2024 &nbsp;·&nbsp; EdTech Platform &nbsp;·&nbsp; Team Lead</sub>
+<sub>EdTech Platform &nbsp;·&nbsp; Offline-First &nbsp;·&nbsp; 2024</sub>
 
-<br />
-
-<sub><em>"Learning shouldn't require a stable connection."</em></sub>
-
-</td>
-</tr>
-</table>
+</div>
 
 <br /><br />
 
-<p align="center"><img src="./assets/divider.svg" width="60%" alt="" /></p>
+<p align="center"><img src="./assets/divider-wave.svg" width="60%" alt="" /></p>
 
 <br /><br />
 
@@ -210,30 +155,9 @@ My focus isn't just on making things work — it's on making them **understandab
 
 <br />
 
-<table width="100%" cellspacing="0" cellpadding="0" border="0">
-<tr>
-<td width="4" bgcolor="#1F6FEB">&nbsp;</td>
-<td width="20">&nbsp;</td>
-<td>
+<div align="center">
 
-**TruSight** — AI-powered news aggregation and political bias detection platform. Helps users read current events with more context and form more informed opinions.
-
-<br />
-
-**Problem** — News readers struggle to identify political bias in articles and lack tools to compare narratives across sources objectively.
-
-**Solution** — Multi-source aggregation with AI-driven bias scoring, voice-based explanations, and a companion browser extension for in-context analysis.
-
-**Impact** — Empowers readers to understand media slant and make informed judgments instead of accepting single-source narratives.
-
-<br />
-
-**Highlights**
-
-- Political bias detection and scoring across news sources
-- AI-generated voice explanations for quick understanding
-- Browser extension for real-time bias overlay on any article
-- Full authentication and personalized reading history
+**AI-powered news aggregation and political bias detection.** Features voice explanations, a companion browser extension, and authentication — built so users can form more informed opinions.
 
 <br />
 
@@ -248,15 +172,9 @@ My focus isn't just on making things work — it's on making them **understandab
 
 <br /><br />
 
-<sub>🟢 Live &nbsp;·&nbsp; 2024 &nbsp;·&nbsp; News Platform &nbsp;·&nbsp; Solo Developer</sub>
+<sub>News Platform &nbsp;·&nbsp; Bias Detection &nbsp;·&nbsp; 2024</sub>
 
-<br />
-
-<sub><em>"Context is the antidote to bias."</em></sub>
-
-</td>
-</tr>
-</table>
+</div>
 
 <br />
 
