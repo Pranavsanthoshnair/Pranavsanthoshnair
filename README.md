@@ -263,7 +263,7 @@ My focus isn't just on making things work — it's on making them **understandab
 <td width="50%" align="center" valign="top">
 <p><b>Coding Time</b></p>
 <!--START_SECTION:waka-->
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Pranavsanthoshnair&hide_border=true&bg_color=00000000&title_color=1F6FEB&text_color=6B7280&custom_title=Coding%20Focus" alt="WakaTime" />
+<sub>Waiting for WakaTime data...</sub>
 <!--END_SECTION:waka-->
 </td>
 <td width="50%" align="center" valign="top">
