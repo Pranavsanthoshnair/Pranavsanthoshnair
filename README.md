@@ -6,7 +6,6 @@
 
 <div align="center">
 <a href="https://pranavsnair.vercel.app"><img src="https://img.shields.io/badge/Portfolio-0B5FFF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>&nbsp;
-<a href="https://github.com/Pranavsanthoshnair"><img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>&nbsp;
 <a href="https://linkedin.com/in/pranav-s-nair-97290b1ba"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
 <a href="mailto:pranavsanthoshnair@gmail.com"><img src="https://img.shields.io/badge/Email-1F6FEB?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>&nbsp;
 <a href="https://leetcode.com/u/pranav_santhosh/"><img src="https://img.shields.io/badge/LeetCode-111827?style=for-the-badge&logo=leetcode&logoColor=FFA116" alt="LeetCode" /></a>

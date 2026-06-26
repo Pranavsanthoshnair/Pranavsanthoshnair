@@ -68,6 +68,29 @@
   <rect width="1200" height="280" fill="url(#glow-l)"/>
   <rect width="1200" height="280" fill="url(#glow-r)"/>
 
+  <!-- Breathing grid nodes — subtle life at intersections -->
+  <circle cx="300" cy="56" r="2" fill="#58A6FF">
+    <animate attributeName="opacity" values="0.1;0.5;0.1" dur="4s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="600" cy="56" r="2.5" fill="#1F6FEB">
+    <animate attributeName="opacity" values="0.15;0.6;0.15" dur="5s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="900" cy="56" r="2" fill="#58A6FF">
+    <animate attributeName="opacity" values="0.1;0.45;0.1" dur="4.5s" repeatCount="indefinite" begin="1s"/>
+  </circle>
+  <circle cx="200" cy="168" r="2" fill="#388BFD">
+    <animate attributeName="opacity" values="0.08;0.4;0.08" dur="6s" repeatCount="indefinite" begin="2s"/>
+  </circle>
+  <circle cx="1000" cy="168" r="2" fill="#388BFD">
+    <animate attributeName="opacity" values="0.08;0.4;0.08" dur="5.5s" repeatCount="indefinite" begin="0.5s"/>
+  </circle>
+  <circle cx="500" cy="224" r="1.5" fill="#58A6FF">
+    <animate attributeName="opacity" values="0.05;0.35;0.05" dur="7s" repeatCount="indefinite" begin="3s"/>
+  </circle>
+  <circle cx="700" cy="224" r="1.5" fill="#1F6FEB">
+    <animate attributeName="opacity" values="0.05;0.35;0.05" dur="6.5s" repeatCount="indefinite" begin="1.5s"/>
+  </circle>
+
   <!-- Eyebrow -->
   <text
     x="600" y="80"
@@ -98,8 +121,12 @@
     Building AI-powered software that solves real-world problems.
   </text>
 
-  <!-- Horizontal rule -->
+  <!-- Horizontal rule with breathing centre node -->
   <line x1="360" y1="210" x2="840" y2="210" stroke="url(#rule-h)" stroke-width="1"/>
+  <circle cx="600" cy="210" r="3" fill="#58A6FF">
+    <animate attributeName="r" values="2.5;4;2.5" dur="3s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.5;1;0.5" dur="3s" repeatCount="indefinite"/>
+  </circle>
 
   <!-- Bottom vignette fade -->
   <rect x="0" y="230" width="1200" height="50" fill="url(#bottom-vignette)"/>
