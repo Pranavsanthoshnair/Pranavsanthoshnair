@@ -16,6 +16,13 @@
       <stop offset="0%" stop-color="#1F6FEB" stop-opacity="0.12"/>
       <stop offset="100%" stop-color="#1F6FEB" stop-opacity="0"/>
     </radialGradient>
+    <linearGradient id="scan" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#58A6FF" stop-opacity="0"/>
+      <stop offset="45%" stop-color="#58A6FF" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#58A6FF" stop-opacity="0.6"/>
+      <stop offset="55%" stop-color="#58A6FF" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#58A6FF" stop-opacity="0"/>
+    </linearGradient>
   </defs>
   <rect width="1200" height="90" fill="url(#bg)"/>
   <rect width="1200" height="90" fill="url(#glow)"/>
@@ -30,12 +37,23 @@
     <circle cx="700" cy="68" r="1"/><circle cx="800" cy="68" r="1"/><circle cx="900" cy="68" r="1"/>
     <circle cx="1000" cy="68" r="1"/><circle cx="1100" cy="68" r="1"/>
   </g>
-  <!-- Breathing nodes -->
-  <circle cx="200" cy="45" r="2" fill="#58A6FF">
-    <animate attributeName="opacity" values="0.1;0.5;0.1" dur="4s" repeatCount="indefinite"/>
+  <!-- Scanning line -->
+  <rect width="1200" height="90" fill="url(#scan)" opacity="0.4">
+    <animate attributeName="x" values="-1200;1200" dur="8s" repeatCount="indefinite"/>
+  </rect>
+  <!-- Breathing accent nodes -->
+  <circle cx="200" cy="45" r="2.5" fill="#58A6FF">
+    <animate attributeName="opacity" values="0.1;0.6;0.1" dur="4s" repeatCount="indefinite"/>
+    <animate attributeName="r" values="2;3;2" dur="4s" repeatCount="indefinite"/>
   </circle>
-  <circle cx="1000" cy="45" r="2" fill="#388BFD">
-    <animate attributeName="opacity" values="0.1;0.4;0.1" dur="5s" repeatCount="indefinite" begin="1s"/>
+  <circle cx="1000" cy="45" r="2.5" fill="#388BFD">
+    <animate attributeName="opacity" values="0.1;0.5;0.1" dur="5s" repeatCount="indefinite" begin="1s"/>
+    <animate attributeName="r" values="2;3;2" dur="5s" repeatCount="indefinite" begin="1s"/>
+  </circle>
+  <!-- Centre pulse dot -->
+  <circle cx="600" cy="80" r="2" fill="#58A6FF">
+    <animate attributeName="r" values="1.5;3;1.5" dur="3s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.4;1;0.4" dur="3s" repeatCount="indefinite"/>
   </circle>
   <!-- Eyebrow -->
   <text x="600" y="32" text-anchor="middle"
@@ -50,7 +68,8 @@
     Featured Projects
   </text>
   <!-- Bottom accent -->
-  <line x1="0" y1="89" x2="1200" y2="89" stroke="url(#accent)" stroke-width="1"/>
-  <!-- Border -->
+  <line x1="0" y1="89" x2="1200" y2="89" stroke="url(#accent)" stroke-width="1">
+    <animate attributeName="opacity" values="0.7;1;0.7" dur="4s" repeatCount="indefinite"/>
+  </line>
   <rect x="0.5" y="0.5" width="1199" height="89" fill="none" stroke="#21262D" stroke-width="1"/>
 </svg>
