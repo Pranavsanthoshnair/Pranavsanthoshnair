@@ -21,14 +21,28 @@
 
 <table width="100%" cellspacing="0" cellpadding="0" border="0">
 <tr>
-<td width="50%" valign="top">
-<p><b>The problem comes first.</b></p>
-I build because <b>useful software</b> can make complex work feel lighter — verifying an insurance claim, helping a learner study offline, or giving people clearer context around the news they read.
+<td width="49%" valign="top">
+
+<h3>The problem comes first.</h3>
+
+I build because **useful software** can make complex work feel lighter — verifying an insurance claim, helping a learner study offline, or giving people clearer context around the news they read.
+
+---
+
+<sub>Focus → Real inconveniences, not abstract ideas</sub>
+
 </td>
-<td width="24">&nbsp;</td>
-<td width="50%" valign="top">
-<p><b>Trust is the product.</b></p>
-My focus isn't just on making things work — it's on making them <b>understandable</b>, <b>reliable</b>, and <b>polished</b> enough for real people to trust. <b>Automation</b> should reduce friction, not create it.
+<td width="2%">&nbsp;</td>
+<td width="49%" valign="top">
+
+<h3>Trust is the product.</h3>
+
+My focus isn't just on making things work — it's on making them **understandable**, **reliable**, and **polished** enough for real people to trust. **Automation** should reduce friction, not create it.
+
+---
+
+<sub>Standard → Ship what people can rely on</sub>
+
 </td>
 </tr>
 </table>
