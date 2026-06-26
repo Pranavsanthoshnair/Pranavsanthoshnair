@@ -15,8 +15,7 @@
 <br /><br />
 
 <img src="https://komarev.com/ghpvc/?username=Pranavsanthoshnair&label=Profile+Views&color=1F6FEB&style=flat-square" alt="Profile Views" />&nbsp;
-<img src="https://img.shields.io/badge/Open%20to-Internships%20%26%20Collaborations-1F6FEB?style=flat-square" alt="Open to work" />&nbsp;
-<img src="https://img.shields.io/badge/Kerala%2C%20India-Remote%20%7C%20Hybrid-6B7280?style=flat-square" alt="Location" />
+<img src="https://img.shields.io/badge/Open%20to-Internships%20%26%20Collaborations-1F6FEB?style=flat-square" alt="Open to work" />
 
 </div>
 
