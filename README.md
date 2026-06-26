@@ -198,7 +198,9 @@ My focus isn't just on making things work — it's on making them **understandab
 
 <sub>AI & ML</sub>
 <br /><br />
-<img src="https://skillicons.dev/icons?i=huggingface,tensorflow,pytorch&theme=dark" height="40" alt="Hugging Face TensorFlow PyTorch" />
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark" height="40" alt="TensorFlow PyTorch" />
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=000" alt="Hugging Face" />
 <br /><br />
 <img src="https://img.shields.io/badge/Gemini-1F6FEB?style=flat-square&logo=google&logoColor=white" alt="Gemini" />&nbsp;
 <img src="https://img.shields.io/badge/Groq-111827?style=flat-square&logoColor=white" alt="Groq" />&nbsp;
