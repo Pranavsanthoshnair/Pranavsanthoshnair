@@ -51,7 +51,7 @@
 <img src="https://img.shields.io/badge/Vision%20AI-0B5FFF?style=flat-square" alt="Vision AI" />
 <br />
 <a href="https://claimsightai.streamlit.app/"><img src="https://img.shields.io/badge/Live%20Demo%20→-0B5FFF?style=for-the-badge&logo=streamlit&logoColor=white" alt="Live Demo" /></a>
-<br /><sub>AI Platform &nbsp;·&nbsp; National Hackathon Winner &nbsp;·&nbsp; 2026</sub>
+<br /><sub>AI Platform &nbsp;·&nbsp; Hackathon Product &nbsp;·&nbsp; 2026</sub>
 </div>
 
 <p align="center"><img src="./assets/divider-wave.svg" width="50%" alt="" /></p>
@@ -66,7 +66,7 @@
 <br />
 <a href="https://kmap-navy.vercel.app/"><img src="https://img.shields.io/badge/Live%20Demo%20→-0B5FFF?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" /></a>&nbsp;
 <a href="https://github.com/Pranavsanthoshnair/KMAP"><img src="https://img.shields.io/badge/Repository-161B22?style=for-the-badge&logo=github&logoColor=white" alt="Repository" /></a>
-<br /><sub>EdTech Platform &nbsp;·&nbsp; Offline-First &nbsp;·&nbsp; 2026</sub>
+<br /><sub>EdTech Platform &nbsp;·&nbsp; National Hackathon Winner &nbsp;·&nbsp; 2026</sub>
 </div>
 
 <p align="center"><img src="./assets/divider-wave.svg" width="50%" alt="" /></p>
