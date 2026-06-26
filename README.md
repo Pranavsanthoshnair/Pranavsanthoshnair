@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="./assets/header.svg" alt="Pranav S Nair — Full Stack Developer and AI Builder" width="100%" />
+  <img src="https://raw.githubusercontent.com/Pranavsanthoshnair/Pranavsanthoshnair/main/assets/header.svg" alt="Pranav S Nair — Full Stack Developer and AI Builder" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=18&duration=2600&pause=800&color=1F6FEB&center=true&vCenter=true&multiline=false&width=780&lines=Building+today+what+I+wish+existed+yesterday.;Full+Stack+Development+%C2%B7+Artificial+Intelligence;Machine+Learning+%C2%B7+Hackathons+%C2%B7+Open+Source;Always+Learning.+Always+Shipping." alt="Animated focus areas" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=18&duration=2600&pause=800&color=1F6FEB&center=true&vCenter=true&multiline=false&width=860&lines=Building+today+what+I+wish+existed+yesterday.;Full+Stack+Development+%C2%B7+Artificial+Intelligence;Machine+Learning+%C2%B7+Hackathons+%C2%B7+Open+Source;Always+Learning.+Always+Shipping." alt="Animated focus areas" />
 </p>
 
 <br />
@@ -22,24 +22,22 @@
   <img src="https://img.shields.io/badge/Kerala%2C%20India-Remote%20%7C%20Hybrid-6B7280?style=flat-square" alt="Based in Kerala, India" />
 </p>
 
-<p align="center"><img src="./assets/divider-wave.svg" alt="" width="100%" /></p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Pranavsanthoshnair/Pranavsanthoshnair/main/assets/divider-wave.svg" alt="" width="100%" />
+</p>
 
 <br />
 
 ## Why I Build
 
 <p align="center">
-  <em>Where product judgment, automation, and AI converge — that's where I work.</em>
-</p>
-
-<p align="justify">
-I build because useful software can make complex work feel lighter — verifying an insurance claim, helping a learner study offline in a rural village, or giving people clearer context around the news they read. I'm a Computer Science Engineering student who cares deeply about the gap between what AI can do and what people actually experience. My focus isn't just on making things work; it's on making them understandable, reliable, and polished enough for real people to trust. Automation should reduce friction, not create it. Meaningful software starts with a real problem — and earns its place through every iteration that brings it closer to something people genuinely need.
+  <img src="https://raw.githubusercontent.com/Pranavsanthoshnair/Pranavsanthoshnair/main/assets/why-i-build.svg" alt="Why I Build — Pranav S Nair" width="100%" />
 </p>
 
 <br />
 
 <p align="center">
-  <img src="./assets/banner.svg" alt="AI systems, product thinking, and polished engineering" width="100%" />
+  <img src="https://raw.githubusercontent.com/Pranavsanthoshnair/Pranavsanthoshnair/main/assets/banner.svg" alt="AI systems, product thinking, and polished engineering" width="100%" />
 </p>
 
 <br />
@@ -48,11 +46,14 @@ I build because useful software can make complex work feel lighter — verifying
   <img src="https://img.shields.io/badge/TechThrive_2.0-National_Hackathon_Winner-1F6FEB?style=flat-square" alt="TechThrive 2.0 National Hackathon Winner" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/GSSoC-Open_Source_Contributor-1F6FEB?style=flat-square" alt="GSSoC contributor" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/SSoC-Open_Source_Contributor-1F6FEB?style=flat-square" alt="SSoC contributor" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/NSoC-Open_Source_Contributor-1F6FEB?style=flat-square" alt="NSoC contributor" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/IEEE_SB_SJCET-Web_Team-1F6FEB?style=flat-square" alt="IEEE SB SJCET Web Team" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/IEDC-Skills_Officer-1F6FEB?style=flat-square" alt="IEDC Skills Officer" />
 </p>
 
-<p align="center"><img src="./assets/divider-wave.svg" alt="" width="100%" /></p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Pranavsanthoshnair/Pranavsanthoshnair/main/assets/divider-wave.svg" alt="" width="100%" />
+</p>
 
 <br />
 
@@ -67,7 +68,7 @@ I build because useful software can make complex work feel lighter — verifying
 <!-- ━━━━━━━━━━━━━━━━━━━━━━  ClaimSight AI  ━━━━━━━━━━━━━━━━━━━━━━ -->
 
 <a href="https://claimsightai.streamlit.app/">
-  <img src="./assets/claimsight-ai.svg" alt="ClaimSight AI — AI-powered insurance claim verification platform" width="100%" />
+  <img src="https://raw.githubusercontent.com/Pranavsanthoshnair/Pranavsanthoshnair/main/assets/claimsight-ai.svg" alt="ClaimSight AI — AI-powered insurance claim verification platform" width="100%" />
 </a>
 
 <h3 align="center">ClaimSight AI</h3>
@@ -92,18 +93,18 @@ I build because useful software can make complex work feel lighter — verifying
 
 <p align="center">
   <a href="https://claimsightai.streamlit.app/"><img src="https://img.shields.io/badge/Live_Demo-0B5FFF?style=for-the-badge&logo=streamlit&logoColor=white" alt="ClaimSight AI live demo" /></a>
-  &nbsp;
-  <a href="https://github.com/Pranavsanthoshnair/ClaimSight-AI"><img src="https://img.shields.io/badge/Source_Code-161B22?style=for-the-badge&logo=github&logoColor=white" alt="ClaimSight AI source code" /></a>
 </p>
 
 <br />
-<p align="center"><img src="./assets/divider.svg" alt="" width="80%" /></p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Pranavsanthoshnair/Pranavsanthoshnair/main/assets/divider.svg" alt="" width="80%" />
+</p>
 <br />
 
 <!-- ━━━━━━━━━━━━━━━━━━━━━━  KMAP  ━━━━━━━━━━━━━━━━━━━━━━ -->
 
 <a href="https://kmap-navy.vercel.app/">
-  <img src="./assets/kmap.svg" alt="KMAP — Knowledge Mapping Adaptive Platform" width="100%" />
+  <img src="https://raw.githubusercontent.com/Pranavsanthoshnair/Pranavsanthoshnair/main/assets/kmap.svg" alt="KMAP — Knowledge Mapping Adaptive Platform" width="100%" />
 </a>
 
 <h3 align="center">KMAP &nbsp;·&nbsp; Knowledge Mapping Adaptive Platform</h3>
@@ -129,18 +130,18 @@ I build because useful software can make complex work feel lighter — verifying
 
 <p align="center">
   <a href="https://kmap-navy.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-0B5FFF?style=for-the-badge&logo=vercel&logoColor=white" alt="KMAP live demo" /></a>
-  &nbsp;
-  <a href="https://github.com/Pranavsanthoshnair/KMAP"><img src="https://img.shields.io/badge/Source_Code-161B22?style=for-the-badge&logo=github&logoColor=white" alt="KMAP source code" /></a>
 </p>
 
 <br />
-<p align="center"><img src="./assets/divider.svg" alt="" width="80%" /></p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Pranavsanthoshnair/Pranavsanthoshnair/main/assets/divider.svg" alt="" width="80%" />
+</p>
 <br />
 
 <!-- ━━━━━━━━━━━━━━━━━━━━━━  TruSight  ━━━━━━━━━━━━━━━━━━━━━━ -->
 
 <a href="https://trusight.vercel.app/">
-  <img src="./assets/trusight.svg" alt="TruSight — AI news aggregation and political bias detection" width="100%" />
+  <img src="https://raw.githubusercontent.com/Pranavsanthoshnair/Pranavsanthoshnair/main/assets/trusight.svg" alt="TruSight — AI news aggregation and political bias detection" width="100%" />
 </a>
 
 <h3 align="center">TruSight</h3>
@@ -165,76 +166,59 @@ I build because useful software can make complex work feel lighter — verifying
 
 <p align="center">
   <a href="https://trusight.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-0B5FFF?style=for-the-badge&logo=vercel&logoColor=white" alt="TruSight live demo" /></a>
-  &nbsp;
-  <a href="https://github.com/Pranavsanthoshnair/TruSight"><img src="https://img.shields.io/badge/Source_Code-161B22?style=for-the-badge&logo=github&logoColor=white" alt="TruSight source code" /></a>
 </p>
 
-<p align="center"><img src="./assets/divider-wave.svg" alt="" width="100%" /></p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Pranavsanthoshnair/Pranavsanthoshnair/main/assets/divider-wave.svg" alt="" width="100%" />
+</p>
 
 <br />
 
 ## Tech Stack
 
-<table width="100%">
-  <tr>
-    <td width="33%" valign="top" align="center">
-      <h4>Languages</h4>
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=java,python,c,cpp,js,ts&theme=dark" />
-        <img src="https://skillicons.dev/icons?i=java,python,c,cpp,js,ts&theme=light" alt="Java, Python, C, C++, JavaScript, TypeScript" />
-      </picture>
-    </td>
-    <td width="33%" valign="top" align="center">
-      <h4>Frontend</h4>
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css&theme=dark" />
-        <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css&theme=light" alt="React, Next.js, TailwindCSS, HTML, CSS" />
-      </picture>
-    </td>
-    <td width="33%" valign="top" align="center">
-      <h4>Backend</h4>
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nodejs,express&theme=dark" />
-        <img src="https://skillicons.dev/icons?i=nodejs,express&theme=light" alt="Node.js and Express" />
-      </picture>
-    </td>
-  </tr>
-  <tr>
-    <td width="33%" valign="top" align="center">
-      <h4>Databases</h4>
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=postgres,mongodb,supabase,firebase&theme=dark" />
-        <img src="https://skillicons.dev/icons?i=postgres,mongodb,supabase,firebase&theme=light" alt="PostgreSQL, MongoDB, Supabase, Firebase" />
-      </picture>
-    </td>
-    <td width="33%" valign="top" align="center">
-      <h4>Cloud &amp; DevOps</h4>
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=docker,cloudflare,vercel&theme=dark" />
-        <img src="https://skillicons.dev/icons?i=docker,cloudflare,vercel&theme=light" alt="Docker, Cloudflare, Vercel" />
-      </picture>
-    </td>
-    <td width="33%" valign="top" align="center">
-      <h4>Developer Tools</h4>
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git,github,vscode,linux,figma&theme=dark" />
-        <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,figma&theme=light" alt="Git, GitHub, VS Code, Linux, Figma" />
-      </picture>
-      <br /><code>Jupyter Notebook</code>
-    </td>
-  </tr>
-</table>
-
 <p align="center">
-  <strong>AI &amp; ML</strong>&nbsp;&nbsp;
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=huggingface&theme=dark" />
-    <img src="https://skillicons.dev/icons?i=huggingface&theme=light" alt="Hugging Face" height="28" />
-  </picture>
-  &nbsp;&nbsp;<code>Gemini</code>&nbsp;<code>Groq</code>&nbsp;<code>OpenRouter</code>&nbsp;<code>LangChain</code>
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=14&duration=2000&pause=400&color=1F6FEB&center=true&vCenter=true&width=600&lines=Languages+%C2%B7+Frontend+%C2%B7+Backend+%C2%B7+Databases+%C2%B7+Cloud+%C2%B7+AI" alt="Tech stack categories" />
 </p>
 
-<p align="center"><img src="./assets/divider.svg" alt="" width="100%" /></p>
+<h4 align="center">Languages</h4>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,c,cpp,js,ts&theme=dark" alt="Java, Python, C, C++, JavaScript, TypeScript" />
+</p>
+
+<h4 align="center">Frontend</h4>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css&theme=dark" alt="React, Next.js, TailwindCSS, HTML, CSS" />
+</p>
+
+<h4 align="center">Backend &amp; Databases</h4>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb,supabase,firebase&theme=dark" alt="Node.js, Express, PostgreSQL, MongoDB, Supabase, Firebase" />
+</p>
+
+<h4 align="center">Cloud, DevOps &amp; Tools</h4>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,cloudflare,vercel,git,github,vscode,linux,figma&theme=dark" alt="Docker, Cloudflare, Vercel, Git, GitHub, VS Code, Linux, Figma" />
+</p>
+
+<h4 align="center">AI &amp; ML</h4>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=huggingface,tensorflow,pytorch&theme=dark" alt="Hugging Face, TensorFlow, PyTorch" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Gemini-1F6FEB?style=flat-square&logo=google&logoColor=white" alt="Gemini" />&nbsp;
+  <img src="https://img.shields.io/badge/Groq-111827?style=flat-square&logoColor=white" alt="Groq" />&nbsp;
+  <img src="https://img.shields.io/badge/OpenRouter-1F6FEB?style=flat-square&logoColor=white" alt="OpenRouter" />&nbsp;
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain" />&nbsp;
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Pranavsanthoshnair/Pranavsanthoshnair/main/assets/divider.svg" alt="" width="100%" />
+</p>
 
 <br />
 
@@ -251,7 +235,9 @@ I build because useful software can make complex work feel lighter — verifying
   <img src="https://img.shields.io/badge/LLMs-Building-1F6FEB?style=flat-square" alt="LLMs" />
 </p>
 
-<p align="center"><img src="./assets/divider-wave.svg" alt="" width="100%" /></p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Pranavsanthoshnair/Pranavsanthoshnair/main/assets/divider-wave.svg" alt="" width="100%" />
+</p>
 
 <br />
 
@@ -270,7 +256,9 @@ I build because useful software can make complex work feel lighter — verifying
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pranavsanthoshnair&bg_color=00000000&color=6B7280&line=1F6FEB&point=58A6FF&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="Contribution activity graph" width="100%" />
 </p>
 
-<p align="center"><img src="./assets/divider.svg" alt="" width="100%" /></p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Pranavsanthoshnair/Pranavsanthoshnair/main/assets/divider.svg" alt="" width="100%" />
+</p>
 
 <br />
 
@@ -280,7 +268,9 @@ I build because useful software can make complex work feel lighter — verifying
   <img src="https://metrics.lecoq.io/Pranavsanthoshnair?template=classic&base=header%2Cactivity%2Ccommunity%2Crepositories%2Cmetadata&config.timezone=Asia%2FCalcutta&config.display=large&config.base.indepth=false&config.colors=github" alt="GitHub metrics dashboard" width="100%" />
 </p>
 
-<p align="center"><img src="./assets/divider-wave.svg" alt="" width="100%" /></p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Pranavsanthoshnair/Pranavsanthoshnair/main/assets/divider-wave.svg" alt="" width="100%" />
+</p>
 
 <br />
 
@@ -315,67 +305,21 @@ I build because useful software can make complex work feel lighter — verifying
   </picture>
 </p>
 
-<p align="center"><img src="./assets/divider-wave.svg" alt="" width="100%" /></p>
-
-<br />
-
-## Roadmap
-
-<p align="center"><sub>Where I am investing deliberate practice right now.</sub></p>
-
-<br />
-
-<table width="100%">
-  <tr>
-    <td width="180"><strong>Machine Learning</strong></td>
-    <td>
-      <img src="https://geps.dev/progress/72?dangerColor=1F6FEB&warningColor=1F6FEB&successColor=1F6FEB" alt="Machine Learning 72%" />
-      &nbsp;<code>72%</code>
-    </td>
-  </tr>
-  <tr>
-    <td><strong>AI Engineering</strong></td>
-    <td>
-      <img src="https://geps.dev/progress/78?dangerColor=1F6FEB&warningColor=1F6FEB&successColor=1F6FEB" alt="AI Engineering 78%" />
-      &nbsp;<code>78%</code>
-    </td>
-  </tr>
-  <tr>
-    <td><strong>Cloud &amp; Infrastructure</strong></td>
-    <td>
-      <img src="https://geps.dev/progress/58?dangerColor=1F6FEB&warningColor=1F6FEB&successColor=1F6FEB" alt="Cloud 58%" />
-      &nbsp;<code>58%</code>
-    </td>
-  </tr>
-  <tr>
-    <td><strong>System Design</strong></td>
-    <td>
-      <img src="https://geps.dev/progress/54?dangerColor=1F6FEB&warningColor=1F6FEB&successColor=1F6FEB" alt="System Design 54%" />
-      &nbsp;<code>54%</code>
-    </td>
-  </tr>
-  <tr>
-    <td><strong>Open Source</strong></td>
-    <td>
-      <img src="https://geps.dev/progress/66?dangerColor=1F6FEB&warningColor=1F6FEB&successColor=1F6FEB" alt="Open Source 66%" />
-      &nbsp;<code>66%</code>
-    </td>
-  </tr>
-</table>
-
-<p align="center"><img src="./assets/divider.svg" alt="" width="100%" /></p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Pranavsanthoshnair/Pranavsanthoshnair/main/assets/divider-wave.svg" alt="" width="100%" />
+</p>
 
 <br />
 
 ## Engineering Philosophy
 
-<p align="justify">
-The most valuable software starts as a specific inconvenience — not an abstract market opportunity. I try to build for those moments: the adjuster who has to manually cross-check fifty documents, the student in a village with no stable internet, the reader who can't tell if an article is slanted. Real problems make better products.
-
-My approach is to ship the narrow, working version first, watch where it breaks for actual users, and iterate on the details until the experience feels inevitable rather than engineered. I care about interfaces because design is part of the contract — it tells people what a system is doing and whether they can trust it. With AI in the stack, that contract becomes even more important: intelligent automation should reduce friction, not add mystery. I'm still learning every day. I try to make that visible through shipped work.
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Pranavsanthoshnair/Pranavsanthoshnair/main/assets/philosophy.svg" alt="Engineering Philosophy — Pranav S Nair" width="100%" />
 </p>
 
-<p align="center"><img src="./assets/divider-wave.svg" alt="" width="100%" /></p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Pranavsanthoshnair/Pranavsanthoshnair/main/assets/divider-wave.svg" alt="" width="100%" />
+</p>
 
 <br />
 
@@ -385,7 +329,7 @@ My approach is to ship the narrow, working version first, watch where it breaks 
 
 <!--START_SECTION:activity-->
 - Shipping AI-powered products across insurance, education, and media.
-- Contributing to open source through GSSoC, SSoC, and community repositories.
+- Contributing to open source through GSSoC, SSoC, NSoC, and community repositories.
 - Building full-stack systems with React, Next.js, Python, and Supabase.
 <!--END_SECTION:activity-->
 
@@ -425,7 +369,9 @@ This profile is kept current through a suite of GitHub Actions workflows:
 
 </details>
 
-<p align="center"><img src="./assets/divider-wave.svg" alt="" width="100%" /></p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Pranavsanthoshnair/Pranavsanthoshnair/main/assets/divider-wave.svg" alt="" width="100%" />
+</p>
 
 <br />
 
@@ -470,9 +416,9 @@ This profile is kept current through a suite of GitHub Actions workflows:
 <br />
 
 <p align="center">
-  <img src="./assets/footer.svg" alt="Building. Learning. Shipping. Repeating." width="100%" />
+  <img src="https://raw.githubusercontent.com/Pranavsanthoshnair/Pranavsanthoshnair/main/assets/footer.svg" alt="Building. Learning. Shipping. Repeating." width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=14&duration=3000&pause=800&color=1F6FEB&center=true&vCenter=true&width=520&lines=Building.;Learning.;Shipping.;Repeating." alt="Building, learning, shipping, repeating" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=13&duration=3000&pause=800&color=1F6FEB&center=true&vCenter=true&width=520&lines=Building.;Learning.;Shipping.;Repeating." alt="Building, learning, shipping, repeating" />
 </p>

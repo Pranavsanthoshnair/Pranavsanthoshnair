@@ -1,0 +1,95 @@
+<svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="phil-title">
+  <title id="phil-title">Engineering Philosophy — Pranav S Nair</title>
+  <defs>
+    <linearGradient id="philBg" x1="0" y1="0" x2="1200" y2="360" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F0F7FF"/>
+      <stop offset="1" stop-color="#EAF3FF"/>
+    </linearGradient>
+    <linearGradient id="philAccent" x1="0" y1="0" x2="0" y2="320" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#1F6FEB" stop-opacity="0"/>
+      <stop offset="0.4" stop-color="#58A6FF" stop-opacity="0.9"/>
+      <stop offset="0.6" stop-color="#1F6FEB" stop-opacity="0.9"/>
+      <stop offset="1" stop-color="#1F6FEB" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="philPill" x1="0" y1="0" x2="220" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0F172A"/>
+      <stop offset="1" stop-color="#1E293B"/>
+    </linearGradient>
+    <linearGradient id="philBorder" x1="0" y1="0" x2="1200" y2="360" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#1F6FEB" stop-opacity="0.08"/>
+      <stop offset="0.5" stop-color="#58A6FF" stop-opacity="0.25"/>
+      <stop offset="1" stop-color="#1F6FEB" stop-opacity="0.08"/>
+    </linearGradient>
+    <filter id="philOrb">
+      <feGaussianBlur stdDeviation="45"/>
+    </filter>
+    <style>
+      .ph { fill: #334155; }
+      .phh { fill: #0F172A; }
+      .pha { fill: #1F6FEB; }
+      @media (prefers-color-scheme: dark) {
+        .ph { fill: #94A3B8; }
+        .phh { fill: #E6EDF3; }
+        .pha { fill: #58A6FF; }
+      }
+    </style>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1200" height="360" rx="24" fill="url(#philBg)"/>
+
+  <!-- Ambient orbs -->
+  <circle cx="200" cy="80" r="90" fill="#58A6FF" fill-opacity="0.06" filter="url(#philOrb)">
+    <animate attributeName="cx" values="180;220;180" dur="11s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="1050" cy="300" r="80" fill="#1F6FEB" fill-opacity="0.07" filter="url(#philOrb)">
+    <animate attributeName="cx" values="1030;1070;1030" dur="9s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- Outer border -->
+  <rect x="1" y="1" width="1198" height="358" rx="24" fill="none" stroke="url(#philBorder)" stroke-width="1.5"/>
+
+  <!-- Left accent bar -->
+  <rect x="60" y="20" width="3" height="320" rx="2" fill="url(#philAccent)"/>
+
+  <!-- Dark pill label -->
+  <rect x="80" y="36" width="212" height="30" rx="15" fill="url(#philPill)"/>
+  <text x="186" y="56" text-anchor="middle" fill="#E6EDF3" font-family="Inter, -apple-system, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" letter-spacing="1.5">ENGINEERING PHILOSOPHY</text>
+
+  <!-- Paragraph 1 heading -->
+  <text class="pha" x="80" y="106" font-family="Inter, -apple-system, Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" letter-spacing="0.5">SPECIFICITY OVER ABSTRACTION</text>
+  <text class="ph" x="80" y="130" font-family="Inter, -apple-system, Segoe UI, Arial, sans-serif" font-size="15">The most valuable software starts as a specific inconvenience — not an abstract market opportunity.</text>
+  <text class="ph" x="80" y="152" font-family="Inter, -apple-system, Segoe UI, Arial, sans-serif" font-size="15">Build for those moments: the adjuster who has to manually cross-check fifty documents, the student</text>
+  <text class="ph" x="80" y="174" font-family="Inter, -apple-system, Segoe UI, Arial, sans-serif" font-size="15">in a village without internet, the reader who can't tell if an article is slanted.</text>
+
+  <!-- Divider micro-line -->
+  <line x1="80" y1="194" x2="600" y2="194" stroke="#1F6FEB" stroke-opacity="0.15" stroke-width="1"/>
+
+  <!-- Paragraph 2 heading -->
+  <text class="pha" x="80" y="220" font-family="Inter, -apple-system, Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" letter-spacing="0.5">SHIP NARROW, ITERATE WIDE</text>
+  <text class="ph" x="80" y="244" font-family="Inter, -apple-system, Segoe UI, Arial, sans-serif" font-size="15">Ship the narrow, working version first. Watch where it breaks for actual users. Iterate until the</text>
+  <text class="ph" x="80" y="266" font-family="Inter, -apple-system, Segoe UI, Arial, sans-serif" font-size="15">experience feels inevitable rather than engineered. With AI in the stack, that contract becomes</text>
+  <text class="ph" x="80" y="288" font-family="Inter, -apple-system, Segoe UI, Arial, sans-serif" font-size="15">critical — intelligent automation should reduce friction, not add mystery.</text>
+
+  <!-- Four principle chips -->
+  <rect x="80" y="314" width="96" height="30" rx="15" fill="#1F6FEB" fill-opacity="0.10" stroke="#1F6FEB" stroke-opacity="0.25" stroke-width="1"/>
+  <text x="128" y="333" text-anchor="middle" fill="#1F6FEB" font-family="Inter, -apple-system, Segoe UI, Arial, sans-serif" font-size="11.5" font-weight="600">Ship First</text>
+
+  <rect x="188" y="314" width="96" height="30" rx="15" fill="#1F6FEB" fill-opacity="0.10" stroke="#1F6FEB" stroke-opacity="0.25" stroke-width="1"/>
+  <text x="236" y="333" text-anchor="middle" fill="#1F6FEB" font-family="Inter, -apple-system, Segoe UI, Arial, sans-serif" font-size="11.5" font-weight="600">Iterate Fast</text>
+
+  <rect x="296" y="314" width="116" height="30" rx="15" fill="#1F6FEB" fill-opacity="0.10" stroke="#1F6FEB" stroke-opacity="0.25" stroke-width="1"/>
+  <text x="354" y="333" text-anchor="middle" fill="#1F6FEB" font-family="Inter, -apple-system, Segoe UI, Arial, sans-serif" font-size="11.5" font-weight="600">Design Matters</text>
+
+  <rect x="424" y="314" width="126" height="30" rx="15" fill="#1F6FEB" fill-opacity="0.10" stroke="#1F6FEB" stroke-opacity="0.25" stroke-width="1"/>
+  <text x="487" y="333" text-anchor="middle" fill="#1F6FEB" font-family="Inter, -apple-system, Segoe UI, Arial, sans-serif" font-size="11.5" font-weight="600">Always Learning</text>
+
+  <!-- Animated pulse on far right -->
+  <circle cx="1120" cy="180" r="5" fill="#1F6FEB" fill-opacity="0.15">
+    <animate attributeName="r" values="4;10;4" dur="3s" repeatCount="indefinite"/>
+    <animate attributeName="fill-opacity" values="0.15;0.04;0.15" dur="3s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="1120" cy="180" r="3" fill="#58A6FF">
+    <animate attributeName="opacity" values="0.4;1;0.4" dur="3s" repeatCount="indefinite"/>
+  </circle>
+</svg>
