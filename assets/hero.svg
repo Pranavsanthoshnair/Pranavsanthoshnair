@@ -4,37 +4,51 @@
 
   <defs>
     <linearGradient id="bg-grad" x1="0" y1="0" x2="0" y2="1" gradientUnits="objectBoundingBox">
-      <stop offset="0%"   stop-color="#0D1117"/>
+      <stop offset="0%" stop-color="#0D1117"/>
       <stop offset="100%" stop-color="#0A0E14"/>
     </linearGradient>
     <radialGradient id="glow-c" cx="50%" cy="46%" r="40%" gradientUnits="objectBoundingBox">
-      <stop offset="0%"   stop-color="#1F6FEB" stop-opacity="0.22"/>
-      <stop offset="60%"  stop-color="#1F6FEB" stop-opacity="0.06"/>
+      <stop offset="0%" stop-color="#1F6FEB" stop-opacity="0.22"/>
+      <stop offset="60%" stop-color="#1F6FEB" stop-opacity="0.06"/>
       <stop offset="100%" stop-color="#1F6FEB" stop-opacity="0"/>
     </radialGradient>
     <radialGradient id="glow-l" cx="12%" cy="55%" r="35%" gradientUnits="objectBoundingBox">
-      <stop offset="0%"   stop-color="#58A6FF" stop-opacity="0.10"/>
+      <stop offset="0%" stop-color="#58A6FF" stop-opacity="0.10"/>
       <stop offset="100%" stop-color="#58A6FF" stop-opacity="0"/>
     </radialGradient>
     <radialGradient id="glow-r" cx="88%" cy="40%" r="30%" gradientUnits="objectBoundingBox">
-      <stop offset="0%"   stop-color="#388BFD" stop-opacity="0.09"/>
+      <stop offset="0%" stop-color="#388BFD" stop-opacity="0.09"/>
       <stop offset="100%" stop-color="#388BFD" stop-opacity="0"/>
     </radialGradient>
     <linearGradient id="name-fill" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%"   stop-color="#C9D1D9"/>
-      <stop offset="40%"  stop-color="#FFFFFF"/>
+      <stop offset="0%" stop-color="#C9D1D9"/>
+      <stop offset="40%" stop-color="#FFFFFF"/>
       <stop offset="100%" stop-color="#79B8FF"/>
     </linearGradient>
     <linearGradient id="rule-h" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%"   stop-color="#1F6FEB" stop-opacity="0"/>
-      <stop offset="25%"  stop-color="#1F6FEB" stop-opacity="0.55"/>
-      <stop offset="50%"  stop-color="#58A6FF" stop-opacity="0.9"/>
-      <stop offset="75%"  stop-color="#1F6FEB" stop-opacity="0.55"/>
+      <stop offset="0%" stop-color="#1F6FEB" stop-opacity="0"/>
+      <stop offset="25%" stop-color="#1F6FEB" stop-opacity="0.55"/>
+      <stop offset="50%" stop-color="#58A6FF" stop-opacity="0.9"/>
+      <stop offset="75%" stop-color="#1F6FEB" stop-opacity="0.55"/>
       <stop offset="100%" stop-color="#1F6FEB" stop-opacity="0"/>
     </linearGradient>
     <linearGradient id="bottom-vignette" x1="0%" y1="0%" x2="0%" y2="100%">
-      <stop offset="0%"   stop-color="#0D1117" stop-opacity="0"/>
+      <stop offset="0%" stop-color="#0D1117" stop-opacity="0"/>
       <stop offset="100%" stop-color="#0D1117" stop-opacity="1"/>
+    </linearGradient>
+    <linearGradient id="scan-h" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#58A6FF" stop-opacity="0"/>
+      <stop offset="40%" stop-color="#58A6FF" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#58A6FF" stop-opacity="0.35"/>
+      <stop offset="60%" stop-color="#58A6FF" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#58A6FF" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="scan-v" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#1F6FEB" stop-opacity="0"/>
+      <stop offset="40%" stop-color="#1F6FEB" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#1F6FEB" stop-opacity="0.3"/>
+      <stop offset="60%" stop-color="#1F6FEB" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#1F6FEB" stop-opacity="0"/>
     </linearGradient>
   </defs>
 
@@ -43,58 +57,101 @@
 
   <!-- Grid — vertical -->
   <g opacity="0.18" stroke="#3B82F6" stroke-width="0.5">
-    <line x1="100"  y1="0" x2="100"  y2="280"/>
-    <line x1="200"  y1="0" x2="200"  y2="280"/>
-    <line x1="300"  y1="0" x2="300"  y2="280"/>
-    <line x1="400"  y1="0" x2="400"  y2="280"/>
-    <line x1="500"  y1="0" x2="500"  y2="280"/>
-    <line x1="600"  y1="0" x2="600"  y2="280"/>
-    <line x1="700"  y1="0" x2="700"  y2="280"/>
-    <line x1="800"  y1="0" x2="800"  y2="280"/>
-    <line x1="900"  y1="0" x2="900"  y2="280"/>
+    <line x1="100" y1="0" x2="100" y2="280"/>
+    <line x1="200" y1="0" x2="200" y2="280"/>
+    <line x1="300" y1="0" x2="300" y2="280"/>
+    <line x1="400" y1="0" x2="400" y2="280"/>
+    <line x1="500" y1="0" x2="500" y2="280"/>
+    <line x1="600" y1="0" x2="600" y2="280"/>
+    <line x1="700" y1="0" x2="700" y2="280"/>
+    <line x1="800" y1="0" x2="800" y2="280"/>
+    <line x1="900" y1="0" x2="900" y2="280"/>
     <line x1="1000" y1="0" x2="1000" y2="280"/>
     <line x1="1100" y1="0" x2="1100" y2="280"/>
   </g>
   <!-- Grid — horizontal -->
   <g opacity="0.18" stroke="#3B82F6" stroke-width="0.5">
-    <line x1="0" y1="56"  x2="1200" y2="56"/>
+    <line x1="0" y1="56" x2="1200" y2="56"/>
     <line x1="0" y1="112" x2="1200" y2="112"/>
     <line x1="0" y1="168" x2="1200" y2="168"/>
     <line x1="0" y1="224" x2="1200" y2="224"/>
   </g>
 
-  <!-- Radial glow overlays -->
+  <!-- Radial glows -->
   <rect width="1200" height="280" fill="url(#glow-c)"/>
   <rect width="1200" height="280" fill="url(#glow-l)"/>
   <rect width="1200" height="280" fill="url(#glow-r)"/>
 
-  <!-- Breathing grid nodes — subtle life at intersections -->
+  <!-- Horizontal scanning beam -->
+  <rect width="1200" height="280" fill="url(#scan-h)" opacity="0.5">
+    <animate attributeName="x" values="-1200;1200" dur="6s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- Vertical scanning beam -->
+  <rect width="1200" height="280" fill="url(#scan-v)" opacity="0.4">
+    <animate attributeName="y" values="-280;280" dur="8s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- Orbiting dots — simulated via animated cx -->
+  <circle cy="140" r="2" fill="#58A6FF" opacity="0.5">
+    <animate attributeName="cx" values="100;1100;100" dur="20s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.2;0.6;0.2" dur="20s" repeatCount="indefinite"/>
+  </circle>
+  <circle cy="140" r="1.5" fill="#388BFD" opacity="0.4">
+    <animate attributeName="cx" values="1100;100;1100" dur="24s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.15;0.5;0.15" dur="24s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- Breathing grid intersection nodes -->
   <circle cx="300" cy="56" r="2" fill="#58A6FF">
     <animate attributeName="opacity" values="0.1;0.5;0.1" dur="4s" repeatCount="indefinite"/>
+    <animate attributeName="r" values="1.5;2.5;1.5" dur="4s" repeatCount="indefinite"/>
   </circle>
   <circle cx="600" cy="56" r="2.5" fill="#1F6FEB">
     <animate attributeName="opacity" values="0.15;0.6;0.15" dur="5s" repeatCount="indefinite"/>
+    <animate attributeName="r" values="2;3;2" dur="5s" repeatCount="indefinite"/>
   </circle>
   <circle cx="900" cy="56" r="2" fill="#58A6FF">
     <animate attributeName="opacity" values="0.1;0.45;0.1" dur="4.5s" repeatCount="indefinite" begin="1s"/>
+    <animate attributeName="r" values="1.5;2.5;1.5" dur="4.5s" repeatCount="indefinite" begin="1s"/>
   </circle>
   <circle cx="200" cy="168" r="2" fill="#388BFD">
     <animate attributeName="opacity" values="0.08;0.4;0.08" dur="6s" repeatCount="indefinite" begin="2s"/>
+    <animate attributeName="r" values="1.5;2.5;1.5" dur="6s" repeatCount="indefinite" begin="2s"/>
   </circle>
   <circle cx="1000" cy="168" r="2" fill="#388BFD">
     <animate attributeName="opacity" values="0.08;0.4;0.08" dur="5.5s" repeatCount="indefinite" begin="0.5s"/>
+    <animate attributeName="r" values="1.5;2.5;1.5" dur="5.5s" repeatCount="indefinite" begin="0.5s"/>
   </circle>
   <circle cx="500" cy="224" r="1.5" fill="#58A6FF">
     <animate attributeName="opacity" values="0.05;0.35;0.05" dur="7s" repeatCount="indefinite" begin="3s"/>
+    <animate attributeName="r" values="1;2;1" dur="7s" repeatCount="indefinite" begin="3s"/>
   </circle>
   <circle cx="700" cy="224" r="1.5" fill="#1F6FEB">
     <animate attributeName="opacity" values="0.05;0.35;0.05" dur="6.5s" repeatCount="indefinite" begin="1.5s"/>
+    <animate attributeName="r" values="1;2;1" dur="6.5s" repeatCount="indefinite" begin="1.5s"/>
+  </circle>
+
+  <!-- Pulsing corner accents -->
+  <circle cx="50" cy="50" r="3" fill="#1F6FEB">
+    <animate attributeName="opacity" values="0.1;0.4;0.1" dur="3s" repeatCount="indefinite"/>
+    <animate attributeName="r" values="2;4;2" dur="3s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="1150" cy="50" r="3" fill="#58A6FF">
+    <animate attributeName="opacity" values="0.1;0.35;0.1" dur="3.5s" repeatCount="indefinite" begin="1s"/>
+    <animate attributeName="r" values="2;4;2" dur="3.5s" repeatCount="indefinite" begin="1s"/>
+  </circle>
+  <circle cx="50" cy="230" r="3" fill="#58A6FF">
+    <animate attributeName="opacity" values="0.08;0.3;0.08" dur="4s" repeatCount="indefinite" begin="0.5s"/>
+    <animate attributeName="r" values="2;4;2" dur="4s" repeatCount="indefinite" begin="0.5s"/>
+  </circle>
+  <circle cx="1150" cy="230" r="3" fill="#1F6FEB">
+    <animate attributeName="opacity" values="0.08;0.35;0.08" dur="3.5s" repeatCount="indefinite" begin="2s"/>
+    <animate attributeName="r" values="2;4;2" dur="3.5s" repeatCount="indefinite" begin="2s"/>
   </circle>
 
   <!-- Eyebrow -->
-  <text
-    x="600" y="80"
-    text-anchor="middle"
+  <text x="600" y="80" text-anchor="middle"
     font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif"
     font-size="11" font-weight="500" letter-spacing="4"
     fill="#58A6FF" fill-opacity="0.75">
@@ -102,9 +159,7 @@
   </text>
 
   <!-- Name -->
-  <text
-    x="600" y="148"
-    text-anchor="middle"
+  <text x="600" y="148" text-anchor="middle"
     font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif"
     font-size="68" font-weight="700" letter-spacing="-2"
     fill="url(#name-fill)">
@@ -112,22 +167,22 @@
   </text>
 
   <!-- Value proposition -->
-  <text
-    x="600" y="186"
-    text-anchor="middle"
+  <text x="600" y="186" text-anchor="middle"
     font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif"
     font-size="16" font-weight="400" letter-spacing="0.3"
     fill="#8B949E">
     Building AI-powered software that solves real-world problems.
   </text>
 
-  <!-- Horizontal rule with breathing centre node -->
-  <line x1="360" y1="210" x2="840" y2="210" stroke="url(#rule-h)" stroke-width="1"/>
+  <!-- Horizontal rule with pulsing centre -->
+  <line x1="360" y1="210" x2="840" y2="210" stroke="url(#rule-h)" stroke-width="1">
+    <animate attributeName="opacity" values="0.7;1;0.7" dur="3s" repeatCount="indefinite"/>
+  </line>
   <circle cx="600" cy="210" r="3" fill="#58A6FF">
-    <animate attributeName="r" values="2.5;4;2.5" dur="3s" repeatCount="indefinite"/>
+    <animate attributeName="r" values="2;4;2" dur="3s" repeatCount="indefinite"/>
     <animate attributeName="opacity" values="0.5;1;0.5" dur="3s" repeatCount="indefinite"/>
   </circle>
 
-  <!-- Bottom vignette fade -->
+  <!-- Bottom vignette -->
   <rect x="0" y="230" width="1200" height="50" fill="url(#bottom-vignette)"/>
 </svg>
