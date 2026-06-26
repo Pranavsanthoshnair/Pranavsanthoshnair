@@ -281,9 +281,9 @@ My focus isn't just on making things work — it's on making them **understandab
 
 <div align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="./output/github-contribution-grid-snake.svg" />
-  <img src="./output/github-contribution-grid-snake.svg" alt="Contribution Snake" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Pranavsanthoshnair/Pranavsanthoshnair/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Pranavsanthoshnair/Pranavsanthoshnair/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/Pranavsanthoshnair/Pranavsanthoshnair/output/github-contribution-grid-snake.svg" alt="Contribution Snake" width="100%" />
 </picture>
 </div>
 
@@ -291,15 +291,17 @@ My focus isn't just on making things work — it's on making them **understandab
 
 <h2 align="center">Engineering Philosophy</h2>
 
-<table width="100%" cellspacing="0" cellpadding="0" border="0">
-<tr>
-<td width="4" bgcolor="#1F6FEB">&nbsp;</td>
-<td width="40">&nbsp;</td>
-<td>
+<br />
 
-<p><b>Specificity over abstraction.</b>&nbsp; The most valuable software starts as a specific inconvenience — not an abstract market opportunity. Build for those moments: the adjuster who has to manually cross-check fifty documents, the student in a village without internet, the reader who can't tell if an article is slanted. Real problems make better products.</p>
+<div align="center">
 
-<p><b>Ship narrow, iterate wide.</b>&nbsp; Ship the narrow, working version first. Watch where it breaks for actual users. Iterate until the experience feels inevitable rather than engineered. Design is part of the contract — it tells people what a system is doing and whether they can trust it. With AI in the stack, intelligent automation should reduce friction, not add mystery.</p>
+**Real problems over abstractions** — Build for the adjuster, the offline student, the biased-news reader.
+
+**Ship narrow, iterate wide** — Launch the smallest working version. Let real usage reveal what's next.
+
+**Design builds trust** — Interfaces tell people what a system is doing and whether they can rely on it.
+
+**AI reduces friction** — Intelligent automation should make things clearer, not more mysterious.
 
 <br />
 
@@ -309,10 +311,7 @@ My focus isn't just on making things work — it's on making them **understandab
 <img src="https://img.shields.io/badge/Always%20Learning-1F6FEB?style=flat-square" alt="Always Learning" />&nbsp;
 <img src="https://img.shields.io/badge/Solve%20Real%20Problems-1F6FEB?style=flat-square" alt="Solve Real Problems" />
 
-</td>
-<td width="40">&nbsp;</td>
-</tr>
-</table>
+</div>
 
 <br />
 
