@@ -98,21 +98,15 @@ My focus isn't just on making things work — it's on making them **understandab
 <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit" />&nbsp;
 <img src="https://img.shields.io/badge/Vision%20AI-0B5FFF?style=flat-square" alt="Vision AI" />
 
-<br /><br />
-
-<a href="https://claimsightai.streamlit.app/"><img src="https://img.shields.io/badge/Live%20Demo%20→-0B5FFF?style=for-the-badge&logo=streamlit&logoColor=white" alt="Live Demo" /></a>
-
-<br /><br />
-
-<sub>AI Platform &nbsp;·&nbsp; National Hackathon Winner &nbsp;·&nbsp; 2024</sub>
+<br /><a href="https://claimsightai.streamlit.app/"><img src="https://img.shields.io/badge/Live%20Demo%20→-0B5FFF?style=for-the-badge&logo=streamlit&logoColor=white" alt="Live Demo" /></a><br /><sub>AI Platform &nbsp;·&nbsp; National Hackathon Winner &nbsp;·&nbsp; 2024</sub>
 
 </div>
 
-<br /><br />
+<br />
 
 <p align="center"><img src="./assets/divider-wave.svg" width="60%" alt="" /></p>
 
-<br /><br />
+<br />
 
 <!-- ═══════════════  KMAP  ═══════════════ -->
 
@@ -130,22 +124,16 @@ My focus isn't just on making things work — it's on making them **understandab
 
 <img src="https://skillicons.dev/icons?i=react,nextjs,ts,supabase,tailwind&theme=dark" height="24" alt="React Next.js TypeScript Supabase Tailwind" />
 
-<br /><br />
-
-<a href="https://kmap-navy.vercel.app/"><img src="https://img.shields.io/badge/Live%20Demo%20→-0B5FFF?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" /></a>&nbsp;
-<a href="https://github.com/Pranavsanthoshnair/KMAP"><img src="https://img.shields.io/badge/Repository-161B22?style=for-the-badge&logo=github&logoColor=white" alt="Repository" /></a>
-
-<br /><br />
-
-<sub>EdTech Platform &nbsp;·&nbsp; Offline-First &nbsp;·&nbsp; 2024</sub>
+<br /><a href="https://kmap-navy.vercel.app/"><img src="https://img.shields.io/badge/Live%20Demo%20→-0B5FFF?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" /></a>&nbsp;
+<a href="https://github.com/Pranavsanthoshnair/KMAP"><img src="https://img.shields.io/badge/Repository-161B22?style=for-the-badge&logo=github&logoColor=white" alt="Repository" /></a><br /><sub>EdTech Platform &nbsp;·&nbsp; Offline-First &nbsp;·&nbsp; 2024</sub>
 
 </div>
 
-<br /><br />
+<br />
 
 <p align="center"><img src="./assets/divider-wave.svg" width="60%" alt="" /></p>
 
-<br /><br />
+<br />
 
 <!-- ═══════════════  TRUSIGHT  ═══════════════ -->
 
@@ -165,14 +153,8 @@ My focus isn't just on making things work — it's on making them **understandab
 <img src="https://img.shields.io/badge/AI%20APIs-1F6FEB?style=flat-square" alt="AI APIs" />&nbsp;
 <img src="https://img.shields.io/badge/Browser%20Extension-3B82F6?style=flat-square" alt="Browser Extension" />
 
-<br /><br />
-
-<a href="https://trusight.vercel.app/"><img src="https://img.shields.io/badge/Live%20Demo%20→-0B5FFF?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" /></a>&nbsp;
-<a href="https://github.com/Pranavsanthoshnair/TruSight"><img src="https://img.shields.io/badge/Repository-161B22?style=for-the-badge&logo=github&logoColor=white" alt="Repository" /></a>
-
-<br /><br />
-
-<sub>News Platform &nbsp;·&nbsp; Bias Detection &nbsp;·&nbsp; 2024</sub>
+<br /><a href="https://trusight.vercel.app/"><img src="https://img.shields.io/badge/Live%20Demo%20→-0B5FFF?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" /></a>&nbsp;
+<a href="https://github.com/Pranavsanthoshnair/TruSight"><img src="https://img.shields.io/badge/Repository-161B22?style=for-the-badge&logo=github&logoColor=white" alt="Repository" /></a><br /><sub>News Platform &nbsp;·&nbsp; Bias Detection &nbsp;·&nbsp; 2024</sub>
 
 </div>
 
@@ -330,3 +312,5 @@ My focus isn't just on making things work — it's on making them **understandab
 <div align="center">
 <img src="./assets/footer.svg" alt="Building. Learning. Shipping. Repeating." width="100%" />
 </div>
+
+
