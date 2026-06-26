@@ -413,54 +413,6 @@ built so users can form more informed opinions about the world.
 
 <img src="https://raw.githubusercontent.com/Pranavsanthoshnair/Pranavsanthoshnair/main/assets/divider-wave.svg" width="100%" alt="" />
 
-<!-- ═══════════════════════  ACTIVITY DRAWERS  ═══════════════════════ -->
-
-<br />
-
-<details open>
-<summary><b>📡 &nbsp; Recent Activity</b></summary>
-<br />
-
-<!--START_SECTION:activity-->
-- Shipping AI-powered products across insurance, education, and media.
-- Contributing to open source through GSSoC, SSoC, NSoC, and community repositories.
-- Building full-stack systems with React, Next.js, Python, and Supabase.
-<!--END_SECTION:activity-->
-
-</details>
-
-<br />
-
-<details>
-<summary><b>✍️ &nbsp; Latest Writing &amp; Projects</b></summary>
-<br />
-
-<!-- BLOG-POST-LIST:START -->
-- **[Portfolio](https://pranavsnair.vercel.app)** — Case studies and build notes
-- **KMAP** — National hackathon-winning adaptive learning platform for low-bandwidth environments.
-- **TruSight** — News aggregation with political bias detection and voice explanations.
-- **ClaimSight AI** — Multimodal insurance claim verification powered by Gemini Vision.
-<!-- BLOG-POST-LIST:END -->
-
-</details>
-
-<br />
-
-<details>
-<summary><b>⚙️ &nbsp; Automation Suite</b></summary>
-<br />
-
-| Workflow | Schedule | Purpose |
-|---|---|---|
-| `snake.yml` | Every 12 h | Regenerates contribution snake |
-| `metrics.yml` | Daily midnight | Refreshes GitHub Metrics |
-| `wakatime.yml` | Daily 00:30 | Updates WakaTime section |
-| `activity.yml` | Daily 04:00 | Pulls recent GitHub events |
-| `blog.yml` | Mondays 08:00 | Syncs latest project commits |
-| `update-readme.yml` | Daily 06:00 | Verifies automation markers |
-
-</details>
-
 <img src="https://raw.githubusercontent.com/Pranavsanthoshnair/Pranavsanthoshnair/main/assets/divider-wave.svg" width="100%" alt="" />
 
 <!-- ═══════════════════════  CONTACT  ═══════════════════════ -->
