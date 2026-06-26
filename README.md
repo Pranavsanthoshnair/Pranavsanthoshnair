@@ -166,15 +166,17 @@ My focus isn't just on making things work — it's on making them <b>understanda
 
 <h2 align="center">WakaTime &amp; LeetCode</h2>
 
-<table width="100%" cellspacing="0" cellpadding="0" border="0">
+<div align="center">
+<table cellspacing="0" cellpadding="0" border="0">
 <tr>
-<td width="50%" align="center" valign="top">
+<td align="center" valign="top">
 <p><b>Coding Time</b></p>
 <!--START_SECTION:waka-->
 <sub>Waiting for WakaTime data...</sub>
 <!--END_SECTION:waka-->
 </td>
-<td width="50%" align="center" valign="top">
+<td width="40">&nbsp;</td>
+<td align="center" valign="top">
 <p><b>Problem Solving</b></p>
 <a href="https://leetcode.com/u/pranav_santhosh/">
 <img src="https://leetcard.jacoblin.cool/pranav_santhosh?theme=transparent&font=Inter&ext=heatmap&border=0&radius=8" alt="LeetCode" />
@@ -182,6 +184,7 @@ My focus isn't just on making things work — it's on making them <b>understanda
 </td>
 </tr>
 </table>
+</div>
 
 <img src="./assets/divider-wave.svg" width="100%" alt="" />
 
