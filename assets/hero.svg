@@ -1,187 +1,141 @@
-<svg width="1200" height="340" viewBox="0 0 1200 340" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="hero-name hero-desc">
-  <title id="hero-name">Pranav S Nair</title>
-  <desc id="hero-desc">Full Stack Developer · AI Builder · CS Engineering Student</desc>
+<svg viewBox="0 0 1200 320" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="h-title h-desc">
+  <title id="h-title">Pranav S Nair — Full Stack Developer and AI Builder</title>
+  <desc id="h-desc">CS Engineering Student. Full Stack Developer. AI Builder. Building AI-powered software that solves real-world problems.</desc>
 
   <defs>
-
-    <!-- Radial glow — centre -->
-    <radialGradient id="rg-centre" cx="50%" cy="45%" r="52%" gradientUnits="userSpaceOnUse">
-      <stop offset="0%"  stop-color="#1F6FEB" stop-opacity="0.18"/>
-      <stop offset="100%" stop-color="#0D1117" stop-opacity="0"/>
-    </radialGradient>
-
-    <!-- Radial glow — left accent -->
-    <radialGradient id="rg-left" cx="18%" cy="60%" r="32%" gradientUnits="userSpaceOnUse">
-      <stop offset="0%"  stop-color="#58A6FF" stop-opacity="0.12"/>
-      <stop offset="100%" stop-color="#0D1117" stop-opacity="0"/>
-    </radialGradient>
-
-    <!-- Radial glow — right accent -->
-    <radialGradient id="rg-right" cx="82%" cy="40%" r="28%" gradientUnits="userSpaceOnUse">
-      <stop offset="0%"  stop-color="#388BFD" stop-opacity="0.10"/>
-      <stop offset="100%" stop-color="#0D1117" stop-opacity="0"/>
-    </radialGradient>
-
-    <!-- Top edge fade for grid -->
-    <linearGradient id="grid-fade-y" x1="0" y1="0" x2="0" y2="340" gradientUnits="userSpaceOnUse">
-      <stop offset="0%"   stop-color="#ffffff" stop-opacity="0"/>
-      <stop offset="30%"  stop-color="#ffffff" stop-opacity="1"/>
-      <stop offset="70%"  stop-color="#ffffff" stop-opacity="1"/>
-      <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
+    <linearGradient id="bg-grad" x1="0" y1="0" x2="0" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0%"   stop-color="#0D1117"/>
+      <stop offset="100%" stop-color="#0A0E14"/>
     </linearGradient>
-    <mask id="grid-mask">
-      <rect width="1200" height="340" fill="url(#grid-fade-y)"/>
-    </mask>
-
-    <!-- Horizontal rule gradient -->
-    <linearGradient id="rule-grad" x1="0" y1="0" x2="1200" y2="0" gradientUnits="userSpaceOnUse">
+    <radialGradient id="glow-c" cx="50%" cy="46%" r="40%" gradientUnits="objectBoundingBox">
+      <stop offset="0%"   stop-color="#1F6FEB" stop-opacity="0.22"/>
+      <stop offset="60%"  stop-color="#1F6FEB" stop-opacity="0.06"/>
+      <stop offset="100%" stop-color="#1F6FEB" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glow-l" cx="12%" cy="55%" r="35%" gradientUnits="objectBoundingBox">
+      <stop offset="0%"   stop-color="#58A6FF" stop-opacity="0.10"/>
+      <stop offset="100%" stop-color="#58A6FF" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glow-r" cx="88%" cy="40%" r="30%" gradientUnits="objectBoundingBox">
+      <stop offset="0%"   stop-color="#388BFD" stop-opacity="0.09"/>
+      <stop offset="100%" stop-color="#388BFD" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="name-fill" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%"   stop-color="#C9D1D9"/>
+      <stop offset="40%"  stop-color="#FFFFFF"/>
+      <stop offset="100%" stop-color="#79B8FF"/>
+    </linearGradient>
+    <linearGradient id="rule-h" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%"   stop-color="#1F6FEB" stop-opacity="0"/>
-      <stop offset="20%"  stop-color="#1F6FEB" stop-opacity="0.5"/>
-      <stop offset="50%"  stop-color="#58A6FF" stop-opacity="0.8"/>
-      <stop offset="80%"  stop-color="#1F6FEB" stop-opacity="0.5"/>
+      <stop offset="25%"  stop-color="#1F6FEB" stop-opacity="0.55"/>
+      <stop offset="50%"  stop-color="#58A6FF" stop-opacity="0.9"/>
+      <stop offset="75%"  stop-color="#1F6FEB" stop-opacity="0.55"/>
       <stop offset="100%" stop-color="#1F6FEB" stop-opacity="0"/>
     </linearGradient>
-
-    <!-- Subtle blur for glow halos -->
-    <filter id="blur-lg" x="-50%" y="-50%" width="200%" height="200%">
-      <feGaussianBlur stdDeviation="28"/>
-    </filter>
-    <filter id="blur-sm" x="-100%" y="-100%" width="300%" height="300%">
-      <feGaussianBlur stdDeviation="8"/>
-    </filter>
-
-    <!-- Name text gradient -->
-    <linearGradient id="name-grad" x1="0" y1="0" x2="1200" y2="0" gradientUnits="userSpaceOnUse">
-      <stop offset="0%"   stop-color="#E6EDF3"/>
-      <stop offset="45%"  stop-color="#FFFFFF"/>
-      <stop offset="100%" stop-color="#8FBCFF"/>
+    <linearGradient id="pill-primary" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%"   stop-color="#1F6FEB"/>
+      <stop offset="100%" stop-color="#388BFD"/>
     </linearGradient>
-
-  </defs>
-
-  <!-- ── Background ───────────────────────────────────── -->
-  <rect width="1200" height="340" fill="#0D1117"/>
-
-  <!-- ── Dot grid ─────────────────────────────────────── -->
-  <g mask="url(#grid-mask)" opacity="0.35">
-    <!-- Vertical lines -->
-    <line x1="100"  y1="0" x2="100"  y2="340" stroke="#1F6FEB" stroke-width="0.4" stroke-opacity="0.4"/>
-    <line x1="200"  y1="0" x2="200"  y2="340" stroke="#1F6FEB" stroke-width="0.4" stroke-opacity="0.4"/>
-    <line x1="300"  y1="0" x2="300"  y2="340" stroke="#1F6FEB" stroke-width="0.4" stroke-opacity="0.4"/>
-    <line x1="400"  y1="0" x2="400"  y2="340" stroke="#1F6FEB" stroke-width="0.4" stroke-opacity="0.4"/>
-    <line x1="500"  y1="0" x2="500"  y2="340" stroke="#1F6FEB" stroke-width="0.4" stroke-opacity="0.4"/>
-    <line x1="600"  y1="0" x2="600"  y2="340" stroke="#1F6FEB" stroke-width="0.4" stroke-opacity="0.4"/>
-    <line x1="700"  y1="0" x2="700"  y2="340" stroke="#1F6FEB" stroke-width="0.4" stroke-opacity="0.4"/>
-    <line x1="800"  y1="0" x2="800"  y2="340" stroke="#1F6FEB" stroke-width="0.4" stroke-opacity="0.4"/>
-    <line x1="900"  y1="0" x2="900"  y2="340" stroke="#1F6FEB" stroke-width="0.4" stroke-opacity="0.4"/>
-    <line x1="1000" y1="0" x2="1000" y2="340" stroke="#1F6FEB" stroke-width="0.4" stroke-opacity="0.4"/>
-    <line x1="1100" y1="0" x2="1100" y2="340" stroke="#1F6FEB" stroke-width="0.4" stroke-opacity="0.4"/>
-    <!-- Horizontal lines -->
-    <line x1="0" y1="68"  x2="1200" y2="68"  stroke="#1F6FEB" stroke-width="0.4" stroke-opacity="0.4"/>
-    <line x1="0" y1="136" x2="1200" y2="136" stroke="#1F6FEB" stroke-width="0.4" stroke-opacity="0.4"/>
-    <line x1="0" y1="204" x2="1200" y2="204" stroke="#1F6FEB" stroke-width="0.4" stroke-opacity="0.4"/>
-    <line x1="0" y1="272" x2="1200" y2="272" stroke="#1F6FEB" stroke-width="0.4" stroke-opacity="0.4"/>
-  </g>
-
-  <!-- ── Radial glows ──────────────────────────────────── -->
-  <rect width="1200" height="340" fill="url(#rg-centre)"/>
-  <rect width="1200" height="340" fill="url(#rg-left)"/>
-  <rect width="1200" height="340" fill="url(#rg-right)"/>
-
-  <!-- Soft halo orbs -->
-  <circle cx="600" cy="154" r="120" fill="#1F6FEB" fill-opacity="0.07" filter="url(#blur-lg)"/>
-  <circle cx="220" cy="200" r="70"  fill="#58A6FF" fill-opacity="0.06" filter="url(#blur-lg)"/>
-  <circle cx="980" cy="140" r="80"  fill="#388BFD" fill-opacity="0.05" filter="url(#blur-lg)"/>
-
-  <!-- ── Eyebrow label ─────────────────────────────────── -->
-  <text
-    x="600" y="96"
-    text-anchor="middle"
-    font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif"
-    font-size="11"
-    font-weight="600"
-    letter-spacing="3.5"
-    fill="#58A6FF"
-    fill-opacity="0.85">
-    COMPUTER SCIENCE ENGINEERING · INDIA
-  </text>
-
-  <!-- ── Name ─────────────────────────────────────────── -->
-  <text
-    x="600" y="172"
-    text-anchor="middle"
-    font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif"
-    font-size="72"
-    font-weight="700"
-    letter-spacing="-2"
-    fill="url(#name-grad)">
-    Pranav S Nair
-  </text>
-
-  <!-- ── Value proposition ─────────────────────────────── -->
-  <text
-    x="600" y="210"
-    text-anchor="middle"
-    font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif"
-    font-size="17"
-    font-weight="400"
-    letter-spacing="0.2"
-    fill="#8B949E">
-    Building AI-powered software that solves real-world problems.
-  </text>
-
-  <!-- ── Thin ruled line ───────────────────────────────── -->
-  <line x1="360" y1="232" x2="840" y2="232" stroke="url(#rule-grad)" stroke-width="1"/>
-
-  <!-- ── Social pills ──────────────────────────────────── -->
-
-  <!-- Portfolio pill -->
-  <g>
-    <rect x="244" y="248" width="108" height="34" rx="17" fill="#1F6FEB" fill-opacity="0.12" stroke="#1F6FEB" stroke-opacity="0.35" stroke-width="1"/>
-    <text x="298" y="269" text-anchor="middle"
-      font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif"
-      font-size="12" font-weight="600" fill="#58A6FF">Portfolio</text>
-  </g>
-
-  <!-- GitHub pill -->
-  <g>
-    <rect x="364" y="248" width="100" height="34" rx="17" fill="#1F6FEB" fill-opacity="0.08" stroke="#30363D" stroke-opacity="0.8" stroke-width="1"/>
-    <text x="414" y="269" text-anchor="middle"
-      font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif"
-      font-size="12" font-weight="600" fill="#8B949E">GitHub</text>
-  </g>
-
-  <!-- LinkedIn pill -->
-  <g>
-    <rect x="476" y="248" width="108" height="34" rx="17" fill="#1F6FEB" fill-opacity="0.08" stroke="#30363D" stroke-opacity="0.8" stroke-width="1"/>
-    <text x="530" y="269" text-anchor="middle"
-      font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif"
-      font-size="12" font-weight="600" fill="#8B949E">LinkedIn</text>
-  </g>
-
-  <!-- Email pill -->
-  <g>
-    <rect x="596" y="248" width="90" height="34" rx="17" fill="#1F6FEB" fill-opacity="0.08" stroke="#30363D" stroke-opacity="0.8" stroke-width="1"/>
-    <text x="641" y="269" text-anchor="middle"
-      font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif"
-      font-size="12" font-weight="600" fill="#8B949E">Email</text>
-  </g>
-
-  <!-- LeetCode pill -->
-  <g>
-    <rect x="698" y="248" width="100" height="34" rx="17" fill="#1F6FEB" fill-opacity="0.08" stroke="#30363D" stroke-opacity="0.8" stroke-width="1"/>
-    <text x="748" y="269" text-anchor="middle"
-      font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif"
-      font-size="12" font-weight="600" fill="#8B949E">LeetCode</text>
-  </g>
-
-  <!-- ── Bottom fade vignette ───────────────────────────── -->
-  <defs>
-    <linearGradient id="bottom-fade" x1="0" y1="280" x2="0" y2="340" gradientUnits="userSpaceOnUse">
+    <linearGradient id="bottom-vignette" x1="0%" y1="0%" x2="0%" y2="100%">
       <stop offset="0%"   stop-color="#0D1117" stop-opacity="0"/>
       <stop offset="100%" stop-color="#0D1117" stop-opacity="1"/>
     </linearGradient>
   </defs>
-  <rect x="0" y="280" width="1200" height="60" fill="url(#bottom-fade)"/>
 
+  <!-- Base background -->
+  <rect width="1200" height="320" fill="url(#bg-grad)"/>
+
+  <!-- Grid — vertical lines, 100px spacing -->
+  <g opacity="0.18" stroke="#3B82F6" stroke-width="0.5">
+    <line x1="100"  y1="0" x2="100"  y2="320"/>
+    <line x1="200"  y1="0" x2="200"  y2="320"/>
+    <line x1="300"  y1="0" x2="300"  y2="320"/>
+    <line x1="400"  y1="0" x2="400"  y2="320"/>
+    <line x1="500"  y1="0" x2="500"  y2="320"/>
+    <line x1="600"  y1="0" x2="600"  y2="320"/>
+    <line x1="700"  y1="0" x2="700"  y2="320"/>
+    <line x1="800"  y1="0" x2="800"  y2="320"/>
+    <line x1="900"  y1="0" x2="900"  y2="320"/>
+    <line x1="1000" y1="0" x2="1000" y2="320"/>
+    <line x1="1100" y1="0" x2="1100" y2="320"/>
+  </g>
+  <!-- Grid — horizontal lines, 64px spacing -->
+  <g opacity="0.18" stroke="#3B82F6" stroke-width="0.5">
+    <line x1="0" y1="64"  x2="1200" y2="64"/>
+    <line x1="0" y1="128" x2="1200" y2="128"/>
+    <line x1="0" y1="192" x2="1200" y2="192"/>
+    <line x1="0" y1="256" x2="1200" y2="256"/>
+  </g>
+
+  <!-- Radial glow overlays -->
+  <rect width="1200" height="320" fill="url(#glow-c)"/>
+  <rect width="1200" height="320" fill="url(#glow-l)"/>
+  <rect width="1200" height="320" fill="url(#glow-r)"/>
+
+  <!-- Eyebrow -->
+  <text
+    x="600" y="88"
+    text-anchor="middle"
+    font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif"
+    font-size="11" font-weight="500" letter-spacing="4"
+    fill="#58A6FF" fill-opacity="0.75">
+    COMPUTER SCIENCE ENGINEERING · KERALA, INDIA
+  </text>
+
+  <!-- Name -->
+  <text
+    x="600" y="162"
+    text-anchor="middle"
+    font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif"
+    font-size="68" font-weight="700" letter-spacing="-2"
+    fill="url(#name-fill)">
+    Pranav S Nair
+  </text>
+
+  <!-- Value proposition -->
+  <text
+    x="600" y="198"
+    text-anchor="middle"
+    font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif"
+    font-size="16" font-weight="400" letter-spacing="0.3"
+    fill="#8B949E">
+    Building AI-powered software that solves real-world problems.
+  </text>
+
+  <!-- Horizontal rule -->
+  <line x1="300" y1="220" x2="900" y2="220" stroke="url(#rule-h)" stroke-width="1"/>
+
+  <!-- Social pills -->
+  <!-- Portfolio — primary blue -->
+  <rect x="230" y="236" width="102" height="30" rx="15" fill="url(#pill-primary)"/>
+  <text x="281" y="255" text-anchor="middle"
+    font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif"
+    font-size="11.5" font-weight="600" fill="#FFFFFF">Portfolio</text>
+
+  <!-- GitHub -->
+  <rect x="345" y="236" width="92" height="30" rx="15" fill="#161B22" stroke="#30363D" stroke-width="1"/>
+  <text x="391" y="255" text-anchor="middle"
+    font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif"
+    font-size="11.5" font-weight="500" fill="#8B949E">GitHub</text>
+
+  <!-- LinkedIn -->
+  <rect x="450" y="236" width="100" height="30" rx="15" fill="#161B22" stroke="#30363D" stroke-width="1"/>
+  <text x="500" y="255" text-anchor="middle"
+    font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif"
+    font-size="11.5" font-weight="500" fill="#8B949E">LinkedIn</text>
+
+  <!-- Email -->
+  <rect x="563" y="236" width="82" height="30" rx="15" fill="#161B22" stroke="#30363D" stroke-width="1"/>
+  <text x="604" y="255" text-anchor="middle"
+    font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif"
+    font-size="11.5" font-weight="500" fill="#8B949E">Email</text>
+
+  <!-- LeetCode -->
+  <rect x="658" y="236" width="98" height="30" rx="15" fill="#161B22" stroke="#30363D" stroke-width="1"/>
+  <text x="707" y="255" text-anchor="middle"
+    font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif"
+    font-size="11.5" font-weight="500" fill="#8B949E">LeetCode</text>
+
+  <!-- Bottom vignette fade -->
+  <rect x="0" y="270" width="1200" height="50" fill="url(#bottom-vignette)"/>
 </svg>

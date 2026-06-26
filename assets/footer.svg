@@ -1,95 +1,54 @@
-<svg width="1200" height="200" viewBox="0 0 1200 200" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="footer-title">
-  <title id="footer-title">Building. Learning. Shipping. Repeating.</title>
+<svg viewBox="0 0 1200 120" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Building. Learning. Shipping. Repeating.">
   <defs>
-    <linearGradient id="ftBg" x1="0" y1="0" x2="1200" y2="200" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#F0F7FF"/>
-      <stop offset="1" stop-color="#EAF3FF"/>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%"   stop-color="#0D1117" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#0D1117"/>
     </linearGradient>
-    <linearGradient id="ftLine" x1="40" y1="100" x2="1160" y2="100" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#1F6FEB" stop-opacity="0"/>
-      <stop offset="0.15" stop-color="#1F6FEB" stop-opacity="0.6"/>
-      <stop offset="0.5" stop-color="#58A6FF" stop-opacity="0.9"/>
-      <stop offset="0.85" stop-color="#1F6FEB" stop-opacity="0.6"/>
-      <stop offset="1" stop-color="#1F6FEB" stop-opacity="0"/>
+    <linearGradient id="rule" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%"   stop-color="#1F6FEB" stop-opacity="0"/>
+      <stop offset="25%"  stop-color="#1F6FEB" stop-opacity="0.55"/>
+      <stop offset="50%"  stop-color="#58A6FF" stop-opacity="0.85"/>
+      <stop offset="75%"  stop-color="#1F6FEB" stop-opacity="0.55"/>
+      <stop offset="100%" stop-color="#1F6FEB" stop-opacity="0"/>
     </linearGradient>
-    <linearGradient id="ftLineBot" x1="80" y1="116" x2="1120" y2="116" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#58A6FF" stop-opacity="0"/>
-      <stop offset="0.5" stop-color="#58A6FF" stop-opacity="0.3"/>
-      <stop offset="1" stop-color="#58A6FF" stop-opacity="0"/>
-    </linearGradient>
-    <linearGradient id="wordGrad" x1="0" y1="0" x2="0" y2="1" gradientUnits="objectBoundingBox">
-      <stop stop-color="#1F6FEB"/>
-      <stop offset="1" stop-color="#58A6FF"/>
-    </linearGradient>
-    <linearGradient id="border" x1="0" y1="0" x2="1200" y2="200" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#58A6FF" stop-opacity="0.2"/>
-      <stop offset="0.5" stop-color="#1F6FEB" stop-opacity="0.12"/>
-      <stop offset="1" stop-color="#58A6FF" stop-opacity="0.2"/>
-    </linearGradient>
-    <filter id="ftGlow">
-      <feGaussianBlur stdDeviation="20"/>
-    </filter>
-    <style>
-      .fw { font-family: Inter, -apple-system, Segoe UI, Arial, sans-serif; font-size: 22px; font-weight: 800; letter-spacing: -0.3px; fill: #1F6FEB; }
-      .fsep { fill: #1F6FEB; fill-opacity: 0.28; font-family: Inter, sans-serif; font-size: 20px; }
-      @media (prefers-color-scheme: dark) {
-        .fw { fill: #58A6FF; }
-      }
-    </style>
   </defs>
 
-  <!-- Background -->
-  <rect width="1200" height="200" rx="20" fill="url(#ftBg)"/>
+  <rect width="1200" height="120" fill="url(#bg)"/>
+  <line x1="160" y1="36" x2="1040" y2="36" stroke="url(#rule)" stroke-width="1"/>
 
-  <!-- Outer border -->
-  <rect x="1" y="1" width="1198" height="198" rx="20" fill="none" stroke="url(#border)" stroke-width="1.2"/>
+  <!-- Words with interpunct separators -->
+  <text x="196" y="62"
+    font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif"
+    font-size="18" font-weight="700" letter-spacing="-0.3" fill="#1F6FEB">Building</text>
 
-  <!-- Glow blob behind words -->
-  <ellipse cx="600" cy="100" rx="320" ry="40" fill="#1F6FEB" fill-opacity="0.06" filter="url(#ftGlow)">
-    <animate attributeName="rx" values="300;360;300" dur="6s" repeatCount="indefinite"/>
-  </ellipse>
+  <text x="312" y="62"
+    font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif"
+    font-size="14" fill="#1F6FEB" fill-opacity="0.35">·</text>
 
-  <!-- Lines -->
-  <line x1="40" y1="100" x2="1160" y2="100" stroke="url(#ftLine)" stroke-width="1.8"/>
-  <line x1="80" y1="116" x2="1120" y2="116" stroke="url(#ftLineBot)" stroke-width="1"/>
+  <text x="336" y="62"
+    font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif"
+    font-size="18" font-weight="700" letter-spacing="-0.3" fill="#58A6FF" fill-opacity="0.85">Learning</text>
 
-  <!-- Words — evenly spaced across full width -->
-  <text class="fw" x="210" y="107" text-anchor="middle">Building</text>
-  <text class="fsep" x="354" y="107" text-anchor="middle">·</text>
-  <text class="fw" x="490" y="107" text-anchor="middle">Learning</text>
-  <text class="fsep" x="630" y="107" text-anchor="middle">·</text>
-  <text class="fw" x="762" y="107" text-anchor="middle">Shipping</text>
-  <text class="fsep" x="902" y="107" text-anchor="middle">·</text>
-  <text class="fw" x="1046" y="107" text-anchor="middle">Repeating</text>
+  <text x="450" y="62"
+    font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif"
+    font-size="14" fill="#1F6FEB" fill-opacity="0.35">·</text>
 
-  <!-- Pulsing dot sentinels above the line -->
-  <circle cx="354" cy="84" r="3.5" fill="#1F6FEB">
-    <animate attributeName="opacity" values="0.15;1;0.15" dur="2.4s" repeatCount="indefinite"/>
-    <animate attributeName="r" values="2.5;4.5;2.5" dur="2.4s" repeatCount="indefinite"/>
-  </circle>
-  <circle cx="630" cy="84" r="3.5" fill="#58A6FF">
-    <animate attributeName="opacity" values="0.15;1;0.15" dur="2.4s" begin="0.55s" repeatCount="indefinite"/>
-    <animate attributeName="r" values="2.5;4.5;2.5" dur="2.4s" begin="0.55s" repeatCount="indefinite"/>
-  </circle>
-  <circle cx="902" cy="84" r="3.5" fill="#1F6FEB">
-    <animate attributeName="opacity" values="0.15;1;0.15" dur="2.4s" begin="1.1s" repeatCount="indefinite"/>
-    <animate attributeName="r" values="2.5;4.5;2.5" dur="2.4s" begin="1.1s" repeatCount="indefinite"/>
-  </circle>
+  <text x="474" y="62"
+    font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif"
+    font-size="18" font-weight="700" letter-spacing="-0.3" fill="#1F6FEB">Shipping</text>
 
-  <!-- Orbiting halo on separator dots -->
-  <circle cx="354" cy="84" r="9" fill="#1F6FEB" fill-opacity="0.07">
-    <animate attributeName="r" values="7;13;7" dur="2.4s" repeatCount="indefinite"/>
-    <animate attributeName="fill-opacity" values="0.07;0.02;0.07" dur="2.4s" repeatCount="indefinite"/>
-  </circle>
-  <circle cx="630" cy="84" r="9" fill="#58A6FF" fill-opacity="0.07">
-    <animate attributeName="r" values="7;13;7" dur="2.4s" begin="0.55s" repeatCount="indefinite"/>
-    <animate attributeName="fill-opacity" values="0.07;0.02;0.07" dur="2.4s" begin="0.55s" repeatCount="indefinite"/>
-  </circle>
-  <circle cx="902" cy="84" r="9" fill="#1F6FEB" fill-opacity="0.07">
-    <animate attributeName="r" values="7;13;7" dur="2.4s" begin="1.1s" repeatCount="indefinite"/>
-    <animate attributeName="fill-opacity" values="0.07;0.02;0.07" dur="2.4s" begin="1.1s" repeatCount="indefinite"/>
-  </circle>
+  <text x="598" y="62"
+    font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif"
+    font-size="14" fill="#1F6FEB" fill-opacity="0.35">·</text>
 
-  <!-- Small tagline below -->
-  <text x="600" y="150" text-anchor="middle" fill="#1F6FEB" fill-opacity="0.45" font-family="Inter, -apple-system, Segoe UI, Arial, sans-serif" font-size="12" font-weight="500" letter-spacing="2">COMPUTER SCIENCE ENGINEERING · FULL STACK · AI BUILDER</text>
+  <text x="622" y="62"
+    font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif"
+    font-size="18" font-weight="700" letter-spacing="-0.3" fill="#58A6FF" fill-opacity="0.85">Repeating</text>
+
+  <!-- Subline -->
+  <text x="600" y="92" text-anchor="middle"
+    font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif"
+    font-size="11" font-weight="400" letter-spacing="2" fill="#6E7681">
+    CS ENGINEERING · FULL STACK · AI BUILDER · KERALA, INDIA
+  </text>
 </svg>
