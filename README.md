@@ -1,7 +1,7 @@
 <!-- PRANAV S NAIR — GitHub Profile -->
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/Pranavsanthoshnair/Pranavsanthoshnair/main/assets/hero.svg" alt="Pranav S Nair — Full Stack Developer and AI Builder" width="100%" />
+<img src="./assets/hero.svg" alt="Pranav S Nair — Full Stack Developer and AI Builder" width="100%" />
 </div>
 
 <div align="center">
@@ -22,7 +22,7 @@
 
 <br /><br />
 
-<img src="https://raw.githubusercontent.com/Pranavsanthoshnair/Pranavsanthoshnair/main/assets/divider.svg" width="100%" alt="" />
+<img src="./assets/divider.svg" width="100%" alt="" />
 
 <br /><br />
 
@@ -65,7 +65,7 @@ I build because useful software can make complex work feel lighter — verifying
 
 <br /><br />
 
-<img src="https://raw.githubusercontent.com/Pranavsanthoshnair/Pranavsanthoshnair/main/assets/divider.svg" width="100%" alt="" />
+<img src="./assets/divider.svg" width="100%" alt="" />
 
 <br /><br />
 
@@ -78,7 +78,7 @@ I build because useful software can make complex work feel lighter — verifying
 
 <!-- ClaimSight AI -->
 <a href="https://claimsightai.streamlit.app/">
-<img src="https://raw.githubusercontent.com/Pranavsanthoshnair/Pranavsanthoshnair/main/assets/project-claimsight.svg" alt="ClaimSight AI — AI-powered insurance claim verification" width="100%" />
+<img src="./assets/project-claimsight.svg" alt="ClaimSight AI — AI-powered insurance claim verification" width="100%" />
 </a>
 
 <br /><br />
@@ -107,13 +107,13 @@ I build because useful software can make complex work feel lighter — verifying
 
 <br /><br />
 
-<img src="https://raw.githubusercontent.com/Pranavsanthoshnair/Pranavsanthoshnair/main/assets/divider.svg" width="60%" alt="" />
+<img src="./assets/divider.svg" width="60%" alt="" />
 
 <br /><br />
 
 <!-- KMAP -->
 <a href="https://kmap-navy.vercel.app/">
-<img src="https://raw.githubusercontent.com/Pranavsanthoshnair/Pranavsanthoshnair/main/assets/project-kmap.svg" alt="KMAP — Knowledge Mapping Adaptive Platform" width="100%" />
+<img src="./assets/project-kmap.svg" alt="KMAP — Knowledge Mapping Adaptive Platform" width="100%" />
 </a>
 
 <br /><br />
@@ -140,13 +140,13 @@ I build because useful software can make complex work feel lighter — verifying
 
 <br /><br />
 
-<img src="https://raw.githubusercontent.com/Pranavsanthoshnair/Pranavsanthoshnair/main/assets/divider.svg" width="60%" alt="" />
+<img src="./assets/divider.svg" width="60%" alt="" />
 
 <br /><br />
 
 <!-- TruSight -->
 <a href="https://trusight.vercel.app/">
-<img src="https://raw.githubusercontent.com/Pranavsanthoshnair/Pranavsanthoshnair/main/assets/project-trusight.svg" alt="TruSight — AI News Aggregation and Bias Detection" width="100%" />
+<img src="./assets/project-trusight.svg" alt="TruSight — AI News Aggregation and Bias Detection" width="100%" />
 </a>
 
 <br /><br />
@@ -173,7 +173,7 @@ I build because useful software can make complex work feel lighter — verifying
 
 <br /><br />
 
-<img src="https://raw.githubusercontent.com/Pranavsanthoshnair/Pranavsanthoshnair/main/assets/divider.svg" width="100%" alt="" />
+<img src="./assets/divider.svg" width="100%" alt="" />
 
 <br /><br />
 
@@ -217,7 +217,7 @@ I build because useful software can make complex work feel lighter — verifying
 
 <br /><br />
 
-<img src="https://raw.githubusercontent.com/Pranavsanthoshnair/Pranavsanthoshnair/main/assets/divider.svg" width="100%" alt="" />
+<img src="./assets/divider.svg" width="100%" alt="" />
 
 <br /><br />
 
@@ -238,7 +238,7 @@ I build because useful software can make complex work feel lighter — verifying
 
 <br /><br />
 
-<img src="https://raw.githubusercontent.com/Pranavsanthoshnair/Pranavsanthoshnair/main/assets/divider.svg" width="100%" alt="" />
+<img src="./assets/divider.svg" width="100%" alt="" />
 
 <br /><br />
 
@@ -259,7 +259,7 @@ I build because useful software can make complex work feel lighter — verifying
 
 <br /><br />
 
-<img src="https://raw.githubusercontent.com/Pranavsanthoshnair/Pranavsanthoshnair/main/assets/divider.svg" width="100%" alt="" />
+<img src="./assets/divider.svg" width="100%" alt="" />
 
 <br /><br />
 
@@ -275,7 +275,7 @@ I build because useful software can make complex work feel lighter — verifying
 
 <br /><br />
 
-<img src="https://raw.githubusercontent.com/Pranavsanthoshnair/Pranavsanthoshnair/main/assets/divider.svg" width="100%" alt="" />
+<img src="./assets/divider.svg" width="100%" alt="" />
 
 <br /><br />
 
@@ -306,7 +306,7 @@ I build because useful software can make complex work feel lighter — verifying
 
 <br /><br />
 
-<img src="https://raw.githubusercontent.com/Pranavsanthoshnair/Pranavsanthoshnair/main/assets/divider.svg" width="100%" alt="" />
+<img src="./assets/divider.svg" width="100%" alt="" />
 
 <br /><br />
 
@@ -318,15 +318,15 @@ I build because useful software can make complex work feel lighter — verifying
 
 <div align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Pranavsanthoshnair/Pranavsanthoshnair/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Pranavsanthoshnair/Pranavsanthoshnair/output/github-contribution-grid-snake.svg" />
-  <img src="https://raw.githubusercontent.com/Pranavsanthoshnair/Pranavsanthoshnair/output/github-contribution-grid-snake.svg" alt="Contribution Snake" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="./output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./output/github-contribution-grid-snake.svg" />
+  <img src="./output/github-contribution-grid-snake.svg" alt="Contribution Snake" width="100%" />
 </picture>
 </div>
 
 <br /><br />
 
-<img src="https://raw.githubusercontent.com/Pranavsanthoshnair/Pranavsanthoshnair/main/assets/divider.svg" width="100%" alt="" />
+<img src="./assets/divider.svg" width="100%" alt="" />
 
 <br /><br />
 
@@ -363,7 +363,7 @@ I build because useful software can make complex work feel lighter — verifying
 
 <br /><br />
 
-<img src="https://raw.githubusercontent.com/Pranavsanthoshnair/Pranavsanthoshnair/main/assets/divider.svg" width="100%" alt="" />
+<img src="./assets/divider.svg" width="100%" alt="" />
 
 <br /><br />
 
@@ -395,5 +395,5 @@ I build because useful software can make complex work feel lighter — verifying
 <!-- FOOTER -->
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/Pranavsanthoshnair/Pranavsanthoshnair/main/assets/footer.svg" alt="Building. Learning. Shipping. Repeating." width="100%" />
+<img src="./assets/footer.svg" alt="Building. Learning. Shipping. Repeating." width="100%" />
 </div>
