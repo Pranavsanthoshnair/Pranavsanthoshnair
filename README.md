@@ -68,7 +68,8 @@ My focus isn't just on making things work — it's on making them **understandab
 <img src="https://img.shields.io/badge/SSoC-Open_Source_Contributor-1F6FEB?style=flat-square" alt="SSoC" />&nbsp;
 <img src="https://img.shields.io/badge/NSoC-Open_Source_Contributor-1F6FEB?style=flat-square" alt="NSoC" />&nbsp;
 <img src="https://img.shields.io/badge/IEEE_SB_SJCET-Web_Team-1F6FEB?style=flat-square" alt="IEEE" />&nbsp;
-<img src="https://img.shields.io/badge/IEDC-Skills_Officer-1F6FEB?style=flat-square" alt="IEDC" />
+<img src="https://img.shields.io/badge/IEDC-Skills_Officer-1F6FEB?style=flat-square" alt="IEDC" />&nbsp;
+<img src="https://img.shields.io/badge/Internships-Done-1F6FEB?style=flat-square" alt="Internships Done" />
 </div>
 
 <br />
@@ -78,79 +79,180 @@ My focus isn't just on making things work — it's on making them **understandab
 
 <br />
 
+<!-- ═══════════════  CLAIMSIGHT AI  ═══════════════ -->
+
 <a href="https://claimsightai.streamlit.app/">
 <img src="./assets/project-claimsight.svg" alt="ClaimSight AI" width="100%" />
 </a>
 
+<br />
+
 <table width="100%" cellspacing="0" cellpadding="0" border="0">
 <tr>
-<td width="50%" valign="top">
+<td width="4" bgcolor="#1F6FEB">&nbsp;</td>
+<td width="20">&nbsp;</td>
+<td>
 
-**AI-powered insurance claim verification** using multimodal evidence analysis. Combines Vision AI, document parsing, and a decision engine to produce trust scores and structured verdicts — reducing manual review time and improving claim accuracy.
+**ClaimSight AI** — AI-powered insurance claim verification platform using multimodal evidence analysis. Produces trust scores and structured verdicts, reducing manual review time while improving accuracy.
 
-</td>
-<td width="48">&nbsp;</td>
-<td width="50%" valign="top">
+<br />
 
-<img src="https://skillicons.dev/icons?i=python&theme=dark" height="28" alt="Python" />&nbsp;
+**Problem** — Insurance adjusters manually cross-check dozens of documents and images per claim, wasting hours on repetitive verification.
+
+**Solution** — Automated evidence pipeline using Vision AI, document parsing, and a structured decision engine powered by Gemini.
+
+**Impact** — Reduced claim verification time from hours to minutes with transparent, explainable trust scores.
+
+<br />
+
+**Highlights**
+
+- Multimodal reasoning across images, documents, and metadata
+- Structured verdicts with confidence scores and evidence trails
+- Real-time analysis via an intuitive Streamlit dashboard
+- National Hackathon Winner — TechThrive 2.0
+
+<br />
+
+<img src="https://skillicons.dev/icons?i=python&theme=dark" height="24" alt="Python" />&nbsp;
 <img src="https://img.shields.io/badge/Gemini-1F6FEB?style=flat-square&logo=google&logoColor=white" alt="Gemini" />&nbsp;
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit" />
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit" />&nbsp;
+<img src="https://img.shields.io/badge/Vision%20AI-0B5FFF?style=flat-square" alt="Vision AI" />
 
 <br /><br />
 
-<a href="https://claimsightai.streamlit.app/"><img src="https://img.shields.io/badge/Live%20Demo%20→-0B5FFF?style=for-the-badge&logo=streamlit&logoColor=white" alt="Live Demo" /></a>
+<a href="https://claimsightai.streamlit.app/"><img src="https://img.shields.io/badge/Live%20Demo%20→-0B5FFF?style=for-the-badge&logo=streamlit&logoColor=white" alt="Live Demo" /></a>&nbsp;
+<a href="https://github.com/Pranavsanthoshnair/ClaimSight-AI"><img src="https://img.shields.io/badge/Repository-161B22?style=for-the-badge&logo=github&logoColor=white" alt="Repository" /></a>
+
+<br /><br />
+
+<sub>🟢 Live &nbsp;·&nbsp; 2024 &nbsp;·&nbsp; AI Platform &nbsp;·&nbsp; Solo Developer</sub>
+
+<br />
+
+<sub><em>"Automation should produce trust, not mystery."</em></sub>
 
 </td>
 </tr>
 </table>
 
-<br />
+<br /><br />
+
+<p align="center"><img src="./assets/divider.svg" width="60%" alt="" /></p>
+
+<br /><br />
+
+<!-- ═══════════════  KMAP  ═══════════════ -->
 
 <a href="https://kmap-navy.vercel.app/">
 <img src="./assets/project-kmap.svg" alt="KMAP — Knowledge Mapping Adaptive Platform" width="100%" />
 </a>
 
+<br />
+
 <table width="100%" cellspacing="0" cellpadding="0" border="0">
 <tr>
-<td width="50%" valign="top">
+<td width="4" bgcolor="#1F6FEB">&nbsp;</td>
+<td width="20">&nbsp;</td>
+<td>
 
-**Privacy-first adaptive learning platform** for rural and low-bandwidth environments. Procedurally generated exercises with a rule engine that adapts difficulty in real-time — no constant internet connection required.
+**KMAP** — Privacy-first adaptive learning platform designed for rural and low-bandwidth environments. Students progress through procedurally generated exercises that adapt in real-time.
 
-</td>
-<td width="48">&nbsp;</td>
-<td width="50%" valign="top">
+<br />
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,supabase,tailwind&theme=dark" height="28" alt="React Next.js TypeScript Supabase Tailwind" />
+**Problem** — Students in rural areas lack stable internet and access to personalized, adaptive learning tools that adjust to their skill level.
+
+**Solution** — Offline-first knowledge capsule architecture with a rule engine that generates procedural questions and adapts difficulty without network dependency.
+
+**Impact** — Enables continuous learning in environments with zero or intermittent connectivity while maintaining academic rigor.
+
+<br />
+
+**Highlights**
+
+- Offline-first architecture with local knowledge capsules
+- Procedural question generation via rule engine
+- Real-time difficulty adaptation based on student performance
+- Privacy-preserving — no data leaves the device without consent
+
+<br />
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,supabase,tailwind&theme=dark" height="24" alt="React Next.js TypeScript Supabase Tailwind" />
 
 <br /><br />
 
-<a href="https://kmap-navy.vercel.app/"><img src="https://img.shields.io/badge/Live%20Demo%20→-0B5FFF?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" /></a>
+<a href="https://kmap-navy.vercel.app/"><img src="https://img.shields.io/badge/Live%20Demo%20→-0B5FFF?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" /></a>&nbsp;
+<a href="https://github.com/Pranavsanthoshnair/KMAP"><img src="https://img.shields.io/badge/Repository-161B22?style=for-the-badge&logo=github&logoColor=white" alt="Repository" /></a>
+
+<br /><br />
+
+<sub>🟢 Live &nbsp;·&nbsp; 2024 &nbsp;·&nbsp; EdTech Platform &nbsp;·&nbsp; Team Lead</sub>
+
+<br />
+
+<sub><em>"Learning shouldn't require a stable connection."</em></sub>
 
 </td>
 </tr>
 </table>
 
-<br />
+<br /><br />
+
+<p align="center"><img src="./assets/divider.svg" width="60%" alt="" /></p>
+
+<br /><br />
+
+<!-- ═══════════════  TRUSIGHT  ═══════════════ -->
 
 <a href="https://trusight.vercel.app/">
 <img src="./assets/project-trusight.svg" alt="TruSight — AI News Aggregation and Bias Detection" width="100%" />
 </a>
 
+<br />
+
 <table width="100%" cellspacing="0" cellpadding="0" border="0">
 <tr>
-<td width="50%" valign="top">
+<td width="4" bgcolor="#1F6FEB">&nbsp;</td>
+<td width="20">&nbsp;</td>
+<td>
 
-**AI-powered news aggregation and bias detection.** Features political bias scoring, voice explanations, a companion browser extension, and authentication — built so users can form more informed opinions.
+**TruSight** — AI-powered news aggregation and political bias detection platform. Helps users read current events with more context and form more informed opinions.
 
-</td>
-<td width="48">&nbsp;</td>
-<td width="50%" valign="top">
+<br />
 
-<img src="https://skillicons.dev/icons?i=nextjs,ts,supabase&theme=dark" height="28" alt="Next.js TypeScript Supabase" />
+**Problem** — News readers struggle to identify political bias in articles and lack tools to compare narratives across sources objectively.
+
+**Solution** — Multi-source aggregation with AI-driven bias scoring, voice-based explanations, and a companion browser extension for in-context analysis.
+
+**Impact** — Empowers readers to understand media slant and make informed judgments instead of accepting single-source narratives.
+
+<br />
+
+**Highlights**
+
+- Political bias detection and scoring across news sources
+- AI-generated voice explanations for quick understanding
+- Browser extension for real-time bias overlay on any article
+- Full authentication and personalized reading history
+
+<br />
+
+<img src="https://skillicons.dev/icons?i=nextjs,ts,supabase&theme=dark" height="24" alt="Next.js TypeScript Supabase" />&nbsp;
+<img src="https://img.shields.io/badge/AI%20APIs-1F6FEB?style=flat-square" alt="AI APIs" />&nbsp;
+<img src="https://img.shields.io/badge/Browser%20Extension-3B82F6?style=flat-square" alt="Browser Extension" />
 
 <br /><br />
 
-<a href="https://trusight.vercel.app/"><img src="https://img.shields.io/badge/Live%20Demo%20→-0B5FFF?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" /></a>
+<a href="https://trusight.vercel.app/"><img src="https://img.shields.io/badge/Live%20Demo%20→-0B5FFF?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" /></a>&nbsp;
+<a href="https://github.com/Pranavsanthoshnair/TruSight"><img src="https://img.shields.io/badge/Repository-161B22?style=for-the-badge&logo=github&logoColor=white" alt="Repository" /></a>
+
+<br /><br />
+
+<sub>🟢 Live &nbsp;·&nbsp; 2024 &nbsp;·&nbsp; News Platform &nbsp;·&nbsp; Solo Developer</sub>
+
+<br />
+
+<sub><em>"Context is the antidote to bias."</em></sub>
 
 </td>
 </tr>
