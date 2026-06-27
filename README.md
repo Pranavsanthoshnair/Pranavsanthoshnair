@@ -150,7 +150,13 @@
 <td width="50%" align="center" valign="top">
 <p><b>Coding Time</b></p>
 <!--START_SECTION:waka-->
-<sub>Waiting for WakaTime data...</sub>
+
+```txt
+Total Time: 0 secs
+
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 </td>
 <td width="50%" align="center" valign="top">
